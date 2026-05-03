@@ -90,22 +90,32 @@ main{padding:16px 0 64px}
 .empty{text-align:center;padding:64px 16px;color:var(--muted)}
 .badge-new{display:inline-block;background:var(--accent);color:#fff;font-size:10px;padding:1px 6px;border-radius:4px;margin-left:6px;vertical-align:middle}
 .region-tag{padding:2px 8px;border-radius:4px;background:var(--panel2);font-size:11px}
+#filterToggle{display:none;flex-shrink:0;white-space:nowrap}
+#filterCount{display:none;background:var(--accent);color:#fff;padding:1px 6px;border-radius:999px;font-size:11px;font-weight:600;margin-left:2px}
+#filterCount.has{display:inline-block}
+.chips{display:flex;flex-wrap:wrap;gap:6px;flex:1}
 /* iPhone & narrow tablets */
 @media (max-width:760px){
   .wrap{padding:0 12px}
   .title-row{padding:10px 0 2px;flex-wrap:wrap}
   h1{font-size:15px}
   .subtitle{font-size:11px;width:100%}
-  .controls{gap:6px;padding:6px 0 10px}
-  .row{flex-wrap:nowrap;overflow-x:auto;-webkit-overflow-scrolling:touch;scrollbar-width:none;padding-bottom:2px}
-  .row::-webkit-scrollbar{display:none}
-  .row > .label{position:sticky;left:0;background:var(--bg);padding-right:8px;z-index:1;flex-shrink:0;min-width:auto;font-weight:500}
-  .row > .chip{flex-shrink:0}
-  .chip{padding:6px 12px;font-size:13px}
+  .controls{gap:8px;padding:6px 0 10px}
+  #filterToggle{display:inline-flex;align-items:center;gap:6px}
+  /* Default collapsed on mobile */
+  #filterRows{display:none}
+  #filterRows.open{display:flex;flex-direction:column;gap:8px;padding:6px 0;border-top:1px dashed var(--border)}
+  /* Each filter row: label fixed + chips horizontally scrollable */
+  #filterRows .row{flex-wrap:nowrap;align-items:center;gap:8px}
+  #filterRows .label{flex-shrink:0;min-width:36px;font-weight:500}
+  #filterRows .chips{flex:1;flex-wrap:nowrap;overflow-x:auto;-webkit-overflow-scrolling:touch;scrollbar-width:none;padding:2px 0;min-width:0}
+  #filterRows .chips::-webkit-scrollbar{display:none}
+  #filterRows .chip{flex-shrink:0}
+  .chip{padding:6px 12px;font-size:13px;min-height:34px;line-height:1.2}
   .search{font-size:16px}
-  .toolbar{flex-direction:column;align-items:stretch;border-top:1px dashed var(--border);padding-top:8px;flex-wrap:wrap;overflow:visible}
-  .toolbar .row{flex-wrap:wrap;overflow:visible;justify-content:flex-end}
-  .toolbar .row > .chip,.toolbar .row > .btn{flex-shrink:0}
+  .toolbar{flex-direction:column;align-items:stretch;border-top:1px dashed var(--border);padding-top:8px;gap:8px}
+  .toolbar > .row{flex-wrap:wrap;justify-content:flex-end;gap:6px}
+  .toolbar .row > .chip,.toolbar .row > .btn{flex-shrink:0;min-height:34px}
   .count{font-size:11px;line-height:1.6}
   .grid{grid-template-columns:1fr;gap:10px}
   .card{padding:12px}
@@ -114,9 +124,7 @@ main{padding:16px 0 64px}
   .dist{padding:4px 10px;font-size:12px}
   .dist:hover{transform:none}
   .month-head h2{font-size:18px}
-  .btn{padding:8px 14px;font-size:13px}
-  /* Make tap targets ≥ 44px on iOS */
-  .chip,.btn{min-height:36px;line-height:1.2}
+  .btn{padding:8px 14px;font-size:13px;min-height:34px}
 }
 @media (max-width:380px){
   h1{font-size:14px}
@@ -157,28 +165,31 @@ main{padding:16px 0 64px}
       <h1>🏃 路跑賽事篩選器 <span class="subtitle">資料來源：taipeimarathon.org.tw · 共 __TOTAL__ 場</span></h1>
     </div>
     <div class="controls">
-      <div class="row">
+      <div class="row search-row">
         <input id="q" class="search" placeholder="搜尋賽事名稱、地點、主辦單位…">
+        <button id="filterToggle" class="btn" type="button">🔧 篩選 <span id="filterCount"></span></button>
       </div>
-      <div class="row">
-        <span class="label">距離</span>
-        <span id="cats"></span>
-      </div>
-      <div class="row">
-        <span class="label">年份</span>
-        <span id="years"></span>
-      </div>
-      <div class="row">
-        <span class="label">月份</span>
-        <span id="months"></span>
-      </div>
-      <div class="row">
-        <span class="label">地區</span>
-        <span id="regions"></span>
-      </div>
-      <div class="row">
-        <span class="label">報名</span>
-        <span id="states"></span>
+      <div id="filterRows">
+        <div class="row">
+          <span class="label">距離</span>
+          <span class="chips" id="cats"></span>
+        </div>
+        <div class="row">
+          <span class="label">年份</span>
+          <span class="chips" id="years"></span>
+        </div>
+        <div class="row">
+          <span class="label">月份</span>
+          <span class="chips" id="months"></span>
+        </div>
+        <div class="row">
+          <span class="label">地區</span>
+          <span class="chips" id="regions"></span>
+        </div>
+        <div class="row">
+          <span class="label">報名</span>
+          <span class="chips" id="states"></span>
+        </div>
       </div>
       <div class="toolbar">
         <span class="count">顯示 <strong id="shown">0</strong> / <span id="total">0</span> 場 · ⭐ 我的清單 <strong id="starCount">0</strong> · ✓ 已選距離 <strong id="pickCount">0</strong></span>
@@ -336,11 +347,18 @@ function card(r){
 
 function escapeHtml(s){return (s||"").replace(/[&<>"']/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));}
 
+function activeFilterCount(){
+  return filters.cats.size+filters.years.size+filters.months.size+filters.regions.size+filters.states.size+(filters.q?1:0);
+}
 function render(){
   renderChips();
   document.getElementById("onlyStarred").classList.toggle("on",filters.onlyStarred);
   document.getElementById("starCount").textContent=starred.size;
   document.getElementById("pickCount").textContent=picks.size;
+  const n=activeFilterCount();
+  const fc=document.getElementById("filterCount");
+  fc.textContent=n?n:"";
+  fc.classList.toggle("has",n>0);
   const list=RACES.filter(matches).sort((a,b)=>((a.year||0)-(b.year||0))||(a.month-b.month)||(a.day-b.day));
   const out=document.getElementById("months-out");
   out.innerHTML="";
@@ -364,6 +382,13 @@ function render(){
 
 document.getElementById("q").addEventListener("input",e=>{filters.q=e.target.value.trim();saveFilters();render();});
 document.getElementById("q").value=filters.q;
+document.getElementById("filterToggle").addEventListener("click",()=>{
+  document.getElementById("filterRows").classList.toggle("open");
+});
+// Auto-expand on mobile if there are active filters when page loads
+if(activeFilterCount()>0 && window.matchMedia("(max-width:760px)").matches){
+  document.getElementById("filterRows").classList.add("open");
+}
 document.getElementById("onlyStarred").addEventListener("click",()=>{filters.onlyStarred=!filters.onlyStarred;saveFilters();render();});
 document.getElementById("clearAll").addEventListener("click",()=>{
   filters.q="";filters.cats.clear();filters.months.clear();filters.years.clear();filters.regions.clear();filters.states.clear();filters.onlyStarred=false;
