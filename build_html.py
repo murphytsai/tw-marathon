@@ -132,6 +132,10 @@ main{padding:16px 0 64px}
         <span id="cats"></span>
       </div>
       <div class="row">
+        <span class="label">年份</span>
+        <span id="years"></span>
+      </div>
+      <div class="row">
         <span class="label">月份</span>
         <span id="months"></span>
       </div>
@@ -183,20 +187,21 @@ const allRegions = [...new Set(RACES.map(r=>r.region))].sort((a,b)=>{
   if(a==="其他")return 1;if(b==="其他")return -1;return a.localeCompare(b,"zh-Hant");
 });
 const allMonths = [...new Set(RACES.map(r=>r.month).filter(Boolean))].sort((a,b)=>a-b);
+const allYears = [...new Set(RACES.map(r=>r.year).filter(Boolean))].sort((a,b)=>a-b);
 
 const filters = Object.assign(
-  {q:"",cats:new Set(),months:new Set(),regions:new Set(),states:new Set(),onlyStarred:false},
+  {q:"",cats:new Set(),months:new Set(),years:new Set(),regions:new Set(),states:new Set(),onlyStarred:false},
   loadFilters()
 );
 
 function loadFilters(){
   try{
     const o=JSON.parse(localStorage.getItem(FILTER_KEY)||"{}");
-    return {q:o.q||"",cats:new Set(o.cats||[]),months:new Set(o.months||[]),regions:new Set(o.regions||[]),states:new Set(o.states||[]),onlyStarred:!!o.onlyStarred};
+    return {q:o.q||"",cats:new Set(o.cats||[]),months:new Set(o.months||[]),years:new Set(o.years||[]),regions:new Set(o.regions||[]),states:new Set(o.states||[]),onlyStarred:!!o.onlyStarred};
   }catch{return{}}
 }
 function saveFilters(){
-  localStorage.setItem(FILTER_KEY,JSON.stringify({q:filters.q,cats:[...filters.cats],months:[...filters.months],regions:[...filters.regions],states:[...filters.states],onlyStarred:filters.onlyStarred}));
+  localStorage.setItem(FILTER_KEY,JSON.stringify({q:filters.q,cats:[...filters.cats],months:[...filters.months],years:[...filters.years],regions:[...filters.regions],states:[...filters.states],onlyStarred:filters.onlyStarred}));
 }
 function saveStars(){localStorage.setItem(STORE_KEY,JSON.stringify([...starred]));}
 function savePicks(){localStorage.setItem(PICKS_KEY,JSON.stringify([...picks]));}
@@ -212,6 +217,8 @@ function makeChip(label,active,onClick,extraCls=""){
 function renderChips(){
   const cats=document.getElementById("cats");cats.innerHTML="";
   allCats.forEach(c=>cats.appendChild(makeChip(c,filters.cats.has(c),()=>{toggle(filters.cats,c);render();})));
+  const ys=document.getElementById("years");ys.innerHTML="";
+  allYears.forEach(y=>ys.appendChild(makeChip(String(y),filters.years.has(y),()=>{toggle(filters.years,y);render();})));
   const ms=document.getElementById("months");ms.innerHTML="";
   allMonths.forEach(m=>ms.appendChild(makeChip(monthNames[m-1],filters.months.has(m),()=>{toggle(filters.months,m);render();})));
   const rs=document.getElementById("regions");rs.innerHTML="";
@@ -235,6 +242,7 @@ function matches(r){
   if(filters.onlyStarred && !starred.has(r.name))return false;
   if(filters.cats.size && !r.categories.some(c=>filters.cats.has(c)))return false;
   if(filters.months.size && !filters.months.has(r.month))return false;
+  if(filters.years.size && !filters.years.has(r.year))return false;
   if(filters.regions.size && !filters.regions.has(r.region))return false;
   if(filters.states.size && !filters.states.has(r.reg_state))return false;
   if(filters.q){
@@ -300,18 +308,19 @@ function render(){
   document.getElementById("onlyStarred").classList.toggle("on",filters.onlyStarred);
   document.getElementById("starCount").textContent=starred.size;
   document.getElementById("pickCount").textContent=picks.size;
-  const list=RACES.filter(matches).sort((a,b)=>(a.month-b.month)||(a.day-b.day));
+  const list=RACES.filter(matches).sort((a,b)=>((a.year||0)-(b.year||0))||(a.month-b.month)||(a.day-b.day));
   const out=document.getElementById("months-out");
   out.innerHTML="";
   const groups=new Map();
-  list.forEach(r=>{const k=r.month||0;if(!groups.has(k))groups.set(k,[]);groups.get(k).push(r);});
-  for(const [m,items] of groups){
+  list.forEach(r=>{const k=`${r.year||0}-${r.month||0}`;if(!groups.has(k))groups.set(k,{year:r.year,month:r.month,items:[]});groups.get(k).items.push(r);});
+  for(const [,g] of groups){
     const sec=document.createElement("section");sec.className="month-section";
     const head=document.createElement("div");head.className="month-head";
-    head.innerHTML=`<h2>${m?monthNames[m-1]:"未排定"}</h2><span class="month-meta">${items.length} 場</span>`;
+    const title=g.month?`${g.year||"?"} · ${monthNames[g.month-1]}`:"未排定";
+    head.innerHTML=`<h2>${title}</h2><span class="month-meta">${g.items.length} 場</span>`;
     sec.appendChild(head);
     const grid=document.createElement("div");grid.className="grid";
-    items.forEach(r=>grid.appendChild(card(r)));
+    g.items.forEach(r=>grid.appendChild(card(r)));
     sec.appendChild(grid);
     out.appendChild(sec);
   }
@@ -324,7 +333,7 @@ document.getElementById("q").addEventListener("input",e=>{filters.q=e.target.val
 document.getElementById("q").value=filters.q;
 document.getElementById("onlyStarred").addEventListener("click",()=>{filters.onlyStarred=!filters.onlyStarred;saveFilters();render();});
 document.getElementById("clearAll").addEventListener("click",()=>{
-  filters.q="";filters.cats.clear();filters.months.clear();filters.regions.clear();filters.states.clear();filters.onlyStarred=false;
+  filters.q="";filters.cats.clear();filters.months.clear();filters.years.clear();filters.regions.clear();filters.states.clear();filters.onlyStarred=false;
   document.getElementById("q").value="";saveFilters();render();
 });
 document.getElementById("printPdf").addEventListener("click",()=>{

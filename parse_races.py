@@ -116,7 +116,35 @@ for tr in table.find_all("tr"):
         "month_tag": month_tag.get_text(strip=True) if month_tag else "",
     })
 
+# Assign year by walking source order. Source is chronological; when the
+# month *decreases* between consecutive races, we crossed into the next year.
+# We anchor at "today's year" for the first non-past race.
+TODAY_YEAR = 2026
+TODAY_MONTH = 5
+year = TODAY_YEAR
+prev_month = None
+for r in races:
+    m = r["month"]
+    if m is None:
+        r["year"] = None
+        continue
+    if r["is_past"]:
+        # past races appear at the very top (already-happened in current year)
+        r["year"] = TODAY_YEAR
+        prev_month = m
+        continue
+    if prev_month is not None and m < prev_month:
+        # Month went backwards — we rolled into the next year
+        year += 1
+    r["year"] = year
+    prev_month = m
+
 print(f"Parsed {len(races)} races")
+years = sorted({r['year'] for r in races if r['year']})
+print("Years detected:", years)
+for y in years:
+    cnt = sum(1 for r in races if r['year']==y)
+    print(f"  {y}: {cnt} races")
 Path("/Volumes/myData-2T/Code/my-dev/sports/races.json").write_text(
     json.dumps(races, ensure_ascii=False, indent=2), encoding="utf-8"
 )
