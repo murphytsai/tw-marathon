@@ -1,0 +1,51 @@
+name: Auto Deploy to GitHub Pages
+
+on:
+  schedule:
+    # Runs at 00:00 UTC (08:00 Taipei time) every Monday
+    - cron: '0 0 * * 1'
+  workflow_dispatch: # Allows manual trigger from GitHub Actions UI
+
+permissions:
+  contents: write
+
+jobs:
+  build-and-deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Install uv
+        uses: astral-sh/setup-uv@v5
+        with:
+          enable-cache: true
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version-file: "pyproject.toml"
+
+      - name: Fetch latest contest data
+        run: |
+          curl -sL -A "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" http://www.taipeimarathon.org.tw/contest.aspx -o /tmp/contest.html
+
+      - name: Parse races
+        run: uv run parse_races.py
+
+      - name: Build HTML
+        run: uv run build_html.py
+
+      - name: Commit and push if changed
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          
+          # Check if races.json or index.html changed
+          if [ -n "$(git status --porcelain index.html races.json)" ]; then
+            git add index.html races.json
+            git commit -m "chore: auto-update race data and build page [skip ci]"
+            git push
+          else
+            echo "No changes in race data or HTML. Skipping push."
+          fi

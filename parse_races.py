@@ -1,11 +1,19 @@
 """Parse Taipei Marathon contest page into structured JSON."""
 import json
 import re
+from datetime import datetime, timezone, timedelta
 from pathlib import Path
 from bs4 import BeautifulSoup
 
 html = Path("/tmp/contest.html").read_text(encoding="utf-8")
 soup = BeautifulSoup(html, "html.parser")
+
+# Get current time in Taipei (UTC+8) to dynamically calculate registration state and years
+tz_taipei = timezone(timedelta(hours=8))
+now_taipei = datetime.now(tz_taipei)
+today_md = (now_taipei.month, now_taipei.day)
+TODAY_YEAR = now_taipei.year
+TODAY_MONTH = now_taipei.month
 
 table = soup.find("table", id="GridView1")
 races = []
@@ -48,7 +56,7 @@ for tr in table.find_all("tr"):
     region = region_m.group(1) if region_m else "其他"
 
     # Status normalization → reg_state: closed | open | upcoming | unknown
-    today = (5, 3)  # 2026-05-03
+    today = today_md
     s = status.strip()
     norm_status = s
 
@@ -119,8 +127,6 @@ for tr in table.find_all("tr"):
 # Assign year by walking source order. Source is chronological; when the
 # month *decreases* between consecutive races, we crossed into the next year.
 # We anchor at "today's year" for the first non-past race.
-TODAY_YEAR = 2026
-TODAY_MONTH = 5
 year = TODAY_YEAR
 prev_month = None
 for r in races:
