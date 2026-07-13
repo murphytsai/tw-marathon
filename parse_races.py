@@ -151,7 +151,7 @@ print("Years detected:", years)
 for y in years:
     cnt = sum(1 for r in races if r['year']==y)
     print(f"  {y}: {cnt} races")
-Path("/Volumes/myData-2T/Code/my-dev/sports/races.json").write_text(
+(Path(__file__).parent / "races.json").write_text(
     json.dumps(races, ensure_ascii=False, indent=2), encoding="utf-8"
 )
 print("Categories:", sorted({c for r in races for c in r["categories"]}))
