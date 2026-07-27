@@ -14,21 +14,25 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v4
+        uses: actions/checkout@v5
 
       - name: Install uv
-        uses: astral-sh/setup-uv@v5
+        uses: astral-sh/setup-uv@v9
         with:
           enable-cache: true
 
       - name: Set up Python
-        uses: actions/setup-python@v5
+        uses: actions/setup-python@v6
         with:
           python-version-file: "pyproject.toml"
 
       - name: Fetch latest contest data
         run: |
-          curl -sL -A "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" http://www.taipeimarathon.org.tw/contest.aspx -o /tmp/contest.html
+          curl --fail --show-error --silent --location --retry 3 --retry-delay 5 \
+            --connect-timeout 15 --max-time 60 \
+            -A "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" \
+            https://www.taipeimarathon.org.tw/contest.aspx -o /tmp/contest.html
+          test -s /tmp/contest.html
 
       - name: Parse races
         run: uv run parse_races.py

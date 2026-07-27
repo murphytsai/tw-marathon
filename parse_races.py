@@ -8,6 +8,13 @@ from bs4 import BeautifulSoup
 html = Path("/tmp/contest.html").read_text(encoding="utf-8")
 soup = BeautifulSoup(html, "html.parser")
 
+table = soup.find("table", id="GridView1")
+if table is None:
+    raise RuntimeError(
+        "The contest page did not contain table#GridView1; "
+        "the upstream site may be unavailable or its HTML may have changed."
+    )
+
 # Get current time in Taipei (UTC+8) to dynamically calculate registration state and years
 tz_taipei = timezone(timedelta(hours=8))
 now_taipei = datetime.now(tz_taipei)
@@ -15,7 +22,6 @@ today_md = (now_taipei.month, now_taipei.day)
 TODAY_YEAR = now_taipei.year
 TODAY_MONTH = now_taipei.month
 
-table = soup.find("table", id="GridView1")
 races = []
 for tr in table.find_all("tr"):
     tds = tr.find_all("td")
