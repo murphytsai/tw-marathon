@@ -2,8 +2,8 @@ name: Auto Deploy to GitHub Pages
 
 on:
   schedule:
-    # Runs at 00:00 UTC (08:00 Taipei time) every Monday
-    - cron: '0 0 * * 1'
+    # Runs at 02:00 UTC (10:00 Taipei time) every Monday
+    - cron: '0 2 * * 1'
   workflow_dispatch: # Allows manual trigger from GitHub Actions UI
 
 permissions:
