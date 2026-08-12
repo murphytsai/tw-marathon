@@ -1,46 +1,5 @@
 [
   {
-    "name": "2026 嘉義雙潭星光路跑",
-    "link": "https://ctrun.tw/CYSK0808",
-    "date_raw": "08/08 六 18:00",
-    "month": 8,
-    "day": 8,
-    "weekday": "六",
-    "start_time": "18:00",
-    "location": "嘉義市東區蘭潭國民中學",
-    "region": "嘉義市",
-    "distances": [
-      {
-        "label": "13K",
-        "fee": 1180,
-        "limit": 1000
-      },
-      {
-        "label": "6.5K",
-        "fee": 1080,
-        "limit": 1500
-      },
-      {
-        "label": "3.5K",
-        "fee": 980,
-        "limit": 1500
-      }
-    ],
-    "categories": [
-      "10K+",
-      "休閒"
-    ],
-    "max_km": 13.0,
-    "organizer": "嘉義市政府",
-    "status": "已截止",
-    "status_raw": "已截止",
-    "reg_state": "closed",
-    "is_past": true,
-    "is_new": false,
-    "month_tag": "8月",
-    "year": 2026
-  },
-  {
     "name": "2026 聖母廟月老姻緣紅線牽馬拉松",
     "link": "https://bao-ming.com/eb/content/6926#32531",
     "date_raw": "08/15 六 16:00",
@@ -85,7 +44,7 @@
     "reg_state": "closed",
     "is_past": false,
     "is_new": false,
-    "month_tag": "",
+    "month_tag": "8月",
     "year": 2026
   },
   {
@@ -703,11 +662,41 @@
     ],
     "max_km": 100.7,
     "organizer": "府城國際超級馬拉松協會",
-    "status": "4月10日 ~ 8月14日 (最後四天)",
-    "status_raw": "4月10日 ~ 8月14日 (最後四天)",
+    "status": "4月10日 ~ 8月14日 (最後三天)",
+    "status_raw": "4月10日 ~ 8月14日 (最後三天)",
     "reg_state": "open",
     "is_past": false,
     "is_new": false,
+    "month_tag": "",
+    "year": 2026
+  },
+  {
+    "name": "2026 三菱重工空調  一起跑上太空",
+    "link": "",
+    "date_raw": "09/13 日",
+    "month": 9,
+    "day": 13,
+    "weekday": "日",
+    "start_time": "",
+    "location": "臺南市大內區南瀛天文館",
+    "region": "臺南市",
+    "distances": [
+      {
+        "label": "5K",
+        "fee": null,
+        "limit": null
+      }
+    ],
+    "categories": [
+      "休閒"
+    ],
+    "max_km": 5.0,
+    "organizer": "上洋產業股份有限公司/三菱重工空調",
+    "status": "",
+    "status_raw": "",
+    "reg_state": "upcoming",
+    "is_past": false,
+    "is_new": true,
     "month_tag": "",
     "year": 2026
   },
@@ -1387,8 +1376,8 @@
     ],
     "max_km": 0.2,
     "organizer": "花蓮縣體育會/台灣耐力運動協會",
-    "status": "~ 8月15日 (最後一週)",
-    "status_raw": "~ 8月15日 (最後一週)",
+    "status": "~ 8月15日 (最後四天)",
+    "status_raw": "~ 8月15日 (最後四天)",
     "reg_state": "open",
     "is_past": false,
     "is_new": false,
@@ -1907,8 +1896,8 @@
     ],
     "max_km": 3.0,
     "organizer": "花蓮縣體育會/台灣耐力運動協會",
-    "status": "~ 8月15日 (最後一週)",
-    "status_raw": "~ 8月15日 (最後一週)",
+    "status": "~ 8月15日 (最後四天)",
+    "status_raw": "~ 8月15日 (最後四天)",
     "reg_state": "open",
     "is_past": false,
     "is_new": false,
@@ -2073,8 +2062,8 @@
     ],
     "max_km": 10.0,
     "organizer": "公勝保險經紀人股份有限公司/全統運動用品股份有限公司",
-    "status": "6月22日 ~ 8月14日 (最後四天)",
-    "status_raw": "6月22日 ~ 8月14日 (最後四天)",
+    "status": "6月22日 ~ 8月14日 (最後三天)",
+    "status_raw": "6月22日 ~ 8月14日 (最後三天)",
     "reg_state": "open",
     "is_past": false,
     "is_new": true,
@@ -2706,8 +2695,8 @@
     ],
     "max_km": 21.0,
     "organizer": "金車大塚股份有限公司/寶康行銷股份有限公司",
-    "status": "6月01日 ~ 8月14日 (最後四天)",
-    "status_raw": "6月01日 ~ 8月14日 (最後四天)",
+    "status": "6月01日 ~ 8月14日 (最後三天)",
+    "status_raw": "6月01日 ~ 8月14日 (最後三天)",
     "reg_state": "open",
     "is_past": false,
     "is_new": false,
@@ -3569,11 +3558,11 @@
     ],
     "max_km": 10.0,
     "organizer": "新北市政府勞工局",
-    "status": "6月26日 ~ 8月11日 (最後一天)",
-    "status_raw": "6月26日 ~ 8月11日 (最後一天)",
+    "status": "6月26日 ~ 8月27日",
+    "status_raw": "6月26日 ~ 8月27日",
     "reg_state": "open",
     "is_past": false,
-    "is_new": false,
+    "is_new": true,
     "month_tag": "",
     "year": 2026
   },
@@ -4076,9 +4065,9 @@
     ],
     "max_km": 42.195,
     "organizer": "交通部觀光署澎湖國家風景區管理處",
-    "status": "~ 8月11日 (最後一天)",
-    "status_raw": "~ 8月11日 (最後一天)",
-    "reg_state": "open",
+    "status": "已截止",
+    "status_raw": "已截止",
+    "reg_state": "closed",
     "is_past": false,
     "is_new": false,
     "month_tag": "",
@@ -4248,8 +4237,8 @@
     ],
     "max_km": 21.0,
     "organizer": "臺中市政府運動局/臺中市豐原慢跑協會",
-    "status": "7月01日 ~ 8月15日 (最後一週)",
-    "status_raw": "7月01日 ~ 8月15日 (最後一週)",
+    "status": "7月01日 ~ 8月15日 (最後四天)",
+    "status_raw": "7月01日 ~ 8月15日 (最後四天)",
     "reg_state": "open",
     "is_past": false,
     "is_new": false,
@@ -5059,8 +5048,8 @@
     ],
     "max_km": 42.195,
     "organizer": "蘆洲區體育會/蘆洲慢跑",
-    "status": "~ 8月15日 (最後一週)",
-    "status_raw": "~ 8月15日 (最後一週)",
+    "status": "~ 8月15日 (最後四天)",
+    "status_raw": "~ 8月15日 (最後四天)",
     "reg_state": "open",
     "is_past": false,
     "is_new": false,
@@ -5847,8 +5836,8 @@
     ],
     "max_km": 21.0,
     "organizer": "全統運動用品股份有限公司",
-    "status": "6月25日 ~ 8月13日 (最後三天)",
-    "status_raw": "6月25日 ~ 8月13日 (最後三天)",
+    "status": "6月25日 ~ 8月13日 (最後二天)",
+    "status_raw": "6月25日 ~ 8月13日 (最後二天)",
     "reg_state": "open",
     "is_past": false,
     "is_new": false,
@@ -7313,32 +7302,32 @@
     "year": 2027
   },
   {
-    "name": "2027南投縣仁愛鄉原住民三鐵挑戰賽",
+    "name": "2027 南投縣仁愛鄉原住民三鐵挑戰賽",
     "link": "https://www.focusline.com.tw/270110KW?promo=taipeimarathon",
     "date_raw": "01/10 日 07:00",
     "month": 1,
     "day": 10,
     "weekday": "日",
     "start_time": "07:00",
-    "location": "南投縣仁愛鄉互助國小(546南投縣仁愛鄉互助村中華路19號)",
+    "location": "南投縣仁愛鄉互助國小",
     "region": "南投縣",
     "distances": [
       {
-        "label": "9.1K+33K",
-        "fee": null,
+        "label": "9K+33K",
+        "fee": 1300,
         "limit": null
       }
     ],
     "categories": [
       "休閒"
     ],
-    "max_km": 9.1,
+    "max_km": 9.0,
     "organizer": "南投縣仁愛鄉公所",
-    "status": "",
-    "status_raw": "",
-    "reg_state": "upcoming",
+    "status": "~ 11月30日",
+    "status_raw": "~ 11月30日",
+    "reg_state": "open",
     "is_past": false,
-    "is_new": false,
+    "is_new": true,
     "month_tag": "",
     "year": 2027
   },
@@ -7750,56 +7739,50 @@
     "year": 2027
   },
   {
-    "name": "2027第四屆仁愛鄉賽德克櫻花季馬拉松",
+    "name": "2027 第四屆仁愛鄉賽德克櫻花季馬拉松",
     "link": "https://fsurl.cc/270214KV/taipeimarathon",
     "date_raw": "02/14 日 06:30",
     "month": 2,
     "day": 14,
     "weekday": "日",
     "start_time": "06:30",
-    "location": "仁愛鄉春陽村第四班櫻花大道台14線83.5公里處",
-    "region": "其他",
+    "location": "南投縣仁愛鄉春陽村第四班櫻花大道",
+    "region": "南投縣",
     "distances": [
       {
-        "label": "42K",
-        "fee": null,
-        "limit": null
+        "label": "42.195K",
+        "fee": 1500,
+        "limit": 400
       },
       {
         "label": "21K",
-        "fee": null,
-        "limit": null
+        "fee": 1300,
+        "limit": 300
       },
       {
         "label": "10K",
-        "fee": null,
-        "limit": null
+        "fee": 1100,
+        "limit": 200
       },
       {
         "label": "5K",
-        "fee": null,
-        "limit": null
-      },
-      {
-        "label": "",
-        "fee": null,
-        "limit": null
+        "fee": 900,
+        "limit": 100
       }
     ],
     "categories": [
       "10K+",
       "休閒",
       "全馬",
-      "半馬",
-      "特殊"
+      "半馬"
     ],
-    "max_km": 42.0,
+    "max_km": 42.195,
     "organizer": "南投縣仁愛鄉公所",
-    "status": "",
-    "status_raw": "",
-    "reg_state": "upcoming",
+    "status": "~ 11月30日",
+    "status_raw": "~ 11月30日",
+    "reg_state": "open",
     "is_past": false,
-    "is_new": false,
+    "is_new": true,
     "month_tag": "2月",
     "year": 2027
   },
@@ -7878,8 +7861,8 @@
     "day": 28,
     "weekday": "日",
     "start_time": "06:00",
-    "location": "員林家商",
-    "region": "其他",
+    "location": "彰化縣員林市員林家商",
+    "region": "彰化縣",
     "distances": [
       {
         "label": "42.195K",
@@ -7909,13 +7892,55 @@
       "半馬"
     ],
     "max_km": 42.195,
-    "organizer": "旭展國際同濟會/台灣大腳丫長跑協會",
+    "organizer": "旭展國際同濟會/臺灣大腳丫長跑協會",
     "status": "",
     "status_raw": "",
     "reg_state": "upcoming",
     "is_past": false,
-    "is_new": false,
+    "is_new": true,
     "month_tag": "",
+    "year": 2027
+  },
+  {
+    "name": "2027 臺南古都國際半程馬拉松",
+    "link": "",
+    "date_raw": "03/07 日",
+    "month": 3,
+    "day": 7,
+    "weekday": "日",
+    "start_time": "",
+    "location": "臺南市安平區永華市政中心南島路",
+    "region": "臺南市",
+    "distances": [
+      {
+        "label": "21.0975K",
+        "fee": null,
+        "limit": null
+      },
+      {
+        "label": "10K",
+        "fee": null,
+        "limit": null
+      },
+      {
+        "label": "5K",
+        "fee": null,
+        "limit": null
+      }
+    ],
+    "categories": [
+      "10K+",
+      "休閒",
+      "半馬"
+    ],
+    "max_km": 21.0975,
+    "organizer": "",
+    "status": "",
+    "status_raw": "",
+    "reg_state": "upcoming",
+    "is_past": false,
+    "is_new": true,
+    "month_tag": "3月",
     "year": 2027
   },
   {
@@ -7937,7 +7962,7 @@
     "reg_state": "upcoming",
     "is_past": false,
     "is_new": false,
-    "month_tag": "3月",
+    "month_tag": "",
     "year": 2027
   },
   {
@@ -8443,7 +8468,7 @@
     "day": 18,
     "weekday": "日",
     "start_time": "",
-    "location": "高雄市左營區世運主場館",
+    "location": "高雄市鹽埕區港灣文化廊帶(駁二x高流)",
     "region": "高雄市",
     "distances": [
       {
