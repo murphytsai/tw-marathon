@@ -42,7 +42,7 @@
     "status": "已截止",
     "status_raw": "已截止",
     "reg_state": "closed",
-    "is_past": false,
+    "is_past": true,
     "is_new": false,
     "month_tag": "8月",
     "year": 2026
@@ -69,8 +69,8 @@
     ],
     "max_km": 5.0,
     "organizer": "捷迅股份有限公司",
-    "status": "8月10日 ~ 8月16日 (最後二天)",
-    "status_raw": "8月10日 ~ 8月16日 (最後二天)",
+    "status": "8月10日 ~ 8月16日 (最後一天)",
+    "status_raw": "8月10日 ~ 8月16日 (最後一天)",
     "reg_state": "open",
     "is_past": false,
     "is_new": false,
@@ -1346,9 +1346,9 @@
     ],
     "max_km": 0.2,
     "organizer": "花蓮縣體育會/台灣耐力運動協會",
-    "status": "~ 8月15日 (最後一天)",
-    "status_raw": "~ 8月15日 (最後一天)",
-    "reg_state": "open",
+    "status": "已截止",
+    "status_raw": "已截止",
+    "reg_state": "closed",
     "is_past": false,
     "is_new": false,
     "month_tag": "",
@@ -1866,9 +1866,9 @@
     ],
     "max_km": 3.0,
     "organizer": "花蓮縣體育會/台灣耐力運動協會",
-    "status": "~ 8月15日 (最後一天)",
-    "status_raw": "~ 8月15日 (最後一天)",
-    "reg_state": "open",
+    "status": "已截止",
+    "status_raw": "已截止",
+    "reg_state": "closed",
     "is_past": false,
     "is_new": false,
     "month_tag": "",
@@ -1954,8 +1954,8 @@
     ],
     "max_km": 21.0,
     "organizer": "東遠碾米廠",
-    "status": "2月10日 ~ 8月16日 (最後二天)",
-    "status_raw": "2月10日 ~ 8月16日 (最後二天)",
+    "status": "2月10日 ~ 8月16日 (最後一天)",
+    "status_raw": "2月10日 ~ 8月16日 (最後一天)",
     "reg_state": "open",
     "is_past": false,
     "is_new": false,
@@ -2617,8 +2617,8 @@
     ],
     "max_km": 42.195,
     "organizer": "臺中市政府運動局/社團法人臺中市繁榮葫蘆墩促進會",
-    "status": "5月17日 ~ 8月16日 (最後二天)",
-    "status_raw": "5月17日 ~ 8月16日 (最後二天)",
+    "status": "5月17日 ~ 8月16日 (最後一天)",
+    "status_raw": "5月17日 ~ 8月16日 (最後一天)",
     "reg_state": "open",
     "is_past": false,
     "is_new": false,
@@ -2922,48 +2922,6 @@
     "year": 2026
   },
   {
-    "name": "2026 濁水溪紫金馬拉松-高手名間站",
-    "link": "https://fsurl.cc/261024HY",
-    "date_raw": "10/24 六",
-    "month": 10,
-    "day": 24,
-    "weekday": "六",
-    "start_time": "",
-    "location": "受天宮第二停車場",
-    "region": "其他",
-    "distances": [
-      {
-        "label": "21K",
-        "fee": null,
-        "limit": null
-      },
-      {
-        "label": "11K",
-        "fee": null,
-        "limit": null
-      },
-      {
-        "label": "6K",
-        "fee": null,
-        "limit": null
-      }
-    ],
-    "categories": [
-      "10K+",
-      "休閒",
-      "半馬"
-    ],
-    "max_km": 21.0,
-    "organizer": "名間鄉公所",
-    "status": "",
-    "status_raw": "",
-    "reg_state": "upcoming",
-    "is_past": false,
-    "is_new": true,
-    "month_tag": "",
-    "year": 2026
-  },
-  {
     "name": "2026 台糖公益路跑",
     "link": "https://ctrun.tw/TSC1024",
     "date_raw": "10/24 六 06:30",
@@ -3007,7 +2965,7 @@
   },
   {
     "name": "2026 北埔膨風路跑嘉年華",
-    "link": "",
+    "link": "https://bao-ming.com/eb/content/7046#33022",
     "date_raw": "10/24 六 06:30",
     "month": 10,
     "day": 24,
@@ -3019,17 +2977,17 @@
       {
         "label": "21K",
         "fee": null,
-        "limit": null
+        "limit": 300
       },
       {
         "label": "10K",
         "fee": null,
-        "limit": null
+        "limit": 500
       },
       {
         "label": "5K",
         "fee": null,
-        "limit": null
+        "limit": 500
       }
     ],
     "categories": [
@@ -3039,11 +2997,53 @@
     ],
     "max_km": 21.0,
     "organizer": "北埔鄉公所",
-    "status": "",
-    "status_raw": "",
-    "reg_state": "upcoming",
+    "status": "~ 9月17日",
+    "status_raw": "~ 9月17日",
+    "reg_state": "open",
     "is_past": false,
-    "is_new": false,
+    "is_new": true,
+    "month_tag": "",
+    "year": 2026
+  },
+  {
+    "name": "2026 濁水溪紫金馬拉松-高手名間站",
+    "link": "https://fsurl.cc/261024HY",
+    "date_raw": "10/24 六 06:30",
+    "month": 10,
+    "day": 24,
+    "weekday": "六",
+    "start_time": "06:30",
+    "location": "南投縣名間鄉受天宮第二停車場",
+    "region": "南投縣",
+    "distances": [
+      {
+        "label": "21K",
+        "fee": 1000,
+        "limit": null
+      },
+      {
+        "label": "11K",
+        "fee": 800,
+        "limit": null
+      },
+      {
+        "label": "6K",
+        "fee": 600,
+        "limit": null
+      }
+    ],
+    "categories": [
+      "10K+",
+      "休閒",
+      "半馬"
+    ],
+    "max_km": 21.0,
+    "organizer": "名間鄉公所",
+    "status": "~ 9月15日",
+    "status_raw": "~ 9月15日",
+    "reg_state": "open",
+    "is_past": false,
+    "is_new": true,
     "month_tag": "",
     "year": 2026
   },
@@ -3579,6 +3579,53 @@
     "reg_state": "open",
     "is_past": false,
     "is_new": false,
+    "month_tag": "",
+    "year": 2026
+  },
+  {
+    "name": "2026 風起台76・海野山共行馬拉松",
+    "link": "https://irunner.biji.co/Expressway76",
+    "date_raw": "10/31 六 07:10",
+    "month": 10,
+    "day": 31,
+    "weekday": "六",
+    "start_time": "07:10",
+    "location": "彰化縣埔鹽鄉新水四聖宮前廣場",
+    "region": "彰化縣",
+    "distances": [
+      {
+        "label": "21K",
+        "fee": 1100,
+        "limit": 600
+      },
+      {
+        "label": "10K",
+        "fee": 900,
+        "limit": 800
+      },
+      {
+        "label": "5K",
+        "fee": 600,
+        "limit": 600
+      },
+      {
+        "label": "3K",
+        "fee": 0,
+        "limit": 800
+      }
+    ],
+    "categories": [
+      "10K+",
+      "休閒",
+      "半馬"
+    ],
+    "max_km": 21.0,
+    "organizer": "交通部公路局北區公路新建工程分局",
+    "status": "8月15日 ~ 9月07日",
+    "status_raw": "8月15日 ~ 9月07日",
+    "reg_state": "open",
+    "is_past": false,
+    "is_new": true,
     "month_tag": "",
     "year": 2026
   },
@@ -4207,9 +4254,9 @@
     ],
     "max_km": 21.0,
     "organizer": "臺中市政府運動局/臺中市豐原慢跑協會",
-    "status": "7月01日 ~ 8月15日 (最後一天)",
-    "status_raw": "7月01日 ~ 8月15日 (最後一天)",
-    "reg_state": "open",
+    "status": "已截止",
+    "status_raw": "已截止",
+    "reg_state": "closed",
     "is_past": false,
     "is_new": false,
     "month_tag": "",
@@ -5018,9 +5065,9 @@
     ],
     "max_km": 42.195,
     "organizer": "蘆洲區體育會/蘆洲慢跑",
-    "status": "~ 8月15日 (最後一天)",
-    "status_raw": "~ 8月15日 (最後一天)",
-    "reg_state": "open",
+    "status": "已截止",
+    "status_raw": "已截止",
+    "reg_state": "closed",
     "is_past": false,
     "is_new": false,
     "month_tag": "",
@@ -5252,6 +5299,48 @@
     "reg_state": "open",
     "is_past": false,
     "is_new": false,
+    "month_tag": "",
+    "year": 2026
+  },
+  {
+    "name": "2026 六堆客庄巡禮走相逐",
+    "link": "https://www.joinnow.com.tw/about.php?cnt_id=146&type=1",
+    "date_raw": "11/21 六 07:00",
+    "month": 11,
+    "day": 21,
+    "weekday": "六",
+    "start_time": "07:00",
+    "location": "屏東縣內埔鄉六堆客家文化園區",
+    "region": "屏東縣",
+    "distances": [
+      {
+        "label": "21K",
+        "fee": 900,
+        "limit": 300
+      },
+      {
+        "label": "10K",
+        "fee": 700,
+        "limit": 300
+      },
+      {
+        "label": "6K",
+        "fee": 400,
+        "limit": 600
+      }
+    ],
+    "categories": [
+      "10K+",
+      "休閒",
+      "半馬"
+    ],
+    "max_km": 21.0,
+    "organizer": "客家委員會客家文化發展中心",
+    "status": "8月17日 ~ 9月20日",
+    "status_raw": "8月17日 ~ 9月20日",
+    "reg_state": "upcoming",
+    "is_past": false,
+    "is_new": true,
     "month_tag": "",
     "year": 2026
   },
@@ -7484,7 +7573,7 @@
     "status_raw": "7月14日 ~ 10月30日",
     "reg_state": "open",
     "is_past": false,
-    "is_new": true,
+    "is_new": false,
     "month_tag": "",
     "year": 2027
   },
