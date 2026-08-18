@@ -1558,8 +1558,8 @@
     ],
     "max_km": 42.195,
     "organizer": "綠島鄉公所",
-    "status": "6月18日 ~ 8月20日 (最後四天)",
-    "status_raw": "6月18日 ~ 8月20日 (最後四天)",
+    "status": "6月18日 ~ 8月20日 (最後三天)",
+    "status_raw": "6月18日 ~ 8月20日 (最後三天)",
     "reg_state": "open",
     "is_past": false,
     "is_new": false,
@@ -1606,11 +1606,11 @@
     ],
     "max_km": 42.195,
     "organizer": "宜蘭縣政府/羅東鎮體育會慢跑委員會",
-    "status": "4月20日 ~ 8月20日 (最後四天)",
-    "status_raw": "4月20日 ~ 8月20日 (最後四天)",
+    "status": "4月20日 ~ 8月20日 (最後三天)",
+    "status_raw": "4月20日 ~ 8月20日 (最後三天)",
     "reg_state": "open",
     "is_past": false,
-    "is_new": true,
+    "is_new": false,
     "month_tag": "",
     "year": 2026
   },
@@ -1701,8 +1701,8 @@
     ],
     "max_km": 42.195,
     "organizer": "有藝思國際娛樂有限公司",
-    "status": "3月12日 ~ 8月20日 (最後四天)",
-    "status_raw": "3月12日 ~ 8月20日 (最後四天)",
+    "status": "3月12日 ~ 8月20日 (最後三天)",
+    "status_raw": "3月12日 ~ 8月20日 (最後三天)",
     "reg_state": "open",
     "is_past": false,
     "is_new": false,
@@ -2236,6 +2236,48 @@
     "year": 2026
   },
   {
+    "name": "2026 國際女孩日水水運動節",
+    "link": "https://irunner.biji.co/internationalgirlsfestival",
+    "date_raw": "10/11 日",
+    "month": 10,
+    "day": 11,
+    "weekday": "日",
+    "start_time": "",
+    "location": "彰化縣田中鎮美夢成真廊道",
+    "region": "彰化縣",
+    "distances": [
+      {
+        "label": "21K",
+        "fee": null,
+        "limit": null
+      },
+      {
+        "label": "10K",
+        "fee": null,
+        "limit": null
+      },
+      {
+        "label": "3K",
+        "fee": null,
+        "limit": null
+      }
+    ],
+    "categories": [
+      "10K+",
+      "休閒",
+      "半馬"
+    ],
+    "max_km": 21.0,
+    "organizer": "彰化縣馬拉松路跑協會/二社田社區大學",
+    "status": "",
+    "status_raw": "",
+    "reg_state": "upcoming",
+    "is_past": false,
+    "is_new": true,
+    "month_tag": "",
+    "year": 2026
+  },
+  {
     "name": "2026 蘆竹機捷馬拉松",
     "link": "https://www.focusline.com.tw/261011IY?promo=taipeimarathon",
     "date_raw": "10/11 日 05:30",
@@ -2617,11 +2659,11 @@
     ],
     "max_km": 42.195,
     "organizer": "臺中市政府運動局/社團法人臺中市繁榮葫蘆墩促進會",
-    "status": "已截止",
-    "status_raw": "已截止",
-    "reg_state": "closed",
+    "status": "5月17日 ~ 8月23日 (最後一週)",
+    "status_raw": "5月17日 ~ 8月23日 (最後一週)",
+    "reg_state": "open",
     "is_past": false,
-    "is_new": false,
+    "is_new": true,
     "month_tag": "",
     "year": 2026
   },
@@ -3396,11 +3438,11 @@
     ],
     "max_km": 21.0,
     "organizer": "嘉義縣水上鄉公所",
-    "status": "已截止",
-    "status_raw": "已截止",
-    "reg_state": "closed",
+    "status": "6月11日 ~ 8月23日 (最後一週)",
+    "status_raw": "6月11日 ~ 8月23日 (最後一週)",
+    "reg_state": "open",
     "is_past": false,
-    "is_new": false,
+    "is_new": true,
     "month_tag": "",
     "year": 2026
   },
@@ -4253,12 +4295,12 @@
       "半馬"
     ],
     "max_km": 21.0,
-    "organizer": "臺中市政府運動局/臺中市豐原慢跑協會",
-    "status": "已截止",
-    "status_raw": "已截止",
-    "reg_state": "closed",
+    "organizer": "臺中市政府運動局/臺中市政府建設局",
+    "status": "7月01日 ~ 8月31日",
+    "status_raw": "7月01日 ~ 8月31日",
+    "reg_state": "open",
     "is_past": false,
-    "is_new": false,
+    "is_new": true,
     "month_tag": "",
     "year": 2026
   },
@@ -5065,11 +5107,11 @@
     ],
     "max_km": 42.195,
     "organizer": "蘆洲區體育會/蘆洲慢跑",
-    "status": "已截止",
-    "status_raw": "已截止",
-    "reg_state": "closed",
+    "status": "~ 9月30日",
+    "status_raw": "~ 9月30日",
+    "reg_state": "open",
     "is_past": false,
-    "is_new": false,
+    "is_new": true,
     "month_tag": "",
     "year": 2026
   },
@@ -6831,54 +6873,6 @@
     "year": 2026
   },
   {
-    "name": "南華大學30周年 三好南華杯_城堡馬拉松",
-    "link": "https://lohasnet.tw/#/event",
-    "date_raw": "12/20 日",
-    "month": 12,
-    "day": 20,
-    "weekday": "日",
-    "start_time": "",
-    "location": "嘉義縣大林鎮南華大學",
-    "region": "嘉義縣",
-    "distances": [
-      {
-        "label": "42.195K",
-        "fee": null,
-        "limit": null
-      },
-      {
-        "label": "21K",
-        "fee": null,
-        "limit": null
-      },
-      {
-        "label": "12K",
-        "fee": null,
-        "limit": null
-      },
-      {
-        "label": "5K",
-        "fee": null,
-        "limit": null
-      }
-    ],
-    "categories": [
-      "10K+",
-      "休閒",
-      "全馬",
-      "半馬"
-    ],
-    "max_km": 42.195,
-    "organizer": "南華大學",
-    "status": "",
-    "status_raw": "",
-    "reg_state": "upcoming",
-    "is_past": false,
-    "is_new": false,
-    "month_tag": "",
-    "year": 2026
-  },
-  {
     "name": "2026 臺南府城國際半程馬拉松",
     "link": "https://ctrun.tw/MZ261220",
     "date_raw": "12/20 日",
@@ -6969,6 +6963,59 @@
     "year": 2026
   },
   {
+    "name": "2026 南華30 南華盃-遇見Darling城堡馬拉松",
+    "link": "https://lohasnet.tw/NanhuaMarathon2026/",
+    "date_raw": "12/20 日 06:30",
+    "month": 12,
+    "day": 20,
+    "weekday": "日",
+    "start_time": "06:30",
+    "location": "嘉義縣大林鎮三好教育園區南華大學田徑場",
+    "region": "嘉義縣",
+    "distances": [
+      {
+        "label": "42.195K",
+        "fee": 1400,
+        "limit": 1000
+      },
+      {
+        "label": "21K",
+        "fee": 1200,
+        "limit": 1000
+      },
+      {
+        "label": "14K",
+        "fee": 1100,
+        "limit": 1000
+      },
+      {
+        "label": "8K",
+        "fee": 900,
+        "limit": 1000
+      },
+      {
+        "label": "3K",
+        "fee": 800,
+        "limit": 500
+      }
+    ],
+    "categories": [
+      "10K+",
+      "休閒",
+      "全馬",
+      "半馬"
+    ],
+    "max_km": 42.195,
+    "organizer": "南華大學/大林鎮公所",
+    "status": "8月18日 ~ 10月20日",
+    "status_raw": "8月18日 ~ 10月20日",
+    "reg_state": "open",
+    "is_past": false,
+    "is_new": true,
+    "month_tag": "",
+    "year": 2026
+  },
+  {
     "name": "2026 臺北馬拉松",
     "link": "https://www.taipeicitymarathon.com/",
     "date_raw": "12/20 日 06:30",
@@ -7012,8 +7059,8 @@
     "day": 26,
     "weekday": "六",
     "start_time": "06:00",
-    "location": "后里車站東站",
-    "region": "其他",
+    "location": "臺中市后里區車站東站",
+    "region": "臺中市",
     "distances": [
       {
         "label": "48.6K",
@@ -7366,6 +7413,54 @@
     "reg_state": "closed",
     "is_past": false,
     "is_new": false,
+    "month_tag": "",
+    "year": 2027
+  },
+  {
+    "name": "2027 渣打臺北公益馬拉松",
+    "link": "https://scbmarathon.com/index.php",
+    "date_raw": "01/10 日 05:00",
+    "month": 1,
+    "day": 10,
+    "weekday": "日",
+    "start_time": "05:00",
+    "location": "臺北市中正區總統府前廣場",
+    "region": "臺北市",
+    "distances": [
+      {
+        "label": "42.195K",
+        "fee": null,
+        "limit": 4700
+      },
+      {
+        "label": "21.0975K",
+        "fee": null,
+        "limit": 9800
+      },
+      {
+        "label": "12K",
+        "fee": null,
+        "limit": 9000
+      },
+      {
+        "label": "3K",
+        "fee": null,
+        "limit": 3000
+      }
+    ],
+    "categories": [
+      "10K+",
+      "休閒",
+      "全馬",
+      "半馬"
+    ],
+    "max_km": 42.195,
+    "organizer": "中華民國路跑協會",
+    "status": "8月26日 ~ 10月30日",
+    "status_raw": "8月26日 ~ 10月30日",
+    "reg_state": "upcoming",
+    "is_past": false,
+    "is_new": true,
     "month_tag": "",
     "year": 2027
   },
@@ -8060,28 +8155,6 @@
     "year": 2027
   },
   {
-    "name": "2027 鳳山跑三校越野馬拉松",
-    "link": "",
-    "date_raw": "03/07 日",
-    "month": 3,
-    "day": 7,
-    "weekday": "日",
-    "start_time": "",
-    "location": "高雄市鳳山區陸軍軍官學校",
-    "region": "高雄市",
-    "distances": [],
-    "categories": [],
-    "max_km": 0,
-    "organizer": "高雄市鳳山慢跑協會",
-    "status": "",
-    "status_raw": "",
-    "reg_state": "upcoming",
-    "is_past": false,
-    "is_new": false,
-    "month_tag": "",
-    "year": 2027
-  },
-  {
     "name": "2027 LAVA 玩賽樂園",
     "link": "https://bao-ming.com/eb/content/6970#32718",
     "date_raw": "03/12 五 11:00",
@@ -8251,6 +8324,28 @@
     "year": 2027
   },
   {
+    "name": "2027 鳳山跑三校越野馬拉松",
+    "link": "",
+    "date_raw": "03/14 日",
+    "month": 3,
+    "day": 14,
+    "weekday": "日",
+    "start_time": "",
+    "location": "高雄市鳳山區陸軍軍官學校",
+    "region": "高雄市",
+    "distances": [],
+    "categories": [],
+    "max_km": 0,
+    "organizer": "高雄市鳳山慢跑協會",
+    "status": "",
+    "status_raw": "",
+    "reg_state": "upcoming",
+    "is_past": false,
+    "is_new": true,
+    "month_tag": "",
+    "year": 2027
+  },
+  {
     "name": "2027 柚花追香半程馬拉松-麻豆場",
     "link": "",
     "date_raw": "03/14 日 06:00",
@@ -8289,6 +8384,28 @@
     "reg_state": "upcoming",
     "is_past": false,
     "is_new": false,
+    "month_tag": "",
+    "year": 2027
+  },
+  {
+    "name": "2027 中山香香生活節",
+    "link": "",
+    "date_raw": "03/20 六",
+    "month": 3,
+    "day": 20,
+    "weekday": "六",
+    "start_time": "",
+    "location": "",
+    "region": "其他",
+    "distances": [],
+    "categories": [],
+    "max_km": 0,
+    "organizer": "",
+    "status": "",
+    "status_raw": "",
+    "reg_state": "upcoming",
+    "is_past": false,
+    "is_new": true,
     "month_tag": "",
     "year": 2027
   },
