@@ -1,35 +1,5 @@
 [
   {
-    "name": "最強市民飆5K－新北市5000公尺挑戰賽 八月場",
-    "link": "http://esg.soonest.com/Home/Index",
-    "date_raw": "08/19 三 18:30",
-    "month": 8,
-    "day": 19,
-    "weekday": "三",
-    "start_time": "18:30",
-    "location": "新北市板橋區第一運動場",
-    "region": "新北市",
-    "distances": [
-      {
-        "label": "5K",
-        "fee": 0,
-        "limit": null
-      }
-    ],
-    "categories": [
-      "休閒"
-    ],
-    "max_km": 5.0,
-    "organizer": "捷迅股份有限公司",
-    "status": "已截止",
-    "status_raw": "已截止",
-    "reg_state": "closed",
-    "is_past": true,
-    "is_new": false,
-    "month_tag": "8月",
-    "year": 2026
-  },
-  {
     "name": "2026 全台 PAPAGO 歡樂跑--觀音場",
     "link": "https://www.focusline.com.tw/260823LE/?promo=lihi",
     "date_raw": "08/23 日 05:00",
@@ -60,9 +30,9 @@
     "status": "",
     "status_raw": "",
     "reg_state": "upcoming",
-    "is_past": false,
+    "is_past": true,
     "is_new": false,
-    "month_tag": "",
+    "month_tag": "8月",
     "year": 2026
   },
   {
@@ -102,7 +72,7 @@
     "status": "已截止",
     "status_raw": "已截止",
     "reg_state": "closed",
-    "is_past": false,
+    "is_past": true,
     "is_new": false,
     "month_tag": "",
     "year": 2026
@@ -1020,8 +990,8 @@
     ],
     "max_km": 42.195,
     "organizer": "桃園市復興崗校友會",
-    "status": "5月08日 ~ 8月23日 (最後二天)",
-    "status_raw": "5月08日 ~ 8月23日 (最後二天)",
+    "status": "5月08日 ~ 8月23日 (最後一天)",
+    "status_raw": "5月08日 ~ 8月23日 (最後一天)",
     "reg_state": "open",
     "is_past": false,
     "is_new": false,
@@ -2641,8 +2611,8 @@
     ],
     "max_km": 42.195,
     "organizer": "臺中市政府運動局/社團法人臺中市繁榮葫蘆墩促進會",
-    "status": "5月17日 ~ 8月23日 (最後二天)",
-    "status_raw": "5月17日 ~ 8月23日 (最後二天)",
+    "status": "5月17日 ~ 8月23日 (最後一天)",
+    "status_raw": "5月17日 ~ 8月23日 (最後一天)",
     "reg_state": "open",
     "is_past": false,
     "is_new": true,
@@ -2983,7 +2953,7 @@
     "status_raw": "~ 9月17日",
     "reg_state": "open",
     "is_past": false,
-    "is_new": true,
+    "is_new": false,
     "month_tag": "",
     "year": 2026
   },
@@ -3067,7 +3037,7 @@
     "status_raw": "~ 9月15日",
     "reg_state": "open",
     "is_past": false,
-    "is_new": true,
+    "is_new": false,
     "month_tag": "",
     "year": 2026
   },
@@ -3420,8 +3390,8 @@
     ],
     "max_km": 21.0,
     "organizer": "嘉義縣水上鄉公所",
-    "status": "6月11日 ~ 8月23日 (最後二天)",
-    "status_raw": "6月11日 ~ 8月23日 (最後二天)",
+    "status": "6月11日 ~ 8月23日 (最後一天)",
+    "status_raw": "6月11日 ~ 8月23日 (最後一天)",
     "reg_state": "open",
     "is_past": false,
     "is_new": true,
