@@ -1,40 +1,5 @@
 [
   {
-    "name": "2026 探旅新北定向越野-三重場",
-    "link": "https://bao-ming.com/eb/content/7111#33138",
-    "date_raw": "08/23 日 17:30",
-    "month": 8,
-    "day": 23,
-    "weekday": "日",
-    "start_time": "17:30",
-    "location": "新北市三重區大都會公園",
-    "region": "新北市",
-    "distances": [
-      {
-        "label": "8K",
-        "fee": 950,
-        "limit": 350
-      },
-      {
-        "label": "6K",
-        "fee": 850,
-        "limit": 250
-      }
-    ],
-    "categories": [
-      "休閒"
-    ],
-    "max_km": 8.0,
-    "organizer": "新北市政府觀光旅遊局",
-    "status": "已截止",
-    "status_raw": "已截止",
-    "reg_state": "closed",
-    "is_past": true,
-    "is_new": false,
-    "month_tag": "8月",
-    "year": 2026
-  },
-  {
     "name": "2026 義起愛運動勇士路跑",
     "link": " https://irunner.biji.co/2026YIMINRUN",
     "date_raw": "08/29 六",
@@ -73,7 +38,7 @@
     "reg_state": "closed",
     "is_past": false,
     "is_new": false,
-    "month_tag": "",
+    "month_tag": "8月",
     "year": 2026
   },
   {
@@ -1232,8 +1197,8 @@
     ],
     "max_km": 21.0,
     "organizer": "池上鄉公所",
-    "status": "5月21日 ~ 8月30日 (最後一週)",
-    "status_raw": "5月21日 ~ 8月30日 (最後一週)",
+    "status": "5月21日 ~ 8月30日 (最後四天)",
+    "status_raw": "5月21日 ~ 8月30日 (最後四天)",
     "reg_state": "open",
     "is_past": false,
     "is_new": false,
@@ -2913,8 +2878,8 @@
     ],
     "max_km": 21.0,
     "organizer": "台灣糖業股份有限公司",
-    "status": "6月17日 ~ 8月27日 (最後二天)",
-    "status_raw": "6月17日 ~ 8月27日 (最後二天)",
+    "status": "6月17日 ~ 8月27日 (最後一天)",
+    "status_raw": "6月17日 ~ 8月27日 (最後一天)",
     "reg_state": "open",
     "is_past": false,
     "is_new": false,
@@ -3444,8 +3409,8 @@
     ],
     "max_km": 10.0,
     "organizer": "新北市政府勞工局",
-    "status": "6月26日 ~ 8月27日 (最後二天)",
-    "status_raw": "6月26日 ~ 8月27日 (最後二天)",
+    "status": "6月26日 ~ 8月27日 (最後一天)",
+    "status_raw": "6月26日 ~ 8月27日 (最後一天)",
     "reg_state": "open",
     "is_past": false,
     "is_new": false,
@@ -3490,11 +3455,11 @@
     ],
     "max_km": 5.0,
     "organizer": "臺灣視多障協會/盲人環臺為公益而跑協會",
-    "status": "~ 9月10日",
-    "status_raw": "~ 9月10日",
+    "status": "~ 8月31日 (最後一週)",
+    "status_raw": "~ 8月31日 (最後一週)",
     "reg_state": "open",
     "is_past": false,
-    "is_new": false,
+    "is_new": true,
     "month_tag": "",
     "year": 2026
   },
@@ -3764,8 +3729,8 @@
     ],
     "max_km": 42.195,
     "organizer": "嘉義市政府",
-    "status": "6月19日 ~ 8月27日 (最後二天)",
-    "status_raw": "6月19日 ~ 8月27日 (最後二天)",
+    "status": "6月19日 ~ 8月27日 (最後一天)",
+    "status_raw": "6月19日 ~ 8月27日 (最後一天)",
     "reg_state": "open",
     "is_past": false,
     "is_new": false,
@@ -4325,8 +4290,8 @@
     ],
     "max_km": 42.195,
     "organizer": "屏東縣政府",
-    "status": "7月07日 ~ 8月27日 (最後二天)",
-    "status_raw": "7月07日 ~ 8月27日 (最後二天)",
+    "status": "7月07日 ~ 8月27日 (最後一天)",
+    "status_raw": "7月07日 ~ 8月27日 (最後一天)",
     "reg_state": "open",
     "is_past": false,
     "is_new": true,
@@ -4814,6 +4779,42 @@
     "year": 2026
   },
   {
+    "name": "2026 國聚慵懶跑者聚樂部",
+    "link": "",
+    "date_raw": "11/15 日",
+    "month": 11,
+    "day": 15,
+    "weekday": "日",
+    "start_time": "",
+    "location": "臺中市西屯區中央球場",
+    "region": "臺中市",
+    "distances": [
+      {
+        "label": "10K",
+        "fee": null,
+        "limit": null
+      },
+      {
+        "label": "5K",
+        "fee": null,
+        "limit": null
+      }
+    ],
+    "categories": [
+      "10K+",
+      "休閒"
+    ],
+    "max_km": 10.0,
+    "organizer": "",
+    "status": "",
+    "status_raw": "",
+    "reg_state": "upcoming",
+    "is_past": false,
+    "is_new": false,
+    "month_tag": "",
+    "year": 2026
+  },
+  {
     "name": "2026 屏東墾丁日本航空國際馬拉松",
     "link": "",
     "date_raw": "11/15 日",
@@ -4853,42 +4854,6 @@
     ],
     "max_km": 42.195,
     "organizer": "屏東縣政府",
-    "status": "",
-    "status_raw": "",
-    "reg_state": "upcoming",
-    "is_past": false,
-    "is_new": false,
-    "month_tag": "",
-    "year": 2026
-  },
-  {
-    "name": "2026 國聚慵懶跑者聚樂部",
-    "link": "",
-    "date_raw": "11/15 日",
-    "month": 11,
-    "day": 15,
-    "weekday": "日",
-    "start_time": "",
-    "location": "臺中市西屯區中央球場",
-    "region": "臺中市",
-    "distances": [
-      {
-        "label": "10K",
-        "fee": null,
-        "limit": null
-      },
-      {
-        "label": "5K",
-        "fee": null,
-        "limit": null
-      }
-    ],
-    "categories": [
-      "10K+",
-      "休閒"
-    ],
-    "max_km": 10.0,
-    "organizer": "",
     "status": "",
     "status_raw": "",
     "reg_state": "upcoming",
@@ -5976,8 +5941,8 @@
     ],
     "max_km": 42.195,
     "organizer": "新竹市政府/永悅健康股份有限公司",
-    "status": "5月30日 ~ 8月30日 (最後一週)",
-    "status_raw": "5月30日 ~ 8月30日 (最後一週)",
+    "status": "5月30日 ~ 8月30日 (最後四天)",
+    "status_raw": "5月30日 ~ 8月30日 (最後四天)",
     "reg_state": "open",
     "is_past": false,
     "is_new": false,
@@ -6727,54 +6692,6 @@
     "year": 2026
   },
   {
-    "name": "2026 歲次丙午年順澤宮第四屆冠軍路跑－順風啟程 • 澤福同行 • 謝平安",
-    "link": "https://lohasnet.tw/ShunzeRun2026/",
-    "date_raw": "12/19 六 06:30",
-    "month": 12,
-    "day": 19,
-    "weekday": "六",
-    "start_time": "06:30",
-    "location": "彰化縣埔鹽鄉順澤宮",
-    "region": "彰化縣",
-    "distances": [
-      {
-        "label": "42.195K",
-        "fee": 1300,
-        "limit": 1000
-      },
-      {
-        "label": "21K",
-        "fee": 1200,
-        "limit": 1000
-      },
-      {
-        "label": "10K",
-        "fee": 1050,
-        "limit": 1000
-      },
-      {
-        "label": "3.5K",
-        "fee": 700,
-        "limit": 1000
-      }
-    ],
-    "categories": [
-      "10K+",
-      "休閒",
-      "全馬",
-      "半馬"
-    ],
-    "max_km": 42.195,
-    "organizer": "埔鹽順澤宮",
-    "status": "6月18日 ~ 10月04日",
-    "status_raw": "6月18日 ~ 10月04日",
-    "reg_state": "open",
-    "is_past": false,
-    "is_new": false,
-    "month_tag": "",
-    "year": 2026
-  },
-  {
     "name": "2026 第二屆食安盃馬拉松",
     "link": "https://irunner.biji.co/2026Foodsafetymarathon",
     "date_raw": "12/19 六 06:30",
@@ -6816,6 +6733,54 @@
     "organizer": "社團法人中華食品安全管制系統發展協會/臺灣大腳丫長跑協會",
     "status": "6月11日 ~ 9月19日",
     "status_raw": "6月11日 ~ 9月19日",
+    "reg_state": "open",
+    "is_past": false,
+    "is_new": false,
+    "month_tag": "",
+    "year": 2026
+  },
+  {
+    "name": "2026 歲次丙午年順澤宮第四屆冠軍路跑－順風啟程 • 澤福同行 • 謝平安",
+    "link": "https://lohasnet.tw/ShunzeRun2026/",
+    "date_raw": "12/19 六 06:30",
+    "month": 12,
+    "day": 19,
+    "weekday": "六",
+    "start_time": "06:30",
+    "location": "彰化縣埔鹽鄉順澤宮",
+    "region": "彰化縣",
+    "distances": [
+      {
+        "label": "42.195K",
+        "fee": 1300,
+        "limit": 1000
+      },
+      {
+        "label": "21K",
+        "fee": 1200,
+        "limit": 1000
+      },
+      {
+        "label": "10K",
+        "fee": 1050,
+        "limit": 1000
+      },
+      {
+        "label": "3.5K",
+        "fee": 700,
+        "limit": 1000
+      }
+    ],
+    "categories": [
+      "10K+",
+      "休閒",
+      "全馬",
+      "半馬"
+    ],
+    "max_km": 42.195,
+    "organizer": "埔鹽順澤宮",
+    "status": "6月18日 ~ 10月04日",
+    "status_raw": "6月18日 ~ 10月04日",
     "reg_state": "open",
     "is_past": false,
     "is_new": false,
@@ -6946,8 +6911,8 @@
     ],
     "max_km": 21.0,
     "organizer": "全統運動用品股份有限公司",
-    "status": "7月09日 ~ 8月27日 (最後二天)",
-    "status_raw": "7月09日 ~ 8月27日 (最後二天)",
+    "status": "7月09日 ~ 8月27日 (最後一天)",
+    "status_raw": "7月09日 ~ 8月27日 (最後一天)",
     "reg_state": "open",
     "is_past": false,
     "is_new": true,
