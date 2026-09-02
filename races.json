@@ -1,81 +1,5 @@
 [
   {
-    "name": "2026 美麗金山路跑",
-    "link": "https://bao-ming.com/eb/content/7036#33004",
-    "date_raw": "08/29 六 15:30",
-    "month": 8,
-    "day": 29,
-    "weekday": "六",
-    "start_time": "15:30",
-    "location": "新北市金山區磺港漁港",
-    "region": "新北市",
-    "distances": [
-      {
-        "label": "10K",
-        "fee": 800,
-        "limit": 750
-      },
-      {
-        "label": "3K",
-        "fee": 0,
-        "limit": 450
-      }
-    ],
-    "categories": [
-      "10K+",
-      "休閒"
-    ],
-    "max_km": 10.0,
-    "organizer": "新北市金山區公所",
-    "status": "已截止",
-    "status_raw": "已截止",
-    "reg_state": "closed",
-    "is_past": true,
-    "is_new": false,
-    "month_tag": "8月",
-    "year": 2026
-  },
-  {
-    "name": "2026 HOT DOG Trail 臺中系列活動-熱血接力賽",
-    "link": "https://bao-ming.com/eb/content/6974#32748",
-    "date_raw": "08/30 日 08:30",
-    "month": 8,
-    "day": 30,
-    "weekday": "日",
-    "start_time": "08:30",
-    "location": "臺中市龍井區竹坑南寮步道口",
-    "region": "臺中市",
-    "distances": [
-      {
-        "label": "4.5Kx8",
-        "fee": 7200,
-        "limit": 25
-      },
-      {
-        "label": "4.5Kx4",
-        "fee": 3600,
-        "limit": 50
-      },
-      {
-        "label": "4.5Kx2",
-        "fee": 1400,
-        "limit": 50
-      }
-    ],
-    "categories": [
-      "休閒"
-    ],
-    "max_km": 4.5,
-    "organizer": "臺灣龍虎鳳越野協會",
-    "status": "4月17日 ~ 8月10日",
-    "status_raw": "4月17日 ~ 8月10日",
-    "reg_state": "closed",
-    "is_past": true,
-    "is_new": false,
-    "month_tag": "",
-    "year": 2026
-  },
-  {
     "name": "2026 東城盃合歡山越野馬拉松",
     "link": "https://irunner.biji.co/2026Hehuanshan",
     "date_raw": "09/04 五 06:00",
@@ -1277,8 +1201,8 @@
     ],
     "max_km": 105.3,
     "organizer": "TUR/臺灣龍虎鳳越野協會",
-    "status": "10月01日 ~ 9月04日 (最後四天)",
-    "status_raw": "10月01日 ~ 9月04日 (最後四天)",
+    "status": "10月01日 ~ 9月04日 (最後三天)",
+    "status_raw": "10月01日 ~ 9月04日 (最後三天)",
     "reg_state": "upcoming",
     "is_past": false,
     "is_new": false,
@@ -2625,6 +2549,48 @@
     "year": 2026
   },
   {
+    "name": "臺東縣達仁鄉115年度縫迴山海祭路跑活動",
+    "link": "https://fsurl.cc/261018LI/taipeimarathon",
+    "date_raw": "10/18 日 06:30",
+    "month": 10,
+    "day": 18,
+    "weekday": "日",
+    "start_time": "06:30",
+    "location": "臺東縣達仁鄉南田海岸親水公園",
+    "region": "臺東縣",
+    "distances": [
+      {
+        "label": "21K",
+        "fee": 1200,
+        "limit": null
+      },
+      {
+        "label": "12K",
+        "fee": 900,
+        "limit": null
+      },
+      {
+        "label": "5K",
+        "fee": 600,
+        "limit": null
+      }
+    ],
+    "categories": [
+      "10K+",
+      "休閒",
+      "半馬"
+    ],
+    "max_km": 21.0,
+    "organizer": "臺東縣達仁鄉公所",
+    "status": "6月08日 ~ 9月08日 (最後一週)",
+    "status_raw": "6月08日 ~ 9月08日 (最後一週)",
+    "reg_state": "open",
+    "is_past": false,
+    "is_new": false,
+    "month_tag": "",
+    "year": 2026
+  },
+  {
     "name": "2026 五峰越野",
     "link": "https://bao-ming.com/eb/content/7044#32985",
     "date_raw": "10/18 日 06:30",
@@ -2660,48 +2626,6 @@
     "status": "已截止",
     "status_raw": "已截止",
     "reg_state": "closed",
-    "is_past": false,
-    "is_new": false,
-    "month_tag": "",
-    "year": 2026
-  },
-  {
-    "name": "臺東縣達仁鄉115年度縫迴山海祭路跑活動",
-    "link": "https://fsurl.cc/261018LI/taipeimarathon",
-    "date_raw": "10/18 日 06:30",
-    "month": 10,
-    "day": 18,
-    "weekday": "日",
-    "start_time": "06:30",
-    "location": "臺東縣達仁鄉南田海岸親水公園",
-    "region": "臺東縣",
-    "distances": [
-      {
-        "label": "21K",
-        "fee": 1200,
-        "limit": null
-      },
-      {
-        "label": "12K",
-        "fee": 900,
-        "limit": null
-      },
-      {
-        "label": "5K",
-        "fee": 600,
-        "limit": null
-      }
-    ],
-    "categories": [
-      "10K+",
-      "休閒",
-      "半馬"
-    ],
-    "max_km": 21.0,
-    "organizer": "臺東縣達仁鄉公所",
-    "status": "6月08日 ~ 9月08日",
-    "status_raw": "6月08日 ~ 9月08日",
-    "reg_state": "open",
     "is_past": false,
     "is_new": false,
     "month_tag": "",
@@ -3016,11 +2940,11 @@
     ],
     "max_km": 42.195,
     "organizer": "臺南市龍崎文衡殿",
-    "status": "已截止",
-    "status_raw": "已截止",
-    "reg_state": "closed",
+    "status": "6月01日 ~ 9月10日",
+    "status_raw": "6月01日 ~ 9月10日",
+    "reg_state": "open",
     "is_past": false,
-    "is_new": false,
+    "is_new": true,
     "month_tag": "",
     "year": 2026
   },
@@ -3158,11 +3082,11 @@
     ],
     "max_km": 21.0,
     "organizer": "華陀扶元堂",
-    "status": "2月13日 ~ 9月10日",
-    "status_raw": "2月13日 ~ 9月10日",
+    "status": "2月13日 ~ 9月12日",
+    "status_raw": "2月13日 ~ 9月12日",
     "reg_state": "open",
     "is_past": false,
-    "is_new": false,
+    "is_new": true,
     "month_tag": "",
     "year": 2026
   },
@@ -3859,7 +3783,7 @@
     "status_raw": "8月21日 ~ 9月18日",
     "reg_state": "open",
     "is_past": false,
-    "is_new": true,
+    "is_new": false,
     "month_tag": "",
     "year": 2026
   },
@@ -4378,9 +4302,9 @@
     ],
     "max_km": 42.195,
     "organizer": "新北市越野長跑協會",
-    "status": "4月10日 ~ 9月01日 (最後一天)",
-    "status_raw": "4月10日 ~ 9月01日 (最後一天)",
-    "reg_state": "open",
+    "status": "已截止",
+    "status_raw": "已截止",
+    "reg_state": "closed",
     "is_past": false,
     "is_new": false,
     "month_tag": "",
@@ -4612,23 +4536,28 @@
     "day": 14,
     "weekday": "六",
     "start_time": "06:00",
-    "location": "竹北夜市廣場",
-    "region": "其他",
+    "location": "新竹縣竹北市夜市廣場",
+    "region": "新竹縣",
     "distances": [
       {
         "label": "21K",
-        "fee": null,
-        "limit": null
+        "fee": 1480,
+        "limit": 1500
       },
       {
         "label": "12K",
-        "fee": null,
-        "limit": null
+        "fee": 1280,
+        "limit": 1500
       },
       {
         "label": "4K",
-        "fee": null,
-        "limit": null
+        "fee": 980,
+        "limit": 1000
+      },
+      {
+        "label": "1K",
+        "fee": 680,
+        "limit": 1000
       }
     ],
     "categories": [
@@ -4638,11 +4567,11 @@
     ],
     "max_km": 21.0,
     "organizer": "新竹縣竹北市公所",
-    "status": "",
-    "status_raw": "",
-    "reg_state": "upcoming",
+    "status": "7月28日 ~ 9月11日",
+    "status_raw": "7月28日 ~ 9月11日",
+    "reg_state": "open",
     "is_past": false,
-    "is_new": false,
+    "is_new": true,
     "month_tag": "",
     "year": 2026
   },
@@ -6042,11 +5971,11 @@
     ],
     "max_km": 42.195,
     "organizer": "臺灣路跑賽會服務協會",
-    "status": "6月16日 ~ 10月07日",
-    "status_raw": "6月16日 ~ 10月07日",
-    "reg_state": "open",
+    "status": "已截止",
+    "status_raw": "已截止",
+    "reg_state": "closed",
     "is_past": false,
-    "is_new": false,
+    "is_new": true,
     "month_tag": "",
     "year": 2026
   },
@@ -6610,7 +6539,7 @@
     "status_raw": "~ 12月03日",
     "reg_state": "open",
     "is_past": false,
-    "is_new": true,
+    "is_new": false,
     "month_tag": "",
     "year": 2026
   },
