@@ -1,47 +1,5 @@
 [
   {
-    "name": "2026 東城盃合歡山越野馬拉松",
-    "link": "https://irunner.biji.co/2026Hehuanshan",
-    "date_raw": "09/04 五 06:00",
-    "month": 9,
-    "day": 4,
-    "weekday": "五",
-    "start_time": "06:00",
-    "location": "南投縣仁愛鄉藝家原",
-    "region": "南投縣",
-    "distances": [
-      {
-        "label": "44.5K",
-        "fee": 2100,
-        "limit": 600
-      },
-      {
-        "label": "26K",
-        "fee": 2100,
-        "limit": 600
-      },
-      {
-        "label": "10K",
-        "fee": 1200,
-        "limit": 600
-      }
-    ],
-    "categories": [
-      "10K+",
-      "全馬",
-      "半馬"
-    ],
-    "max_km": 44.5,
-    "organizer": "臺灣謙信越野馬拉松協會",
-    "status": "已截止",
-    "status_raw": "已截止",
-    "reg_state": "closed",
-    "is_past": true,
-    "is_new": false,
-    "month_tag": "9月",
-    "year": 2026
-  },
-  {
     "name": "2026 SUPERACE 野馬越野系列賽 秋夜野馬",
     "link": "https://bao-ming.com/eb/content/6986#32772",
     "date_raw": "09/05 六 17:00",
@@ -84,7 +42,7 @@
     "reg_state": "closed",
     "is_past": true,
     "is_new": false,
-    "month_tag": "",
+    "month_tag": "9月",
     "year": 2026
   },
   {
@@ -240,9 +198,9 @@
     ],
     "max_km": 5.0,
     "organizer": "捷迅股份有限公司",
-    "status": "8月31日 ~ 9月06日 (最後一天)",
-    "status_raw": "8月31日 ~ 9月06日 (最後一天)",
-    "reg_state": "open",
+    "status": "已截止",
+    "status_raw": "已截止",
+    "reg_state": "closed",
     "is_past": false,
     "is_new": false,
     "month_tag": "",
@@ -1912,8 +1870,8 @@
     ],
     "max_km": 50.0,
     "organizer": "社團法人中華民國超級馬拉松運動協會",
-    "status": "~ 9月09日 (最後四天)",
-    "status_raw": "~ 9月09日 (最後四天)",
+    "status": "~ 9月09日 (最後三天)",
+    "status_raw": "~ 9月09日 (最後三天)",
     "reg_state": "open",
     "is_past": false,
     "is_new": false,
@@ -2042,7 +2000,7 @@
     "status_raw": "",
     "reg_state": "upcoming",
     "is_past": false,
-    "is_new": true,
+    "is_new": false,
     "month_tag": "",
     "year": 2026
   },
@@ -2582,8 +2540,8 @@
     ],
     "max_km": 21.0,
     "organizer": "臺東縣達仁鄉公所",
-    "status": "6月08日 ~ 9月08日 (最後三天)",
-    "status_raw": "6月08日 ~ 9月08日 (最後三天)",
+    "status": "6月08日 ~ 9月08日 (最後二天)",
+    "status_raw": "6月08日 ~ 9月08日 (最後二天)",
     "reg_state": "open",
     "is_past": false,
     "is_new": false,
@@ -2940,8 +2898,8 @@
     ],
     "max_km": 42.195,
     "organizer": "臺南市龍崎文衡殿",
-    "status": "6月01日 ~ 9月10日 (最後一週)",
-    "status_raw": "6月01日 ~ 9月10日 (最後一週)",
+    "status": "6月01日 ~ 9月10日 (最後四天)",
+    "status_raw": "6月01日 ~ 9月10日 (最後四天)",
     "reg_state": "open",
     "is_past": false,
     "is_new": true,
@@ -3035,9 +2993,9 @@
     ],
     "max_km": 21.0,
     "organizer": "雲林縣虎馬路跑協會",
-    "status": "4月13日 ~ 9月06日 (最後一天)",
-    "status_raw": "4月13日 ~ 9月06日 (最後一天)",
-    "reg_state": "open",
+    "status": "已截止",
+    "status_raw": "已截止",
+    "reg_state": "closed",
     "is_past": false,
     "is_new": false,
     "month_tag": "",
@@ -3384,8 +3342,8 @@
     ],
     "max_km": 21.0,
     "organizer": "交通部公路局北區公路新建工程分局",
-    "status": "8月15日 ~ 9月07日 (最後二天)",
-    "status_raw": "8月15日 ~ 9月07日 (最後二天)",
+    "status": "8月15日 ~ 9月07日 (最後一天)",
+    "status_raw": "8月15日 ~ 9月07日 (最後一天)",
     "reg_state": "open",
     "is_past": false,
     "is_new": false,
@@ -3659,8 +3617,8 @@
     ],
     "max_km": 42.195,
     "organizer": "雲林縣飛虎常跑協會",
-    "status": "~ 9月10日 (最後一週)",
-    "status_raw": "~ 9月10日 (最後一週)",
+    "status": "~ 9月10日 (最後四天)",
+    "status_raw": "~ 9月10日 (最後四天)",
     "reg_state": "open",
     "is_past": false,
     "is_new": true,
@@ -4124,8 +4082,8 @@
     ],
     "max_km": 21.0,
     "organizer": "財政部/第一金融控股股份有限公司",
-    "status": "7月21日 ~ 9月10日 (最後一週)",
-    "status_raw": "7月21日 ~ 9月10日 (最後一週)",
+    "status": "7月21日 ~ 9月10日 (最後四天)",
+    "status_raw": "7月21日 ~ 9月10日 (最後四天)",
     "reg_state": "open",
     "is_past": false,
     "is_new": false,
@@ -4385,8 +4343,8 @@
     ],
     "max_km": 12.0,
     "organizer": "臺南市早起鳥路跑協會/中華民國全能運動協會",
-    "status": "6月15日 ~ 9月10日 (最後一週)",
-    "status_raw": "6月15日 ~ 9月10日 (最後一週)",
+    "status": "6月15日 ~ 9月10日 (最後四天)",
+    "status_raw": "6月15日 ~ 9月10日 (最後四天)",
     "reg_state": "open",
     "is_past": false,
     "is_new": false,
@@ -6160,6 +6118,42 @@
     "year": 2026
   },
   {
+    "name": "2026 第一屆淡水河正念悠遊跑路跑賽",
+    "link": "https://bao-ming.com/eb/content/7207#33858",
+    "date_raw": "12/13 日",
+    "month": 12,
+    "day": 13,
+    "weekday": "日",
+    "start_time": "",
+    "location": "新北市淡水河畔（八里左岸步道）",
+    "region": "新北市",
+    "distances": [
+      {
+        "label": "10K",
+        "fee": null,
+        "limit": null
+      },
+      {
+        "label": "5K",
+        "fee": null,
+        "limit": null
+      }
+    ],
+    "categories": [
+      "10K+",
+      "休閒"
+    ],
+    "max_km": 10.0,
+    "organizer": "正念悠遊跑推廣團隊",
+    "status": "",
+    "status_raw": "",
+    "reg_state": "upcoming",
+    "is_past": false,
+    "is_new": true,
+    "month_tag": "",
+    "year": 2026
+  },
+  {
     "name": "【傘耀十二，圓滿美濃】 2026 第 12 屆美濃馬拉松",
     "link": "https://www.joinnow.com.tw/about.php?cnt_id=137&type=1",
     "date_raw": "12/13 日 05:00",
@@ -7199,7 +7193,7 @@
     "status_raw": "8月28日 ~ 11月02日",
     "reg_state": "open",
     "is_past": false,
-    "is_new": true,
+    "is_new": false,
     "month_tag": "",
     "year": 2027
   },
@@ -7649,7 +7643,7 @@
     "status_raw": "8月26日 ~ 12月06日",
     "reg_state": "open",
     "is_past": false,
-    "is_new": true,
+    "is_new": false,
     "month_tag": "",
     "year": 2027
   },
@@ -8945,7 +8939,7 @@
     "year": 2027
   },
   {
-    "name": "027 Bali Trail 八里越野",
+    "name": "2027 Bali Trail 八里越野",
     "link": "https://venturetreks.asia/balitrailtaiwan/",
     "date_raw": "05/01 六",
     "month": 5,
@@ -8987,7 +8981,7 @@
       "半馬"
     ],
     "max_km": 24.0,
-    "organizer": "",
+    "organizer": "Venture Treks",
     "status": "",
     "status_raw": "",
     "reg_state": "upcoming",
