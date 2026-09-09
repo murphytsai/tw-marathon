@@ -1,182 +1,5 @@
 [
   {
-    "name": "2026 SUPERACE 野馬越野系列賽 秋夜野馬",
-    "link": "https://bao-ming.com/eb/content/6986#32772",
-    "date_raw": "09/05 六 17:00",
-    "month": 9,
-    "day": 5,
-    "weekday": "六",
-    "start_time": "17:00",
-    "location": "臺北市士林區至善國中",
-    "region": "臺北市",
-    "distances": [
-      {
-        "label": "18K",
-        "fee": 2500,
-        "limit": null
-      },
-      {
-        "label": "10K",
-        "fee": 2000,
-        "limit": null
-      },
-      {
-        "label": "6K",
-        "fee": 1300,
-        "limit": null
-      },
-      {
-        "label": "4K",
-        "fee": 1300,
-        "limit": null
-      }
-    ],
-    "categories": [
-      "10K+",
-      "休閒"
-    ],
-    "max_km": 18.0,
-    "organizer": "SUPERACE/社團法人臺灣體育運動競技協會",
-    "status": "已截止",
-    "status_raw": "已截止",
-    "reg_state": "closed",
-    "is_past": true,
-    "is_new": false,
-    "month_tag": "9月",
-    "year": 2026
-  },
-  {
-    "name": "2026 浪漫台三線新店老街路跑賽",
-    "link": "https://www.joinnow.com.tw/about.php?cnt_id=132&type=1",
-    "date_raw": "09/06 日 05:00",
-    "month": 9,
-    "day": 6,
-    "weekday": "日",
-    "start_time": "05:00",
-    "location": "苗栗縣獅潭鄉五文宮",
-    "region": "苗栗縣",
-    "distances": [
-      {
-        "label": "53.5K",
-        "fee": 1350,
-        "limit": null
-      },
-      {
-        "label": "42.8K",
-        "fee": 1250,
-        "limit": null
-      },
-      {
-        "label": "21.4K",
-        "fee": 1100,
-        "limit": null
-      },
-      {
-        "label": "10.7K",
-        "fee": 800,
-        "limit": null
-      },
-      {
-        "label": "5K",
-        "fee": 700,
-        "limit": null
-      }
-    ],
-    "categories": [
-      "10K+",
-      "休閒",
-      "全馬",
-      "半馬"
-    ],
-    "max_km": 53.5,
-    "organizer": "苗栗縣獅潭鄉體育會",
-    "status": "已截止",
-    "status_raw": "已截止",
-    "reg_state": "closed",
-    "is_past": true,
-    "is_new": false,
-    "month_tag": "",
-    "year": 2026
-  },
-  {
-    "name": "2026 Panasonic Taipei City Run 臺北城市路跑賽",
-    "link": "https://taipeicityrun.com/",
-    "date_raw": "09/06 日 05:30",
-    "month": 9,
-    "day": 6,
-    "weekday": "日",
-    "start_time": "05:30",
-    "location": "臺北市中正區總統府前廣場",
-    "region": "臺北市",
-    "distances": [
-      {
-        "label": "12.5K",
-        "fee": 900,
-        "limit": 8000
-      },
-      {
-        "label": "3K",
-        "fee": 600,
-        "limit": 4000
-      }
-    ],
-    "categories": [
-      "10K+",
-      "休閒"
-    ],
-    "max_km": 12.5,
-    "organizer": "中華民國路跑協會",
-    "status": "已截止",
-    "status_raw": "已截止",
-    "reg_state": "closed",
-    "is_past": true,
-    "is_new": false,
-    "month_tag": "",
-    "year": 2026
-  },
-  {
-    "name": "2026 大埔美樂活路跑半程馬拉松",
-    "link": "https://lohasnet.tw/DapumeiHalfMarathon2026/",
-    "date_raw": "09/06 日 06:00",
-    "month": 9,
-    "day": 6,
-    "weekday": "日",
-    "start_time": "06:00",
-    "location": "嘉義縣大林鎮大埔美精密機械園區活動廣場",
-    "region": "嘉義縣",
-    "distances": [
-      {
-        "label": "21K",
-        "fee": null,
-        "limit": 1000
-      },
-      {
-        "label": "12K",
-        "fee": null,
-        "limit": 1000
-      },
-      {
-        "label": "4.5K",
-        "fee": null,
-        "limit": 1000
-      }
-    ],
-    "categories": [
-      "10K+",
-      "休閒",
-      "半馬"
-    ],
-    "max_km": 21.0,
-    "organizer": "雲林縣三鐵運動協會",
-    "status": "已截止",
-    "status_raw": "已截止",
-    "reg_state": "closed",
-    "is_past": true,
-    "is_new": false,
-    "month_tag": "",
-    "year": 2026
-  },
-  {
     "name": "最強市民飆5K－新北市5000公尺挑戰賽 九月場",
     "link": "http://esg.soonest.com/Home/Index",
     "date_raw": "09/09 三 18:30",
@@ -203,7 +26,7 @@
     "reg_state": "closed",
     "is_past": false,
     "is_new": false,
-    "month_tag": "",
+    "month_tag": "9月",
     "year": 2026
   },
   {
@@ -1741,8 +1564,8 @@
     ],
     "max_km": 3.8,
     "organizer": "中華民國全能運動協會/臺南市早起鳥路跑協會",
-    "status": "6月30日 ~ 9月15日",
-    "status_raw": "6月30日 ~ 9月15日",
+    "status": "6月30日 ~ 9月15日 (最後一週)",
+    "status_raw": "6月30日 ~ 9月15日 (最後一週)",
     "reg_state": "open",
     "is_past": false,
     "is_new": false,
@@ -1870,8 +1693,8 @@
     ],
     "max_km": 50.0,
     "organizer": "社團法人中華民國超級馬拉松運動協會",
-    "status": "~ 9月09日 (最後二天)",
-    "status_raw": "~ 9月09日 (最後二天)",
+    "status": "~ 9月09日 (最後一天)",
+    "status_raw": "~ 9月09日 (最後一天)",
     "reg_state": "open",
     "is_past": false,
     "is_new": false,
@@ -2462,8 +2285,8 @@
     ],
     "max_km": 9.7,
     "organizer": "維他露食品公司/維他露基金會",
-    "status": "7月06日 ~ 9月11日 (最後四天)",
-    "status_raw": "7月06日 ~ 9月11日 (最後四天)",
+    "status": "7月06日 ~ 9月11日 (最後三天)",
+    "status_raw": "7月06日 ~ 9月11日 (最後三天)",
     "reg_state": "open",
     "is_past": false,
     "is_new": false,
@@ -2540,9 +2363,9 @@
     ],
     "max_km": 21.0,
     "organizer": "臺東縣達仁鄉公所",
-    "status": "6月08日 ~ 9月08日 (最後一天)",
-    "status_raw": "6月08日 ~ 9月08日 (最後一天)",
-    "reg_state": "open",
+    "status": "已截止",
+    "status_raw": "已截止",
+    "reg_state": "closed",
     "is_past": false,
     "is_new": false,
     "month_tag": "",
@@ -2760,8 +2583,8 @@
     ],
     "max_km": 21.0,
     "organizer": "名間鄉公所",
-    "status": "~ 9月15日",
-    "status_raw": "~ 9月15日",
+    "status": "~ 9月15日 (最後一週)",
+    "status_raw": "~ 9月15日 (最後一週)",
     "reg_state": "open",
     "is_past": false,
     "is_new": false,
@@ -2898,11 +2721,11 @@
     ],
     "max_km": 42.195,
     "organizer": "臺南市龍崎文衡殿",
-    "status": "6月01日 ~ 9月10日 (最後三天)",
-    "status_raw": "6月01日 ~ 9月10日 (最後三天)",
+    "status": "6月01日 ~ 9月10日 (最後二天)",
+    "status_raw": "6月01日 ~ 9月10日 (最後二天)",
     "reg_state": "open",
     "is_past": false,
-    "is_new": true,
+    "is_new": false,
     "month_tag": "",
     "year": 2026
   },
@@ -3040,11 +2863,11 @@
     ],
     "max_km": 21.0,
     "organizer": "華陀扶元堂",
-    "status": "2月13日 ~ 9月12日 (最後一週)",
-    "status_raw": "2月13日 ~ 9月12日 (最後一週)",
+    "status": "2月13日 ~ 9月12日 (最後四天)",
+    "status_raw": "2月13日 ~ 9月12日 (最後四天)",
     "reg_state": "open",
     "is_past": false,
-    "is_new": true,
+    "is_new": false,
     "month_tag": "",
     "year": 2026
   },
@@ -3617,8 +3440,8 @@
     ],
     "max_km": 42.195,
     "organizer": "雲林縣飛虎常跑協會",
-    "status": "~ 9月10日 (最後三天)",
-    "status_raw": "~ 9月10日 (最後三天)",
+    "status": "~ 9月10日 (最後二天)",
+    "status_raw": "~ 9月10日 (最後二天)",
     "reg_state": "open",
     "is_past": false,
     "is_new": false,
@@ -3707,8 +3530,8 @@
     ],
     "max_km": 42.195,
     "organizer": "林內鄉公所",
-    "status": "~ 9月15日",
-    "status_raw": "~ 9月15日",
+    "status": "~ 9月15日 (最後一週)",
+    "status_raw": "~ 9月15日 (最後一週)",
     "reg_state": "open",
     "is_past": false,
     "is_new": false,
@@ -3785,8 +3608,8 @@
     ],
     "max_km": 42.195,
     "organizer": "臺東縣卑南鄉公所/臺東縣知本溫泉觀光發展促進協會",
-    "status": "~ 9月11日 (最後四天)",
-    "status_raw": "~ 9月11日 (最後四天)",
+    "status": "~ 9月11日 (最後三天)",
+    "status_raw": "~ 9月11日 (最後三天)",
     "reg_state": "open",
     "is_past": false,
     "is_new": false,
@@ -3963,8 +3786,8 @@
     ],
     "max_km": 42.195,
     "organizer": "連江縣政府/交通部觀光署馬祖國家風景區管理處",
-    "status": "7月15日 ~ 9月15日",
-    "status_raw": "7月15日 ~ 9月15日",
+    "status": "7月15日 ~ 9月15日 (最後一週)",
+    "status_raw": "7月15日 ~ 9月15日 (最後一週)",
     "reg_state": "open",
     "is_past": false,
     "is_new": false,
@@ -4082,8 +3905,8 @@
     ],
     "max_km": 21.0,
     "organizer": "財政部/第一金融控股股份有限公司",
-    "status": "7月21日 ~ 9月10日 (最後三天)",
-    "status_raw": "7月21日 ~ 9月10日 (最後三天)",
+    "status": "7月21日 ~ 9月10日 (最後二天)",
+    "status_raw": "7月21日 ~ 9月10日 (最後二天)",
     "reg_state": "open",
     "is_past": false,
     "is_new": false,
@@ -4343,8 +4166,8 @@
     ],
     "max_km": 12.0,
     "organizer": "臺南市早起鳥路跑協會/中華民國全能運動協會",
-    "status": "6月15日 ~ 9月10日 (最後三天)",
-    "status_raw": "6月15日 ~ 9月10日 (最後三天)",
+    "status": "6月15日 ~ 9月10日 (最後二天)",
+    "status_raw": "6月15日 ~ 9月10日 (最後二天)",
     "reg_state": "open",
     "is_past": false,
     "is_new": false,
@@ -4525,11 +4348,11 @@
     ],
     "max_km": 21.0,
     "organizer": "新竹縣竹北市公所",
-    "status": "7月28日 ~ 9月11日 (最後四天)",
-    "status_raw": "7月28日 ~ 9月11日 (最後四天)",
+    "status": "7月28日 ~ 9月11日 (最後三天)",
+    "status_raw": "7月28日 ~ 9月11日 (最後三天)",
     "reg_state": "open",
     "is_past": false,
-    "is_new": true,
+    "is_new": false,
     "month_tag": "",
     "year": 2026
   },
@@ -4789,8 +4612,8 @@
     ],
     "max_km": 42.195,
     "organizer": "彰化縣二鹿慢跑協會",
-    "status": "6月15日 ~ 9月15日",
-    "status_raw": "6月15日 ~ 9月15日",
+    "status": "6月15日 ~ 9月15日 (最後一週)",
+    "status_raw": "6月15日 ~ 9月15日 (最後一週)",
     "reg_state": "open",
     "is_past": false,
     "is_new": false,
@@ -5933,7 +5756,7 @@
     "status_raw": "已截止",
     "reg_state": "closed",
     "is_past": false,
-    "is_new": true,
+    "is_new": false,
     "month_tag": "",
     "year": 2026
   },
@@ -8039,6 +7862,54 @@
     "reg_state": "closed",
     "is_past": false,
     "is_new": false,
+    "month_tag": "",
+    "year": 2027
+  },
+  {
+    "name": "2027浪漫台三~戀戀大湖草莓文化嘉年華馬拉松",
+    "link": "",
+    "date_raw": "02/27 六 07:00",
+    "month": 2,
+    "day": 27,
+    "weekday": "六",
+    "start_time": "07:00",
+    "location": "苗栗縣大湖酒莊對面廣場",
+    "region": "苗栗縣",
+    "distances": [
+      {
+        "label": "42.195K",
+        "fee": null,
+        "limit": null
+      },
+      {
+        "label": "21.0975K",
+        "fee": null,
+        "limit": null
+      },
+      {
+        "label": "11K",
+        "fee": null,
+        "limit": null
+      },
+      {
+        "label": "5K",
+        "fee": null,
+        "limit": null
+      }
+    ],
+    "categories": [
+      "10K+",
+      "休閒",
+      "全馬",
+      "半馬"
+    ],
+    "max_km": 42.195,
+    "organizer": "大湖地區農會/台灣鐵人運動協會",
+    "status": "",
+    "status_raw": "",
+    "reg_state": "upcoming",
+    "is_past": false,
+    "is_new": true,
     "month_tag": "",
     "year": 2027
   },
