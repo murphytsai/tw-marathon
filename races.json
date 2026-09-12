@@ -54,7 +54,7 @@
     "status": "已截止",
     "status_raw": "已截止",
     "reg_state": "closed",
-    "is_past": false,
+    "is_past": true,
     "is_new": false,
     "month_tag": "",
     "year": 2026
@@ -1534,8 +1534,8 @@
     ],
     "max_km": 0.4,
     "organizer": "國立虎尾科技大學體育室",
-    "status": "8月20日 ~ 9月18日",
-    "status_raw": "8月20日 ~ 9月18日",
+    "status": "8月20日 ~ 9月18日 (最後一週)",
+    "status_raw": "8月20日 ~ 9月18日 (最後一週)",
     "reg_state": "open",
     "is_past": false,
     "is_new": false,
@@ -1564,8 +1564,8 @@
     ],
     "max_km": 3.8,
     "organizer": "中華民國全能運動協會/臺南市早起鳥路跑協會",
-    "status": "6月30日 ~ 9月15日 (最後一週)",
-    "status_raw": "6月30日 ~ 9月15日 (最後一週)",
+    "status": "6月30日 ~ 9月15日 (最後四天)",
+    "status_raw": "6月30日 ~ 9月15日 (最後四天)",
     "reg_state": "open",
     "is_past": false,
     "is_new": false,
@@ -2285,9 +2285,9 @@
     ],
     "max_km": 9.7,
     "organizer": "維他露食品公司/維他露基金會",
-    "status": "7月06日 ~ 9月11日 (最後一天)",
-    "status_raw": "7月06日 ~ 9月11日 (最後一天)",
-    "reg_state": "open",
+    "status": "已截止",
+    "status_raw": "已截止",
+    "reg_state": "closed",
     "is_past": false,
     "is_new": false,
     "month_tag": "",
@@ -2466,6 +2466,78 @@
     "year": 2026
   },
   {
+    "name": "最強市民飆5K－新北市5000公尺挑戰賽 十月場",
+    "link": "http://esg.soonest.com/Home/Index",
+    "date_raw": "10/21 三 18:30",
+    "month": 10,
+    "day": 21,
+    "weekday": "三",
+    "start_time": "18:30",
+    "location": "新北市板橋區第一運動場",
+    "region": "新北市",
+    "distances": [
+      {
+        "label": "5K",
+        "fee": 0,
+        "limit": null
+      }
+    ],
+    "categories": [
+      "休閒"
+    ],
+    "max_km": 5.0,
+    "organizer": "捷迅股份有限公司",
+    "status": "10月12日 ~ 10月18日",
+    "status_raw": "10月12日 ~ 10月18日",
+    "reg_state": "upcoming",
+    "is_past": false,
+    "is_new": true,
+    "month_tag": "",
+    "year": 2026
+  },
+  {
+    "name": "2026 濁水溪紫金馬拉松-高手名間站",
+    "link": "https://fsurl.cc/261024HY",
+    "date_raw": "10/24 六 06:30",
+    "month": 10,
+    "day": 24,
+    "weekday": "六",
+    "start_time": "06:30",
+    "location": "南投縣名間鄉受天宮第二停車場",
+    "region": "南投縣",
+    "distances": [
+      {
+        "label": "21K",
+        "fee": 1000,
+        "limit": null
+      },
+      {
+        "label": "11K",
+        "fee": 800,
+        "limit": null
+      },
+      {
+        "label": "6K",
+        "fee": 600,
+        "limit": null
+      }
+    ],
+    "categories": [
+      "10K+",
+      "休閒",
+      "半馬"
+    ],
+    "max_km": 21.0,
+    "organizer": "名間鄉公所",
+    "status": "~ 9月15日 (最後四天)",
+    "status_raw": "~ 9月15日 (最後四天)",
+    "reg_state": "open",
+    "is_past": false,
+    "is_new": false,
+    "month_tag": "",
+    "year": 2026
+  },
+  {
     "name": "2026 北埔膨風路跑嘉年華",
     "link": "https://bao-ming.com/eb/content/7046#33022",
     "date_raw": "10/24 六 06:30",
@@ -2544,48 +2616,6 @@
     "status": "已截止",
     "status_raw": "已截止",
     "reg_state": "closed",
-    "is_past": false,
-    "is_new": false,
-    "month_tag": "",
-    "year": 2026
-  },
-  {
-    "name": "2026 濁水溪紫金馬拉松-高手名間站",
-    "link": "https://fsurl.cc/261024HY",
-    "date_raw": "10/24 六 06:30",
-    "month": 10,
-    "day": 24,
-    "weekday": "六",
-    "start_time": "06:30",
-    "location": "南投縣名間鄉受天宮第二停車場",
-    "region": "南投縣",
-    "distances": [
-      {
-        "label": "21K",
-        "fee": 1000,
-        "limit": null
-      },
-      {
-        "label": "11K",
-        "fee": 800,
-        "limit": null
-      },
-      {
-        "label": "6K",
-        "fee": 600,
-        "limit": null
-      }
-    ],
-    "categories": [
-      "10K+",
-      "休閒",
-      "半馬"
-    ],
-    "max_km": 21.0,
-    "organizer": "名間鄉公所",
-    "status": "~ 9月15日 (最後一週)",
-    "status_raw": "~ 9月15日 (最後一週)",
-    "reg_state": "open",
     "is_past": false,
     "is_new": false,
     "month_tag": "",
@@ -2816,8 +2846,8 @@
     ],
     "max_km": 21.0,
     "organizer": "雲林縣虎馬路跑協會",
-    "status": "4月13日 ~ 9月18日",
-    "status_raw": "4月13日 ~ 9月18日",
+    "status": "4月13日 ~ 9月18日 (最後一週)",
+    "status_raw": "4月13日 ~ 9月18日 (最後一週)",
     "reg_state": "open",
     "is_past": false,
     "is_new": true,
@@ -2863,8 +2893,8 @@
     ],
     "max_km": 21.0,
     "organizer": "華陀扶元堂",
-    "status": "2月13日 ~ 9月12日 (最後二天)",
-    "status_raw": "2月13日 ~ 9月12日 (最後二天)",
+    "status": "2月13日 ~ 9月12日 (最後一天)",
+    "status_raw": "2月13日 ~ 9月12日 (最後一天)",
     "reg_state": "open",
     "is_past": false,
     "is_new": false,
@@ -2873,7 +2903,7 @@
   },
   {
     "name": "2026 IRONKIDS Taiwan 墾丁國際小鐵人三項賽",
-    "link": "",
+    "link": "https://www.ironman.com/races/im703-kenting/ironkids",
     "date_raw": "10/31 六",
     "month": 10,
     "day": 31,
@@ -2902,7 +2932,7 @@
     "status_raw": "",
     "reg_state": "upcoming",
     "is_past": false,
-    "is_new": false,
+    "is_new": true,
     "month_tag": "",
     "year": 2026
   },
@@ -3301,7 +3331,7 @@
   },
   {
     "name": "2026 IRONMAN 70.3 Kenting 墾丁國際鐵人三項賽",
-    "link": "",
+    "link": "https://www.ironman.com/races/im703-kenting",
     "date_raw": "11/01 日",
     "month": 11,
     "day": 1,
@@ -3325,7 +3355,7 @@
     "status_raw": "",
     "reg_state": "upcoming",
     "is_past": false,
-    "is_new": false,
+    "is_new": true,
     "month_tag": "",
     "year": 2026
   },
@@ -3530,8 +3560,8 @@
     ],
     "max_km": 42.195,
     "organizer": "林內鄉公所",
-    "status": "~ 9月15日 (最後一週)",
-    "status_raw": "~ 9月15日 (最後一週)",
+    "status": "~ 9月15日 (最後四天)",
+    "status_raw": "~ 9月15日 (最後四天)",
     "reg_state": "open",
     "is_past": false,
     "is_new": false,
@@ -3560,8 +3590,8 @@
     ],
     "max_km": 10.0,
     "organizer": "義大醫療財團法人義大醫院",
-    "status": "8月21日 ~ 9月18日",
-    "status_raw": "8月21日 ~ 9月18日",
+    "status": "8月21日 ~ 9月18日 (最後一週)",
+    "status_raw": "8月21日 ~ 9月18日 (最後一週)",
     "reg_state": "open",
     "is_past": false,
     "is_new": false,
@@ -3608,9 +3638,9 @@
     ],
     "max_km": 42.195,
     "organizer": "臺東縣卑南鄉公所/臺東縣知本溫泉觀光發展促進協會",
-    "status": "~ 9月11日 (最後一天)",
-    "status_raw": "~ 9月11日 (最後一天)",
-    "reg_state": "open",
+    "status": "已截止",
+    "status_raw": "已截止",
+    "reg_state": "closed",
     "is_past": false,
     "is_new": false,
     "month_tag": "",
@@ -3786,8 +3816,8 @@
     ],
     "max_km": 42.195,
     "organizer": "連江縣政府/交通部觀光署馬祖國家風景區管理處",
-    "status": "7月15日 ~ 9月15日 (最後一週)",
-    "status_raw": "7月15日 ~ 9月15日 (最後一週)",
+    "status": "7月15日 ~ 9月15日 (最後四天)",
+    "status_raw": "7月15日 ~ 9月15日 (最後四天)",
     "reg_state": "open",
     "is_past": false,
     "is_new": false,
@@ -4348,9 +4378,9 @@
     ],
     "max_km": 21.0,
     "organizer": "新竹縣竹北市公所",
-    "status": "7月28日 ~ 9月11日 (最後一天)",
-    "status_raw": "7月28日 ~ 9月11日 (最後一天)",
-    "reg_state": "open",
+    "status": "已截止",
+    "status_raw": "已截止",
+    "reg_state": "closed",
     "is_past": false,
     "is_new": false,
     "month_tag": "",
@@ -4484,34 +4514,34 @@
   },
   {
     "name": "2026 屏東墾丁日本航空國際馬拉松",
-    "link": "",
-    "date_raw": "11/15 日",
+    "link": "https://bao-ming.com/eb/content/7073#33083",
+    "date_raw": "11/15 日 06:00",
     "month": 11,
     "day": 15,
     "weekday": "日",
-    "start_time": "",
+    "start_time": "06:00",
     "location": "屏東縣恆春鎮墾丁大灣遊憩區",
     "region": "屏東縣",
     "distances": [
       {
         "label": "42.195K",
-        "fee": null,
-        "limit": null
+        "fee": 1450,
+        "limit": 800
       },
       {
         "label": "21K",
-        "fee": null,
-        "limit": null
+        "fee": 1250,
+        "limit": 1200
       },
       {
         "label": "12K",
-        "fee": null,
-        "limit": null
+        "fee": 1050,
+        "limit": 1000
       },
       {
         "label": "4K",
-        "fee": null,
-        "limit": null
+        "fee": 850,
+        "limit": 500
       }
     ],
     "categories": [
@@ -4522,11 +4552,11 @@
     ],
     "max_km": 42.195,
     "organizer": "屏東縣政府",
-    "status": "",
-    "status_raw": "",
-    "reg_state": "upcoming",
+    "status": "~ 9月30日",
+    "status_raw": "~ 9月30日",
+    "reg_state": "open",
     "is_past": false,
-    "is_new": false,
+    "is_new": true,
     "month_tag": "",
     "year": 2026
   },
@@ -4612,8 +4642,8 @@
     ],
     "max_km": 42.195,
     "organizer": "彰化縣二鹿慢跑協會",
-    "status": "6月15日 ~ 9月15日 (最後一週)",
-    "status_raw": "6月15日 ~ 9月15日 (最後一週)",
+    "status": "6月15日 ~ 9月15日 (最後四天)",
+    "status_raw": "6月15日 ~ 9月15日 (最後四天)",
     "reg_state": "open",
     "is_past": false,
     "is_new": false,
@@ -4707,6 +4737,36 @@
     "reg_state": "open",
     "is_past": false,
     "is_new": false,
+    "month_tag": "",
+    "year": 2026
+  },
+  {
+    "name": "最強市民飆5K－新北市5000公尺挑戰賽 十一月場",
+    "link": "http://esg.soonest.com/Home/Index",
+    "date_raw": "11/18 三 18:30",
+    "month": 11,
+    "day": 18,
+    "weekday": "三",
+    "start_time": "18:30",
+    "location": "新北市板橋區第一運動場",
+    "region": "新北市",
+    "distances": [
+      {
+        "label": "5K",
+        "fee": 0,
+        "limit": null
+      }
+    ],
+    "categories": [
+      "休閒"
+    ],
+    "max_km": 5.0,
+    "organizer": "捷迅股份有限公司",
+    "status": "11月09日 ~ 11月15日",
+    "status_raw": "11月09日 ~ 11月15日",
+    "reg_state": "upcoming",
+    "is_past": false,
+    "is_new": true,
     "month_tag": "",
     "year": 2026
   },
@@ -5015,8 +5075,8 @@
     ],
     "max_km": 21.0,
     "organizer": "中華民國路跑協會",
-    "status": "5月05日 ~ 9月14日 (最後四天)",
-    "status_raw": "5月05日 ~ 9月14日 (最後四天)",
+    "status": "5月05日 ~ 9月14日 (最後三天)",
+    "status_raw": "5月05日 ~ 9月14日 (最後三天)",
     "reg_state": "open",
     "is_past": false,
     "is_new": false,
@@ -6372,6 +6432,36 @@
     "year": 2026
   },
   {
+    "name": "最強市民飆5K－新北市5000公尺挑戰賽 十二月場",
+    "link": "http://esg.soonest.com/Home/Index",
+    "date_raw": "12/16 三 18:30",
+    "month": 12,
+    "day": 16,
+    "weekday": "三",
+    "start_time": "18:30",
+    "location": "新北市板橋區第一運動場",
+    "region": "新北市",
+    "distances": [
+      {
+        "label": "5K",
+        "fee": 0,
+        "limit": null
+      }
+    ],
+    "categories": [
+      "休閒"
+    ],
+    "max_km": 5.0,
+    "organizer": "捷迅股份有限公司",
+    "status": "12月07日 ~ 12月13日",
+    "status_raw": "12月07日 ~ 12月13日",
+    "reg_state": "upcoming",
+    "is_past": false,
+    "is_new": true,
+    "month_tag": "",
+    "year": 2026
+  },
+  {
     "name": "第十三屆赤足(BAREFOOT)馬拉松完成賽",
     "link": "https://docs.google.com/document/d/1SGoC2ZeKTGgzPZVbL6aTQAXk7dQbZn7T/edit?usp=sharing&ouid=110764794774391593445&rtpof=true&sd=true",
     "date_raw": "12/17 四 15:00",
@@ -6973,29 +7063,29 @@
   },
   {
     "name": "2027 屏東風域曙光路跑",
-    "link": "",
-    "date_raw": "01/01 五",
+    "link": "https://bao-ming.com/eb/content/7165#33608",
+    "date_raw": "01/01 五 06:40",
     "month": 1,
     "day": 1,
     "weekday": "五",
-    "start_time": "",
+    "start_time": "06:40",
     "location": "屏東縣滿州鄉佳樂水風景區",
     "region": "屏東縣",
     "distances": [
       {
         "label": "21K",
-        "fee": null,
-        "limit": null
+        "fee": 1050,
+        "limit": 300
       },
       {
         "label": "10K",
-        "fee": null,
-        "limit": null
+        "fee": 850,
+        "limit": 400
       },
       {
         "label": "4K",
-        "fee": null,
-        "limit": null
+        "fee": 500,
+        "limit": 500
       }
     ],
     "categories": [
@@ -7005,11 +7095,11 @@
     ],
     "max_km": 21.0,
     "organizer": "屏東縣政府",
-    "status": "",
-    "status_raw": "",
-    "reg_state": "upcoming",
+    "status": "8月14日 ~ 11月21日",
+    "status_raw": "8月14日 ~ 11月21日",
+    "reg_state": "open",
     "is_past": false,
-    "is_new": false,
+    "is_new": true,
     "month_tag": "1月",
     "year": 2027
   },
@@ -8103,29 +8193,29 @@
   },
   {
     "name": "2027 臺南古都國際半程馬拉松",
-    "link": "",
-    "date_raw": "03/07 日",
+    "link": "https://bao-ming.com/eb/content/7181#33748",
+    "date_raw": "03/07 日 05:30",
     "month": 3,
     "day": 7,
     "weekday": "日",
-    "start_time": "",
+    "start_time": "05:30",
     "location": "臺南市安平區永華市政中心南島路",
     "region": "臺南市",
     "distances": [
       {
         "label": "21.0975K",
-        "fee": null,
-        "limit": null
+        "fee": 1100,
+        "limit": 10500
       },
       {
         "label": "10K",
-        "fee": null,
-        "limit": null
+        "fee": 950,
+        "limit": 9500
       },
       {
         "label": "5K",
-        "fee": null,
-        "limit": null
+        "fee": 550,
+        "limit": 5000
       }
     ],
     "categories": [
@@ -8134,12 +8224,12 @@
       "半馬"
     ],
     "max_km": 21.0975,
-    "organizer": "",
-    "status": "",
-    "status_raw": "",
-    "reg_state": "upcoming",
+    "organizer": "臺南市政府",
+    "status": "9月07日 ~ 11月06日",
+    "status_raw": "9月07日 ~ 11月06日",
+    "reg_state": "open",
     "is_past": false,
-    "is_new": false,
+    "is_new": true,
     "month_tag": "",
     "year": 2027
   },
@@ -8749,6 +8839,36 @@
     "year": 2027
   },
   {
+    "name": "2027 IRONKIDS 澎湖國際小鐵人三項賽",
+    "link": "https://www.taiwantriathlon.com/pages/im2027",
+    "date_raw": "04/10 六",
+    "month": 4,
+    "day": 10,
+    "weekday": "六",
+    "start_time": "",
+    "location": "澎湖縣馬公市嵵裡國小",
+    "region": "澎湖縣",
+    "distances": [
+      {
+        "label": "0.2K+1.6K",
+        "fee": null,
+        "limit": null
+      }
+    ],
+    "categories": [
+      "休閒"
+    ],
+    "max_km": 0.2,
+    "organizer": "LAVA 鐵人公司",
+    "status": "",
+    "status_raw": "",
+    "reg_state": "upcoming",
+    "is_past": false,
+    "is_new": true,
+    "month_tag": "4月",
+    "year": 2027
+  },
+  {
     "name": "7th CRUFU RUN 夸父追日跨夜接力賽-東臺灣站",
     "link": "",
     "date_raw": "04/10 六",
@@ -8775,7 +8895,7 @@
     "reg_state": "upcoming",
     "is_past": false,
     "is_new": false,
-    "month_tag": "4月",
+    "month_tag": "",
     "year": 2027
   },
   {
@@ -8811,6 +8931,36 @@
     "reg_state": "closed",
     "is_past": false,
     "is_new": false,
+    "month_tag": "",
+    "year": 2027
+  },
+  {
+    "name": "2027 IRONMAN Penghu 澎湖國際鐵人三項賽",
+    "link": "https://www.taiwantriathlon.com/pages/im2027 ",
+    "date_raw": "04/11 日",
+    "month": 4,
+    "day": 11,
+    "weekday": "日",
+    "start_time": "",
+    "location": "澎湖縣馬公市嵵裡國小",
+    "region": "澎湖縣",
+    "distances": [
+      {
+        "label": "3.8K+180K+42.2K",
+        "fee": null,
+        "limit": null
+      }
+    ],
+    "categories": [
+      "休閒"
+    ],
+    "max_km": 3.8,
+    "organizer": "LAVA 鐵人公司",
+    "status": "",
+    "status_raw": "",
+    "reg_state": "upcoming",
+    "is_past": false,
+    "is_new": true,
     "month_tag": "",
     "year": 2027
   },
