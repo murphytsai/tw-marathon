@@ -1,35 +1,5 @@
 [
   {
-    "name": "臺灣環島跑者圓夢計畫III(火車站環島體驗賽)",
-    "link": "https://www.joinnow.com.tw/2026runningfordreams.php",
-    "date_raw": "09/12 六 05:30",
-    "month": 9,
-    "day": 12,
-    "weekday": "六",
-    "start_time": "05:30",
-    "location": "苗栗縣竹南鎮竹南火車站",
-    "region": "苗栗縣",
-    "distances": [
-      {
-        "label": "101K",
-        "fee": null,
-        "limit": 150
-      }
-    ],
-    "categories": [
-      "全馬"
-    ],
-    "max_km": 101.0,
-    "organizer": "臺灣環島跑者聯盟協會",
-    "status": "已截止",
-    "status_raw": "已截止",
-    "reg_state": "closed",
-    "is_past": true,
-    "is_new": false,
-    "month_tag": "9月",
-    "year": 2026
-  },
-  {
     "name": "2026 年馬祖莒光星光夜跑",
     "link": "https://ctrun.tw/GK260912",
     "date_raw": "09/12 六 16:00",
@@ -62,7 +32,7 @@
     "reg_state": "closed",
     "is_past": true,
     "is_new": false,
-    "month_tag": "",
+    "month_tag": "9月",
     "year": 2026
   },
   {
@@ -1004,7 +974,7 @@
     "status_raw": "已截止",
     "reg_state": "closed",
     "is_past": false,
-    "is_new": false,
+    "is_new": true,
     "month_tag": "",
     "year": 2026
   },
@@ -1504,8 +1474,8 @@
     ],
     "max_km": 0.4,
     "organizer": "國立虎尾科技大學體育室",
-    "status": "8月20日 ~ 9月18日 (最後一週)",
-    "status_raw": "8月20日 ~ 9月18日 (最後一週)",
+    "status": "8月20日 ~ 9月18日 (最後四天)",
+    "status_raw": "8月20日 ~ 9月18日 (最後四天)",
     "reg_state": "open",
     "is_past": false,
     "is_new": false,
@@ -1534,8 +1504,8 @@
     ],
     "max_km": 3.8,
     "organizer": "中華民國全能運動協會/臺南市早起鳥路跑協會",
-    "status": "6月30日 ~ 9月15日 (最後二天)",
-    "status_raw": "6月30日 ~ 9月15日 (最後二天)",
+    "status": "6月30日 ~ 9月15日 (最後一天)",
+    "status_raw": "6月30日 ~ 9月15日 (最後一天)",
     "reg_state": "open",
     "is_past": false,
     "is_new": false,
@@ -2499,8 +2469,8 @@
     ],
     "max_km": 21.0,
     "organizer": "名間鄉公所",
-    "status": "~ 9月15日 (最後二天)",
-    "status_raw": "~ 9月15日 (最後二天)",
+    "status": "~ 9月15日 (最後一天)",
+    "status_raw": "~ 9月15日 (最後一天)",
     "reg_state": "open",
     "is_past": false,
     "is_new": false,
@@ -2541,8 +2511,8 @@
     ],
     "max_km": 21.0,
     "organizer": "北埔鄉公所",
-    "status": "~ 9月17日 (最後四天)",
-    "status_raw": "~ 9月17日 (最後四天)",
+    "status": "~ 9月17日 (最後三天)",
+    "status_raw": "~ 9月17日 (最後三天)",
     "reg_state": "open",
     "is_past": false,
     "is_new": false,
@@ -2816,8 +2786,8 @@
     ],
     "max_km": 21.0,
     "organizer": "雲林縣虎馬路跑協會",
-    "status": "4月13日 ~ 9月18日 (最後一週)",
-    "status_raw": "4月13日 ~ 9月18日 (最後一週)",
+    "status": "4月13日 ~ 9月18日 (最後四天)",
+    "status_raw": "4月13日 ~ 9月18日 (最後四天)",
     "reg_state": "open",
     "is_past": false,
     "is_new": true,
@@ -3207,8 +3177,8 @@
     ],
     "max_km": 21.0,
     "organizer": "南野子國際行銷股份有限公司",
-    "status": "6月26日 ~ 9月16日 (最後三天)",
-    "status_raw": "6月26日 ~ 9月16日 (最後三天)",
+    "status": "6月26日 ~ 9月16日 (最後二天)",
+    "status_raw": "6月26日 ~ 9月16日 (最後二天)",
     "reg_state": "open",
     "is_past": false,
     "is_new": false,
@@ -3530,8 +3500,8 @@
     ],
     "max_km": 42.195,
     "organizer": "林內鄉公所",
-    "status": "~ 9月15日 (最後二天)",
-    "status_raw": "~ 9月15日 (最後二天)",
+    "status": "~ 9月15日 (最後一天)",
+    "status_raw": "~ 9月15日 (最後一天)",
     "reg_state": "open",
     "is_past": false,
     "is_new": false,
@@ -3560,8 +3530,8 @@
     ],
     "max_km": 10.0,
     "organizer": "義大醫療財團法人義大醫院",
-    "status": "8月21日 ~ 9月18日 (最後一週)",
-    "status_raw": "8月21日 ~ 9月18日 (最後一週)",
+    "status": "8月21日 ~ 9月18日 (最後四天)",
+    "status_raw": "8月21日 ~ 9月18日 (最後四天)",
     "reg_state": "open",
     "is_past": false,
     "is_new": false,
@@ -3786,8 +3756,8 @@
     ],
     "max_km": 42.195,
     "organizer": "連江縣政府/交通部觀光署馬祖國家風景區管理處",
-    "status": "7月15日 ~ 9月15日 (最後二天)",
-    "status_raw": "7月15日 ~ 9月15日 (最後二天)",
+    "status": "7月15日 ~ 9月15日 (最後一天)",
+    "status_raw": "7月15日 ~ 9月15日 (最後一天)",
     "reg_state": "open",
     "is_past": false,
     "is_new": false,
@@ -3914,6 +3884,48 @@
     "year": 2026
   },
   {
+    "name": "2026 ZEPRO RUN 全國半程馬拉松-新竹場",
+    "link": "http://ctrun.tw/ZP1108",
+    "date_raw": "11/08 日 06:00",
+    "month": 11,
+    "day": 8,
+    "weekday": "日",
+    "start_time": "06:00",
+    "location": "新竹縣竹北市縣立體育場",
+    "region": "新竹縣",
+    "distances": [
+      {
+        "label": "21K",
+        "fee": null,
+        "limit": null
+      },
+      {
+        "label": "10K",
+        "fee": null,
+        "limit": null
+      },
+      {
+        "label": "5.5K",
+        "fee": null,
+        "limit": null
+      }
+    ],
+    "categories": [
+      "10K+",
+      "休閒",
+      "半馬"
+    ],
+    "max_km": 21.0,
+    "organizer": "全統運動用品股份有限公司",
+    "status": "已截止",
+    "status_raw": "已截止",
+    "reg_state": "closed",
+    "is_past": false,
+    "is_new": false,
+    "month_tag": "",
+    "year": 2026
+  },
+  {
     "name": "2026 屏東馬拉松",
     "link": "https://ctrun.tw/PT1108",
     "date_raw": "11/08 日 06:00",
@@ -3953,48 +3965,6 @@
     ],
     "max_km": 42.195,
     "organizer": "屏東縣政府",
-    "status": "已截止",
-    "status_raw": "已截止",
-    "reg_state": "closed",
-    "is_past": false,
-    "is_new": false,
-    "month_tag": "",
-    "year": 2026
-  },
-  {
-    "name": "2026 ZEPRO RUN 全國半程馬拉松-新竹場",
-    "link": "http://ctrun.tw/ZP1108",
-    "date_raw": "11/08 日 06:00",
-    "month": 11,
-    "day": 8,
-    "weekday": "日",
-    "start_time": "06:00",
-    "location": "新竹縣竹北市縣立體育場",
-    "region": "新竹縣",
-    "distances": [
-      {
-        "label": "21K",
-        "fee": null,
-        "limit": null
-      },
-      {
-        "label": "10K",
-        "fee": null,
-        "limit": null
-      },
-      {
-        "label": "5.5K",
-        "fee": null,
-        "limit": null
-      }
-    ],
-    "categories": [
-      "10K+",
-      "休閒",
-      "半馬"
-    ],
-    "max_km": 21.0,
-    "organizer": "全統運動用品股份有限公司",
     "status": "已截止",
     "status_raw": "已截止",
     "reg_state": "closed",
@@ -4612,8 +4582,8 @@
     ],
     "max_km": 42.195,
     "organizer": "彰化縣二鹿慢跑協會",
-    "status": "6月15日 ~ 9月15日 (最後二天)",
-    "status_raw": "6月15日 ~ 9月15日 (最後二天)",
+    "status": "6月15日 ~ 9月15日 (最後一天)",
+    "status_raw": "6月15日 ~ 9月15日 (最後一天)",
     "reg_state": "open",
     "is_past": false,
     "is_new": false,
@@ -5045,9 +5015,9 @@
     ],
     "max_km": 21.0,
     "organizer": "中華民國路跑協會",
-    "status": "5月05日 ~ 9月14日 (最後一天)",
-    "status_raw": "5月05日 ~ 9月14日 (最後一天)",
-    "reg_state": "open",
+    "status": "已截止",
+    "status_raw": "已截止",
+    "reg_state": "closed",
     "is_past": false,
     "is_new": false,
     "month_tag": "",
@@ -7122,6 +7092,48 @@
     "year": 2027
   },
   {
+    "name": "2027 年新北都會國際半程馬拉松",
+    "link": "https://ctrun.tw/MZ270103",
+    "date_raw": "01/03 日",
+    "month": 1,
+    "day": 3,
+    "weekday": "日",
+    "start_time": "",
+    "location": "新北市三重區新北大都會公園(近熊猴森樂園草坪)",
+    "region": "新北市",
+    "distances": [
+      {
+        "label": "21K",
+        "fee": null,
+        "limit": null
+      },
+      {
+        "label": "10.5K",
+        "fee": null,
+        "limit": null
+      },
+      {
+        "label": "4.5K",
+        "fee": null,
+        "limit": null
+      }
+    ],
+    "categories": [
+      "10K+",
+      "休閒",
+      "半馬"
+    ],
+    "max_km": 21.0,
+    "organizer": "全統運動用品股份有限公司",
+    "status": "9月22日 ~ 11月05日",
+    "status_raw": "9月22日 ~ 11月05日",
+    "reg_state": "upcoming",
+    "is_past": false,
+    "is_new": true,
+    "month_tag": "",
+    "year": 2027
+  },
+  {
     "name": "2027 SUPERACE 野馬越野系列賽冬嶺野馬",
     "link": "https://bao-ming.com/eb/content/7163#33484",
     "date_raw": "01/03 日 08:00",
@@ -7310,7 +7322,7 @@
     "organizer": "樂活資訊服務(股)公司",
     "status": "9月15日 ~ 10月25日",
     "status_raw": "9月15日 ~ 10月25日",
-    "reg_state": "upcoming",
+    "reg_state": "open",
     "is_past": false,
     "is_new": true,
     "month_tag": "",
@@ -7443,6 +7455,48 @@
     "reg_state": "upcoming",
     "is_past": false,
     "is_new": false,
+    "month_tag": "",
+    "year": 2027
+  },
+  {
+    "name": "2027 臺中 MIZUNO 國際半程馬拉松",
+    "link": "https://ctrun.tw/MZ270117",
+    "date_raw": "01/17 日",
+    "month": 1,
+    "day": 17,
+    "weekday": "日",
+    "start_time": "",
+    "location": "臺中市西屯區中央球場",
+    "region": "臺中市",
+    "distances": [
+      {
+        "label": "21K",
+        "fee": null,
+        "limit": null
+      },
+      {
+        "label": "10K",
+        "fee": null,
+        "limit": null
+      },
+      {
+        "label": "3.5K",
+        "fee": null,
+        "limit": null
+      }
+    ],
+    "categories": [
+      "10K+",
+      "休閒",
+      "半馬"
+    ],
+    "max_km": 21.0,
+    "organizer": "全統運動用品股份有限公司",
+    "status": "9月17日 ~ 10月29日",
+    "status_raw": "9月17日 ~ 10月29日",
+    "reg_state": "upcoming",
+    "is_past": false,
+    "is_new": true,
     "month_tag": "",
     "year": 2027
   },
@@ -8281,6 +8335,48 @@
     "year": 2027
   },
   {
+    "name": "2027 花蓮太平洋浪花半程馬拉松",
+    "link": "",
+    "date_raw": "03/13 六",
+    "month": 3,
+    "day": 13,
+    "weekday": "六",
+    "start_time": "",
+    "location": "花蓮縣壽豐鄉海洋公園前",
+    "region": "花蓮縣",
+    "distances": [
+      {
+        "label": "21K",
+        "fee": null,
+        "limit": null
+      },
+      {
+        "label": "12K",
+        "fee": null,
+        "limit": null
+      },
+      {
+        "label": "6K",
+        "fee": null,
+        "limit": null
+      }
+    ],
+    "categories": [
+      "10K+",
+      "休閒",
+      "半馬"
+    ],
+    "max_km": 21.0,
+    "organizer": "花蓮縣體育會",
+    "status": "",
+    "status_raw": "",
+    "reg_state": "upcoming",
+    "is_past": false,
+    "is_new": true,
+    "month_tag": "",
+    "year": 2027
+  },
+  {
     "name": "2027 第16屆南橫(霧鹿峽谷)超級馬拉松",
     "link": "https://bao-ming.com/eb/content/7159#33422",
     "date_raw": "03/13 六 05:00",
@@ -8543,7 +8639,7 @@
     "year": 2027
   },
   {
-    "name": "2027 集集濁水溪半程國際馬拉松",
+    "name": "2027 臺灣集集半程國際馬拉松",
     "link": "",
     "date_raw": "03/21 日",
     "month": 3,
@@ -8564,7 +8660,7 @@
         "limit": null
       },
       {
-        "label": "5.2K",
+        "label": "5.20K",
         "fee": null,
         "limit": null
       }
@@ -8580,7 +8676,7 @@
     "status_raw": "",
     "reg_state": "upcoming",
     "is_past": false,
-    "is_new": false,
+    "is_new": true,
     "month_tag": "",
     "year": 2027
   },
