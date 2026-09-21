@@ -2264,7 +2264,7 @@
     "status_raw": "10月12日 ~ 10月18日",
     "reg_state": "upcoming",
     "is_past": false,
-    "is_new": true,
+    "is_new": false,
     "month_tag": "",
     "year": 2026
   },
@@ -2791,9 +2791,9 @@
     ],
     "max_km": 42.195,
     "organizer": "議長張清照服務處/清水紫雲巖管理委員會",
-    "status": "5月04日 ~ 9月20日 (最後一天)",
-    "status_raw": "5月04日 ~ 9月20日 (最後一天)",
-    "reg_state": "open",
+    "status": "已截止",
+    "status_raw": "已截止",
+    "reg_state": "closed",
     "is_past": false,
     "is_new": false,
     "month_tag": "",
@@ -2839,8 +2839,8 @@
     ],
     "max_km": 42.195,
     "organizer": "國立聯合大學/臺灣鐵人運動協會",
-    "status": "6月15日 ~ 9月22日 (最後三天)",
-    "status_raw": "6月15日 ~ 9月22日 (最後三天)",
+    "status": "6月15日 ~ 9月22日 (最後二天)",
+    "status_raw": "6月15日 ~ 9月22日 (最後二天)",
     "reg_state": "open",
     "is_past": false,
     "is_new": false,
@@ -4539,7 +4539,7 @@
     "status_raw": "11月09日 ~ 11月15日",
     "reg_state": "upcoming",
     "is_past": false,
-    "is_new": true,
+    "is_new": false,
     "month_tag": "",
     "year": 2026
   },
@@ -4806,9 +4806,9 @@
     ],
     "max_km": 21.0,
     "organizer": "客家委員會客家文化發展中心",
-    "status": "8月17日 ~ 9月20日 (最後一天)",
-    "status_raw": "8月17日 ~ 9月20日 (最後一天)",
-    "reg_state": "open",
+    "status": "已截止",
+    "status_raw": "已截止",
+    "reg_state": "closed",
     "is_past": false,
     "is_new": false,
     "month_tag": "",
@@ -5395,8 +5395,8 @@
     ],
     "max_km": 24.7,
     "organizer": "新北市政府觀光旅遊局",
-    "status": "7月09日 ~ 9月22日 (最後三天)",
-    "status_raw": "7月09日 ~ 9月22日 (最後三天)",
+    "status": "7月09日 ~ 9月22日 (最後二天)",
+    "status_raw": "7月09日 ~ 9月22日 (最後二天)",
     "reg_state": "open",
     "is_past": false,
     "is_new": false,
@@ -6230,7 +6230,7 @@
     "status_raw": "12月07日 ~ 12月13日",
     "reg_state": "upcoming",
     "is_past": false,
-    "is_new": true,
+    "is_new": false,
     "month_tag": "",
     "year": 2026
   },
@@ -8126,48 +8126,6 @@
     "year": 2027
   },
   {
-    "name": "2027 第二屆木棉花半程馬拉松",
-    "link": "https://lohasnet.tw/#/event",
-    "date_raw": "03/13 六",
-    "month": 3,
-    "day": 13,
-    "weekday": "六",
-    "start_time": "",
-    "location": "臺南市白河區運動公園",
-    "region": "臺南市",
-    "distances": [
-      {
-        "label": "21K",
-        "fee": null,
-        "limit": null
-      },
-      {
-        "label": "11K",
-        "fee": null,
-        "limit": null
-      },
-      {
-        "label": "4K",
-        "fee": null,
-        "limit": null
-      }
-    ],
-    "categories": [
-      "10K+",
-      "休閒",
-      "半馬"
-    ],
-    "max_km": 21.0,
-    "organizer": "雲林縣三鐵運動協會",
-    "status": "",
-    "status_raw": "",
-    "reg_state": "upcoming",
-    "is_past": false,
-    "is_new": false,
-    "month_tag": "",
-    "year": 2027
-  },
-  {
     "name": "2027 花蓮太平洋浪花半程馬拉松",
     "link": "",
     "date_raw": "03/13 六",
@@ -8252,6 +8210,48 @@
     "reg_state": "open",
     "is_past": false,
     "is_new": false,
+    "month_tag": "",
+    "year": 2027
+  },
+  {
+    "name": "2027 第二屆木棉花半程馬拉松",
+    "link": "https://lohasnet.tw/Kapok2027/",
+    "date_raw": "03/13 六 06:30",
+    "month": 3,
+    "day": 13,
+    "weekday": "六",
+    "start_time": "06:30",
+    "location": "臺南市白河區運動公園",
+    "region": "臺南市",
+    "distances": [
+      {
+        "label": "21K",
+        "fee": null,
+        "limit": 700
+      },
+      {
+        "label": "11K",
+        "fee": null,
+        "limit": 700
+      },
+      {
+        "label": "5K",
+        "fee": null,
+        "limit": 700
+      }
+    ],
+    "categories": [
+      "10K+",
+      "休閒",
+      "半馬"
+    ],
+    "max_km": 21.0,
+    "organizer": "雲林縣三鐵運動協會",
+    "status": "9月21日 ~ 1月10日",
+    "status_raw": "9月21日 ~ 1月10日",
+    "reg_state": "closed",
+    "is_past": false,
+    "is_new": true,
     "month_tag": "",
     "year": 2027
   },
@@ -8763,7 +8763,7 @@
     "status_raw": "",
     "reg_state": "upcoming",
     "is_past": false,
-    "is_new": true,
+    "is_new": false,
     "month_tag": "4月",
     "year": 2027
   },
@@ -8894,7 +8894,7 @@
     "status_raw": "",
     "reg_state": "upcoming",
     "is_past": false,
-    "is_new": true,
+    "is_new": false,
     "month_tag": "",
     "year": 2027
   },
