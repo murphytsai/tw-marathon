@@ -551,7 +551,7 @@
     "year": 2026
   },
   {
-    "name": "2026 新竹市「戀戀海岸線」快樂路跑",
+    "name": "*2026 新竹市「戀戀海岸線」快樂路跑*",
     "link": "https://lohasnet.tw/LoveCoastlineRun2026/",
     "date_raw": "10/04 日 06:00",
     "month": 10,
@@ -587,7 +587,7 @@
     "status_raw": "已截止",
     "reg_state": "closed",
     "is_past": false,
-    "is_new": false,
+    "is_new": true,
     "month_tag": "",
     "year": 2026
   },
@@ -1334,8 +1334,8 @@
     ],
     "max_km": 50.6,
     "organizer": "臺中市政府運動局/臺中市潭子區體育會",
-    "status": "6月03日 ~ 9月25日 (最後二天)",
-    "status_raw": "6月03日 ~ 9月25日 (最後二天)",
+    "status": "6月03日 ~ 9月25日 (最後一天)",
+    "status_raw": "6月03日 ~ 9月25日 (最後一天)",
     "reg_state": "open",
     "is_past": false,
     "is_new": true,
@@ -2712,8 +2712,8 @@
     ],
     "max_km": 102.5,
     "organizer": "TUR/臺灣龍虎鳳越野協會",
-    "status": "10月01日 ~ 10月01日",
-    "status_raw": "10月01日 ~ 10月01日",
+    "status": "10月01日 ~ 10月01日 (最後一週)",
+    "status_raw": "10月01日 ~ 10月01日 (最後一週)",
     "reg_state": "upcoming",
     "is_past": false,
     "is_new": false,
@@ -3569,8 +3569,8 @@
     ],
     "max_km": 50.0,
     "organizer": "中華民國越野跑協會",
-    "status": "5月25日 ~ 10月01日",
-    "status_raw": "5月25日 ~ 10月01日",
+    "status": "5月25日 ~ 10月01日 (最後一週)",
+    "status_raw": "5月25日 ~ 10月01日 (最後一週)",
     "reg_state": "open",
     "is_past": false,
     "is_new": false,
@@ -5228,8 +5228,8 @@
     ],
     "max_km": 21.0975,
     "organizer": "桃園市政府體育局",
-    "status": "6月26日 ~ 9月25日 (最後二天)",
-    "status_raw": "6月26日 ~ 9月25日 (最後二天)",
+    "status": "6月26日 ~ 9月25日 (最後一天)",
+    "status_raw": "6月26日 ~ 9月25日 (最後一天)",
     "reg_state": "open",
     "is_past": false,
     "is_new": false,
@@ -5701,8 +5701,8 @@
     ],
     "max_km": 42.195,
     "organizer": "苗栗縣通霄慢跑協會",
-    "status": "7月08日 ~ 10月01日",
-    "status_raw": "7月08日 ~ 10月01日",
+    "status": "7月08日 ~ 10月01日 (最後一週)",
+    "status_raw": "7月08日 ~ 10月01日 (最後一週)",
     "reg_state": "open",
     "is_past": false,
     "is_new": false,
@@ -6463,8 +6463,8 @@
     ],
     "max_km": 21.5,
     "organizer": "新營太子宮太子爺廟管理委員會",
-    "status": "7月08日 ~ 10月01日",
-    "status_raw": "7月08日 ~ 10月01日",
+    "status": "7月08日 ~ 10月01日 (最後一週)",
+    "status_raw": "7月08日 ~ 10月01日 (最後一週)",
     "reg_state": "open",
     "is_past": false,
     "is_new": false,
@@ -7008,7 +7008,7 @@
     "status_raw": "9月17日 ~ 10月29日",
     "reg_state": "open",
     "is_past": false,
-    "is_new": true,
+    "is_new": false,
     "month_tag": "",
     "year": 2027
   },
@@ -7497,7 +7497,7 @@
     "year": 2027
   },
   {
-    "name": "2027 晨曦麥香馬拉松",
+    "name": "2027 晨曦麥香-馳舞向前馬拉松",
     "link": "https://lohasnet.tw/MaiXiang2027/",
     "date_raw": "02/21 日 06:00",
     "month": 2,
@@ -7536,8 +7536,8 @@
     ],
     "max_km": 42.195,
     "organizer": "大雅中央獅子會/大雅永興宮",
-    "status": "10月01日 ~ 10月31日",
-    "status_raw": "10月01日 ~ 10月31日",
+    "status": "10月01日 ~ 11月16日",
+    "status_raw": "10月01日 ~ 11月16日",
     "reg_state": "upcoming",
     "is_past": false,
     "is_new": true,
@@ -7650,23 +7650,23 @@
     "distances": [
       {
         "label": "42.195K",
-        "fee": null,
-        "limit": null
+        "fee": 1300,
+        "limit": 800
       },
       {
-        "label": "21.0975K",
-        "fee": null,
-        "limit": null
+        "label": "21K",
+        "fee": 1100,
+        "limit": 600
       },
       {
         "label": "10K",
-        "fee": null,
-        "limit": null
+        "fee": 900,
+        "limit": 600
       },
       {
         "label": "3K",
-        "fee": null,
-        "limit": null
+        "fee": 399,
+        "limit": 500
       }
     ],
     "categories": [
@@ -7677,9 +7677,9 @@
     ],
     "max_km": 42.195,
     "organizer": "旭展國際同濟會/臺灣大腳丫長跑協會",
-    "status": "",
-    "status_raw": "",
-    "reg_state": "upcoming",
+    "status": "9月22日 ~ 1月31日",
+    "status_raw": "9月22日 ~ 1月31日",
+    "reg_state": "closed",
     "is_past": false,
     "is_new": true,
     "month_tag": "",
@@ -8017,54 +8017,6 @@
     "year": 2027
   },
   {
-    "name": "2027 高美濕地馬拉松",
-    "link": "https://lohasnet.tw/#/event",
-    "date_raw": "03/14 日",
-    "month": 3,
-    "day": 14,
-    "weekday": "日",
-    "start_time": "",
-    "location": "臺中市清水區臺中區漁會第二停車場",
-    "region": "臺中市",
-    "distances": [
-      {
-        "label": "42.195K",
-        "fee": null,
-        "limit": null
-      },
-      {
-        "label": "21K",
-        "fee": null,
-        "limit": null
-      },
-      {
-        "label": "10K",
-        "fee": null,
-        "limit": null
-      },
-      {
-        "label": "5K",
-        "fee": null,
-        "limit": null
-      }
-    ],
-    "categories": [
-      "10K+",
-      "休閒",
-      "全馬",
-      "半馬"
-    ],
-    "max_km": 42.195,
-    "organizer": "臺中市慢跑協會",
-    "status": "",
-    "status_raw": "",
-    "reg_state": "upcoming",
-    "is_past": false,
-    "is_new": false,
-    "month_tag": "",
-    "year": 2027
-  },
-  {
     "name": "2027 鳳山跑三校越野馬拉松",
     "link": "",
     "date_raw": "03/14 日",
@@ -8125,6 +8077,54 @@
     "reg_state": "upcoming",
     "is_past": false,
     "is_new": false,
+    "month_tag": "",
+    "year": 2027
+  },
+  {
+    "name": "2027 高美濕地馬拉松",
+    "link": "https://lohasnet.tw/Taichung_Harbor2027/",
+    "date_raw": "03/14 日 06:00",
+    "month": 3,
+    "day": 14,
+    "weekday": "日",
+    "start_time": "06:00",
+    "location": "臺中市清水區臺中區漁會第二停車場",
+    "region": "臺中市",
+    "distances": [
+      {
+        "label": "42.195K",
+        "fee": 1300,
+        "limit": null
+      },
+      {
+        "label": "21K",
+        "fee": 1150,
+        "limit": null
+      },
+      {
+        "label": "10K",
+        "fee": 1000,
+        "limit": null
+      },
+      {
+        "label": "5K",
+        "fee": 850,
+        "limit": null
+      }
+    ],
+    "categories": [
+      "10K+",
+      "休閒",
+      "全馬",
+      "半馬"
+    ],
+    "max_km": 42.195,
+    "organizer": "臺中市慢跑協會",
+    "status": "10月01日 ~ 12月31日",
+    "status_raw": "10月01日 ~ 12月31日",
+    "reg_state": "upcoming",
+    "is_past": false,
+    "is_new": true,
     "month_tag": "",
     "year": 2027
   },
