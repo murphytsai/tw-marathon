@@ -557,7 +557,7 @@
     "status_raw": "已截止",
     "reg_state": "closed",
     "is_past": false,
-    "is_new": true,
+    "is_new": false,
     "month_tag": "",
     "year": 2026
   },
@@ -2682,9 +2682,9 @@
     ],
     "max_km": 102.5,
     "organizer": "TUR/臺灣龍虎鳳越野協會",
-    "status": "10月01日 ~ 10月01日 (最後一天)",
-    "status_raw": "10月01日 ~ 10月01日 (最後一天)",
-    "reg_state": "open",
+    "status": "已截止",
+    "status_raw": "已截止",
+    "reg_state": "closed",
     "is_past": false,
     "is_new": false,
     "month_tag": "",
@@ -3539,9 +3539,9 @@
     ],
     "max_km": 50.0,
     "organizer": "中華民國越野跑協會",
-    "status": "5月25日 ~ 10月01日 (最後一天)",
-    "status_raw": "5月25日 ~ 10月01日 (最後一天)",
-    "reg_state": "open",
+    "status": "已截止",
+    "status_raw": "已截止",
+    "reg_state": "closed",
     "is_past": false,
     "is_new": false,
     "month_tag": "",
@@ -3980,11 +3980,11 @@
     ],
     "max_km": 21.0,
     "organizer": "臺北市電器商業同業公會",
-    "status": "已截止",
-    "status_raw": "已截止",
-    "reg_state": "closed",
+    "status": "6月10日 ~ 10月15日",
+    "status_raw": "6月10日 ~ 10月15日",
+    "reg_state": "open",
     "is_past": false,
-    "is_new": false,
+    "is_new": true,
     "month_tag": "",
     "year": 2026
   },
@@ -5671,9 +5671,9 @@
     ],
     "max_km": 42.195,
     "organizer": "苗栗縣通霄慢跑協會",
-    "status": "7月08日 ~ 10月01日 (最後一天)",
-    "status_raw": "7月08日 ~ 10月01日 (最後一天)",
-    "reg_state": "open",
+    "status": "已截止",
+    "status_raw": "已截止",
+    "reg_state": "closed",
     "is_past": false,
     "is_new": false,
     "month_tag": "",
@@ -5719,8 +5719,8 @@
     ],
     "max_km": 42.195,
     "organizer": "臺南市政府/中華民國田徑協會",
-    "status": "6月30日 ~ 10月02日 (最後二天)",
-    "status_raw": "6月30日 ~ 10月02日 (最後二天)",
+    "status": "6月30日 ~ 10月02日 (最後一天)",
+    "status_raw": "6月30日 ~ 10月02日 (最後一天)",
     "reg_state": "open",
     "is_past": false,
     "is_new": false,
@@ -5910,8 +5910,8 @@
     ],
     "max_km": 42.195,
     "organizer": "埔鹽順澤宮",
-    "status": "6月18日 ~ 10月04日 (最後四天)",
-    "status_raw": "6月18日 ~ 10月04日 (最後四天)",
+    "status": "6月18日 ~ 10月04日 (最後三天)",
+    "status_raw": "6月18日 ~ 10月04日 (最後三天)",
     "reg_state": "open",
     "is_past": false,
     "is_new": false,
@@ -6433,9 +6433,9 @@
     ],
     "max_km": 21.5,
     "organizer": "新營太子宮太子爺廟管理委員會",
-    "status": "7月08日 ~ 10月01日 (最後一天)",
-    "status_raw": "7月08日 ~ 10月01日 (最後一天)",
-    "reg_state": "open",
+    "status": "已截止",
+    "status_raw": "已截止",
+    "reg_state": "closed",
     "is_past": false,
     "is_new": false,
     "month_tag": "",
@@ -7488,7 +7488,7 @@
     "status_raw": "10月01日 ~ 11月16日",
     "reg_state": "open",
     "is_past": false,
-    "is_new": true,
+    "is_new": false,
     "month_tag": "",
     "year": 2027
   },
@@ -7516,7 +7516,7 @@
   },
   {
     "name": "2027 浪漫台三~戀戀大湖草莓文化嘉年華馬拉松",
-    "link": "",
+    "link": "https://ironman.org.tw/index.php/167",
     "date_raw": "02/27 六 07:00",
     "month": 2,
     "day": 27,
@@ -7527,23 +7527,23 @@
     "distances": [
       {
         "label": "42.195K",
-        "fee": null,
-        "limit": null
+        "fee": 1100,
+        "limit": 1000
       },
       {
         "label": "21K",
-        "fee": null,
-        "limit": null
+        "fee": 1000,
+        "limit": 1000
       },
       {
         "label": "11K",
-        "fee": null,
-        "limit": null
+        "fee": 900,
+        "limit": 1000
       },
       {
         "label": "5K",
-        "fee": null,
-        "limit": null
+        "fee": 750,
+        "limit": 1000
       }
     ],
     "categories": [
@@ -7554,11 +7554,11 @@
     ],
     "max_km": 42.195,
     "organizer": "大湖地區農會/臺灣鐵人運動協會",
-    "status": "",
-    "status_raw": "",
-    "reg_state": "upcoming",
+    "status": "10月01日 ~ 12月31日",
+    "status_raw": "10月01日 ~ 12月31日",
+    "reg_state": "open",
     "is_past": false,
-    "is_new": false,
+    "is_new": true,
     "month_tag": "",
     "year": 2027
   },
@@ -7651,7 +7651,7 @@
     "status_raw": "9月22日 ~ 1月31日",
     "reg_state": "closed",
     "is_past": false,
-    "is_new": true,
+    "is_new": false,
     "month_tag": "",
     "year": 2027
   },
@@ -7736,6 +7736,48 @@
     "reg_state": "open",
     "is_past": false,
     "is_new": false,
+    "month_tag": "",
+    "year": 2027
+  },
+  {
+    "name": "2027 扶輪公益路跑｜快樂奔跑・健康加倍",
+    "link": "https://lohasnet.tw/RotaryClub2027/",
+    "date_raw": "03/07 日 07:30",
+    "month": 3,
+    "day": 7,
+    "weekday": "日",
+    "start_time": "07:30",
+    "location": "臺北市中山區美堤河濱公園",
+    "region": "臺北市",
+    "distances": [
+      {
+        "label": "21K",
+        "fee": 1100,
+        "limit": 4000
+      },
+      {
+        "label": "10K",
+        "fee": 900,
+        "limit": 5000
+      },
+      {
+        "label": "5K",
+        "fee": 750,
+        "limit": 4000
+      }
+    ],
+    "categories": [
+      "10K+",
+      "休閒",
+      "半馬"
+    ],
+    "max_km": 21.0,
+    "organizer": "國際扶輪3502地區",
+    "status": "10月01日 ~ 1月15日",
+    "status_raw": "10月01日 ~ 1月15日",
+    "reg_state": "closed",
+    "is_past": false,
+    "is_new": true,
     "month_tag": "",
     "year": 2027
   },
@@ -8094,7 +8136,7 @@
     "status_raw": "10月01日 ~ 12月31日",
     "reg_state": "open",
     "is_past": false,
-    "is_new": true,
+    "is_new": false,
     "month_tag": "",
     "year": 2027
   },
@@ -8288,49 +8330,50 @@
     "year": 2027
   },
   {
-    "name": "2027 神岡馬-神豐國際同濟會全國公益馬拉松",
-    "link": "https://lohasnet.tw/#/event",
-    "date_raw": "03/28 日",
+    "name": "2027 神岡馬-神豐國際同濟會全國公益馬拉松-慢飛天使圓夢 讓愛起飛",
+    "link": "https://lohasnet.tw/Shengang-marathon2027/",
+    "date_raw": "03/28 日 06:00",
     "month": 3,
     "day": 28,
     "weekday": "日",
-    "start_time": "",
+    "start_time": "06:00",
     "location": "臺中市神岡區神岡國小",
     "region": "臺中市",
     "distances": [
       {
         "label": "42.195K",
         "fee": null,
-        "limit": null
+        "limit": 1500
       },
       {
-        "label": "21K",
+        "label": "23K",
         "fee": null,
-        "limit": null
+        "limit": 2000
       },
       {
-        "label": "9.5K",
+        "label": "10.5K",
         "fee": null,
-        "limit": null
+        "limit": 2000
       },
       {
         "label": "4.5K",
         "fee": null,
-        "limit": null
+        "limit": 500
       }
     ],
     "categories": [
+      "10K+",
       "休閒",
       "全馬",
       "半馬"
     ],
     "max_km": 42.195,
     "organizer": "神豐國際同濟會",
-    "status": "",
-    "status_raw": "",
-    "reg_state": "upcoming",
+    "status": "10月01日 ~ 1月17日",
+    "status_raw": "10月01日 ~ 1月17日",
+    "reg_state": "closed",
     "is_past": false,
-    "is_new": false,
+    "is_new": true,
     "month_tag": "",
     "year": 2027
   },
