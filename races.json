@@ -42,7 +42,7 @@
     "status": "已截止",
     "status_raw": "已截止",
     "reg_state": "closed",
-    "is_past": false,
+    "is_past": true,
     "is_new": false,
     "month_tag": "10月",
     "year": 2026
@@ -83,7 +83,7 @@
     "status": "已截止",
     "status_raw": "已截止",
     "reg_state": "closed",
-    "is_past": false,
+    "is_past": true,
     "is_new": false,
     "month_tag": "",
     "year": 2026
@@ -130,7 +130,7 @@
     "status": "已截止",
     "status_raw": "已截止",
     "reg_state": "closed",
-    "is_past": false,
+    "is_past": true,
     "is_new": false,
     "month_tag": "",
     "year": 2026
@@ -165,7 +165,7 @@
     "status": "已截止",
     "status_raw": "已截止",
     "reg_state": "closed",
-    "is_past": false,
+    "is_past": true,
     "is_new": false,
     "month_tag": "",
     "year": 2026
@@ -3361,8 +3361,8 @@
     ],
     "max_km": 9.0,
     "organizer": "維他露食品公司/維他露基金會",
-    "status": "7月31日 ~ 10月06日 (最後一週)",
-    "status_raw": "7月31日 ~ 10月06日 (最後一週)",
+    "status": "7月31日 ~ 10月06日 (最後四天)",
+    "status_raw": "7月31日 ~ 10月06日 (最後四天)",
     "reg_state": "open",
     "is_past": false,
     "is_new": false,
@@ -5719,9 +5719,9 @@
     ],
     "max_km": 42.195,
     "organizer": "臺南市政府/中華民國田徑協會",
-    "status": "6月30日 ~ 10月02日 (最後一天)",
-    "status_raw": "6月30日 ~ 10月02日 (最後一天)",
-    "reg_state": "open",
+    "status": "已截止",
+    "status_raw": "已截止",
+    "reg_state": "closed",
     "is_past": false,
     "is_new": false,
     "month_tag": "",
@@ -5910,8 +5910,8 @@
     ],
     "max_km": 42.195,
     "organizer": "埔鹽順澤宮",
-    "status": "6月18日 ~ 10月04日 (最後三天)",
-    "status_raw": "6月18日 ~ 10月04日 (最後三天)",
+    "status": "6月18日 ~ 10月04日 (最後二天)",
+    "status_raw": "6月18日 ~ 10月04日 (最後二天)",
     "reg_state": "open",
     "is_past": false,
     "is_new": false,
@@ -6277,6 +6277,47 @@
     "reg_state": "open",
     "is_past": false,
     "is_new": false,
+    "month_tag": "",
+    "year": 2026
+  },
+  {
+    "name": "2026 高雄捷運蜜柑站長耶誕公益主題路跑",
+    "link": "https://www.joinnow.com.tw/2026Mikanrun#b9-1",
+    "date_raw": "12/26 六 07:00",
+    "month": 12,
+    "day": 26,
+    "weekday": "六",
+    "start_time": "07:00",
+    "location": "高雄市鼓山區棧貳庫廣場",
+    "region": "高雄市",
+    "distances": [
+      {
+        "label": "10K",
+        "fee": 1299,
+        "limit": 1500
+      },
+      {
+        "label": "4K",
+        "fee": 988,
+        "limit": 1000
+      },
+      {
+        "label": "2K",
+        "fee": 1088,
+        "limit": 500
+      }
+    ],
+    "categories": [
+      "10K+",
+      "休閒"
+    ],
+    "max_km": 10.0,
+    "organizer": "高雄捷運股份有限公司",
+    "status": "~ 10月31日",
+    "status_raw": "~ 10月31日",
+    "reg_state": "open",
+    "is_past": false,
+    "is_new": true,
     "month_tag": "",
     "year": 2026
   },
