@@ -546,8 +546,8 @@
     ],
     "max_km": 42.195,
     "organizer": "五指山觀音寺/SPORTAIWAN",
-    "status": "~ 10月18日 (最後一週)",
-    "status_raw": "~ 10月18日 (最後一週)",
+    "status": "~ 10月18日 (最後四天)",
+    "status_raw": "~ 10月18日 (最後四天)",
     "reg_state": "open",
     "is_past": false,
     "is_new": true,
@@ -576,8 +576,8 @@
     ],
     "max_km": 5.0,
     "organizer": "捷迅股份有限公司",
-    "status": "10月12日 ~ 10月18日 (最後一週)",
-    "status_raw": "10月12日 ~ 10月18日 (最後一週)",
+    "status": "10月12日 ~ 10月18日 (最後四天)",
+    "status_raw": "10月12日 ~ 10月18日 (最後四天)",
     "reg_state": "open",
     "is_past": false,
     "is_new": false,
@@ -2314,8 +2314,8 @@
     ],
     "max_km": 3.8,
     "organizer": "中華民國全能運動協會/臺南市早起鳥路跑協會",
-    "status": "6月29日 ~ 10月15日 (最後二天)",
-    "status_raw": "6月29日 ~ 10月15日 (最後二天)",
+    "status": "6月29日 ~ 10月15日 (最後一天)",
+    "status_raw": "6月29日 ~ 10月15日 (最後一天)",
     "reg_state": "open",
     "is_past": false,
     "is_new": false,
@@ -2725,8 +2725,8 @@
     ],
     "max_km": 21.0,
     "organizer": "臺北市電器商業同業公會",
-    "status": "6月10日 ~ 10月15日 (最後二天)",
-    "status_raw": "6月10日 ~ 10月15日 (最後二天)",
+    "status": "6月10日 ~ 10月15日 (最後一天)",
+    "status_raw": "6月10日 ~ 10月15日 (最後一天)",
     "reg_state": "open",
     "is_past": false,
     "is_new": false,
@@ -3296,8 +3296,8 @@
     ],
     "max_km": 42.195,
     "organizer": "光圈整合行銷有限公司",
-    "status": "4月24日 ~ 10月15日 (最後二天)",
-    "status_raw": "4月24日 ~ 10月15日 (最後二天)",
+    "status": "4月24日 ~ 10月15日 (最後一天)",
+    "status_raw": "4月24日 ~ 10月15日 (最後一天)",
     "reg_state": "open",
     "is_past": false,
     "is_new": false,
@@ -4284,8 +4284,8 @@
     ],
     "max_km": 42.195,
     "organizer": "德成鞋業集團",
-    "status": "6月05日 ~ 10月18日 (最後一週)",
-    "status_raw": "6月05日 ~ 10月18日 (最後一週)",
+    "status": "6月05日 ~ 10月18日 (最後四天)",
+    "status_raw": "6月05日 ~ 10月18日 (最後四天)",
     "reg_state": "open",
     "is_past": false,
     "is_new": true,
@@ -4655,8 +4655,8 @@
     ],
     "max_km": 42.195,
     "organizer": "埔鹽順澤宮",
-    "status": "6月18日 ~ 10月18日 (最後一週)",
-    "status_raw": "6月18日 ~ 10月18日 (最後一週)",
+    "status": "6月18日 ~ 10月18日 (最後四天)",
+    "status_raw": "6月18日 ~ 10月18日 (最後四天)",
     "reg_state": "open",
     "is_past": false,
     "is_new": true,
@@ -5351,8 +5351,8 @@
     ],
     "max_km": 21.0,
     "organizer": "全統運動用品股份有限公司",
-    "status": "9月22日 ~ 10月15日 (最後二天)",
-    "status_raw": "9月22日 ~ 10月15日 (最後二天)",
+    "status": "9月22日 ~ 10月15日 (最後一天)",
+    "status_raw": "9月22日 ~ 10月15日 (最後一天)",
     "reg_state": "open",
     "is_past": false,
     "is_new": true,
@@ -5675,6 +5675,96 @@
     "year": 2027
   },
   {
+    "name": "2027 第三屆宜蘭大同櫻花馬拉松",
+    "link": "https://sportaiwan.com/activity/activity_desc.php?activity=197",
+    "date_raw": "01/16 六 06:30",
+    "month": 1,
+    "day": 16,
+    "weekday": "六",
+    "start_time": "06:30",
+    "location": "宜蘭縣大同鄉地熱火山爆炸魚餐廳",
+    "region": "宜蘭縣",
+    "distances": [
+      {
+        "label": "42.195K",
+        "fee": null,
+        "limit": 150
+      },
+      {
+        "label": "21K",
+        "fee": null,
+        "limit": 150
+      },
+      {
+        "label": "10K",
+        "fee": null,
+        "limit": 140
+      },
+      {
+        "label": "6K",
+        "fee": null,
+        "limit": 140
+      }
+    ],
+    "categories": [
+      "10K+",
+      "休閒",
+      "全馬",
+      "半馬"
+    ],
+    "max_km": 42.195,
+    "organizer": "影流文創有限公司",
+    "status": "9月12日 ~ 12月06日",
+    "status_raw": "9月12日 ~ 12月06日",
+    "reg_state": "open",
+    "is_past": false,
+    "is_new": true,
+    "month_tag": "",
+    "year": 2027
+  },
+  {
+    "name": "2027 臺中 MIZUNO 都會國際半程馬拉松",
+    "link": "https://ctrun.tw/MZ270117",
+    "date_raw": "01/17 日",
+    "month": 1,
+    "day": 17,
+    "weekday": "日",
+    "start_time": "",
+    "location": "臺中市西屯區中央球場",
+    "region": "臺中市",
+    "distances": [
+      {
+        "label": "21K",
+        "fee": null,
+        "limit": null
+      },
+      {
+        "label": "10K",
+        "fee": null,
+        "limit": null
+      },
+      {
+        "label": "3.5K",
+        "fee": null,
+        "limit": null
+      }
+    ],
+    "categories": [
+      "10K+",
+      "休閒",
+      "半馬"
+    ],
+    "max_km": 21.0,
+    "organizer": "全統運動用品股份有限公司",
+    "status": "9月17日 ~ 10月15日 (最後一天)",
+    "status_raw": "9月17日 ~ 10月15日 (最後一天)",
+    "reg_state": "open",
+    "is_past": false,
+    "is_new": true,
+    "month_tag": "",
+    "year": 2027
+  },
+  {
     "name": "2027 臺南保生盃全國馬拉松",
     "link": "",
     "date_raw": "01/17 日",
@@ -5723,48 +5813,6 @@
     "reg_state": "upcoming",
     "is_past": false,
     "is_new": false,
-    "month_tag": "",
-    "year": 2027
-  },
-  {
-    "name": "2027 臺中 MIZUNO 都會國際半程馬拉松",
-    "link": "https://ctrun.tw/MZ270117",
-    "date_raw": "01/17 日",
-    "month": 1,
-    "day": 17,
-    "weekday": "日",
-    "start_time": "",
-    "location": "臺中市西屯區中央球場",
-    "region": "臺中市",
-    "distances": [
-      {
-        "label": "21K",
-        "fee": null,
-        "limit": null
-      },
-      {
-        "label": "10K",
-        "fee": null,
-        "limit": null
-      },
-      {
-        "label": "3.5K",
-        "fee": null,
-        "limit": null
-      }
-    ],
-    "categories": [
-      "10K+",
-      "休閒",
-      "半馬"
-    ],
-    "max_km": 21.0,
-    "organizer": "全統運動用品股份有限公司",
-    "status": "9月17日 ~ 10月15日 (最後二天)",
-    "status_raw": "9月17日 ~ 10月15日 (最後二天)",
-    "reg_state": "open",
-    "is_past": false,
-    "is_new": true,
     "month_tag": "",
     "year": 2027
   },
@@ -5960,54 +6008,6 @@
     "reg_state": "open",
     "is_past": false,
     "is_new": false,
-    "month_tag": "",
-    "year": 2027
-  },
-  {
-    "name": "2027 第三屆宜蘭大同櫻花馬拉松",
-    "link": "https://sportaiwan.com/activity/activity_desc.php?activity=197",
-    "date_raw": "01/23 六 06:30",
-    "month": 1,
-    "day": 23,
-    "weekday": "六",
-    "start_time": "06:30",
-    "location": "宜蘭縣大同鄉地熱火山爆炸魚餐廳",
-    "region": "宜蘭縣",
-    "distances": [
-      {
-        "label": "42.195K",
-        "fee": null,
-        "limit": 150
-      },
-      {
-        "label": "21K",
-        "fee": null,
-        "limit": 150
-      },
-      {
-        "label": "10K",
-        "fee": null,
-        "limit": 140
-      },
-      {
-        "label": "6K",
-        "fee": null,
-        "limit": 140
-      }
-    ],
-    "categories": [
-      "10K+",
-      "休閒",
-      "全馬",
-      "半馬"
-    ],
-    "max_km": 42.195,
-    "organizer": "影流文創有限公司",
-    "status": "9月12日 ~ 12月06日",
-    "status_raw": "9月12日 ~ 12月06日",
-    "reg_state": "open",
-    "is_past": false,
-    "is_new": true,
     "month_tag": "",
     "year": 2027
   },
@@ -7160,48 +7160,6 @@
     "year": 2027
   },
   {
-    "name": "2027 臺灣集集半程國際馬拉松",
-    "link": "",
-    "date_raw": "03/21 日",
-    "month": 3,
-    "day": 21,
-    "weekday": "日",
-    "start_time": "",
-    "location": "南投縣集集鎮集集火車站",
-    "region": "南投縣",
-    "distances": [
-      {
-        "label": "21.1K",
-        "fee": null,
-        "limit": null
-      },
-      {
-        "label": "13.14K",
-        "fee": null,
-        "limit": null
-      },
-      {
-        "label": "5.20K",
-        "fee": null,
-        "limit": null
-      }
-    ],
-    "categories": [
-      "10K+",
-      "休閒",
-      "半馬"
-    ],
-    "max_km": 21.1,
-    "organizer": "集集鎮公所/臺灣國際馬拉松交流協會",
-    "status": "",
-    "status_raw": "",
-    "reg_state": "upcoming",
-    "is_past": false,
-    "is_new": false,
-    "month_tag": "",
-    "year": 2027
-  },
-  {
     "name": "2027 大亞旺萊馬拉松",
     "link": "",
     "date_raw": "03/21 日",
@@ -7292,6 +7250,42 @@
     "status_raw": "",
     "reg_state": "upcoming",
     "is_past": false,
+    "is_new": false,
+    "month_tag": "",
+    "year": 2027
+  },
+  {
+    "name": "2027 新北市萬金石馬拉松",
+    "link": "https://wanjinshi-marathon.com.tw/",
+    "date_raw": "03/21 日 06:00",
+    "month": 3,
+    "day": 21,
+    "weekday": "日",
+    "start_time": "06:00",
+    "location": "新北市萬里區太平洋建設第二停車場",
+    "region": "新北市",
+    "distances": [
+      {
+        "label": "42.195K",
+        "fee": 1600,
+        "limit": 6500
+      },
+      {
+        "label": "10K",
+        "fee": 900,
+        "limit": 5500
+      }
+    ],
+    "categories": [
+      "10K+",
+      "全馬"
+    ],
+    "max_km": 42.195,
+    "organizer": "新北市政府/中華民國田徑協會",
+    "status": "10月15日 ~ 10月30日",
+    "status_raw": "10月15日 ~ 10月30日",
+    "reg_state": "open",
+    "is_past": false,
     "is_new": true,
     "month_tag": "",
     "year": 2027
@@ -7332,6 +7326,48 @@
     "status": "10月08日 ~ 2月27日",
     "status_raw": "10月08日 ~ 2月27日",
     "reg_state": "closed",
+    "is_past": false,
+    "is_new": true,
+    "month_tag": "",
+    "year": 2027
+  },
+  {
+    "name": "2027 集集濁水溪半程國際馬拉松",
+    "link": "https://irunner.biji.co/JijiTownship2027",
+    "date_raw": "03/21 日 07:00",
+    "month": 3,
+    "day": 21,
+    "weekday": "日",
+    "start_time": "07:00",
+    "location": "南投縣集集鎮集集火車站",
+    "region": "南投縣",
+    "distances": [
+      {
+        "label": "21.1K",
+        "fee": 1100,
+        "limit": 1000
+      },
+      {
+        "label": "13.14K",
+        "fee": 900,
+        "limit": 1000
+      },
+      {
+        "label": "5.20K",
+        "fee": 700,
+        "limit": 1000
+      }
+    ],
+    "categories": [
+      "10K+",
+      "休閒",
+      "半馬"
+    ],
+    "max_km": 21.1,
+    "organizer": "集集鎮公所/臺灣國際馬拉松交流協會",
+    "status": "10月15日 ~ 12月31日",
+    "status_raw": "10月15日 ~ 12月31日",
+    "reg_state": "open",
     "is_past": false,
     "is_new": true,
     "month_tag": "",
@@ -7557,7 +7593,7 @@
     "status_raw": "",
     "reg_state": "upcoming",
     "is_past": false,
-    "is_new": true,
+    "is_new": false,
     "month_tag": "4月",
     "year": 2027
   },
@@ -7818,6 +7854,54 @@
     "year": 2027
   },
   {
+    "name": "2027 第二屆員山烤雞馬拉松",
+    "link": "",
+    "date_raw": "04/17 六",
+    "month": 4,
+    "day": 17,
+    "weekday": "六",
+    "start_time": "",
+    "location": "宜蘭縣員山鄉大湖國小",
+    "region": "宜蘭縣",
+    "distances": [
+      {
+        "label": "42.195K",
+        "fee": null,
+        "limit": null
+      },
+      {
+        "label": "21K",
+        "fee": null,
+        "limit": null
+      },
+      {
+        "label": "10K",
+        "fee": null,
+        "limit": null
+      },
+      {
+        "label": "5K",
+        "fee": null,
+        "limit": null
+      }
+    ],
+    "categories": [
+      "10K+",
+      "休閒",
+      "全馬",
+      "半馬"
+    ],
+    "max_km": 42.195,
+    "organizer": "影流文創",
+    "status": "",
+    "status_raw": "",
+    "reg_state": "upcoming",
+    "is_past": false,
+    "is_new": true,
+    "month_tag": "",
+    "year": 2027
+  },
+  {
     "name": "2027 全國視障公益路跑賽",
     "link": "",
     "date_raw": "04/17 六",
@@ -7898,54 +7982,6 @@
     "reg_state": "open",
     "is_past": false,
     "is_new": false,
-    "month_tag": "",
-    "year": 2027
-  },
-  {
-    "name": "2027 第二屆 員山考雞馬拉松",
-    "link": "",
-    "date_raw": "04/24 六",
-    "month": 4,
-    "day": 24,
-    "weekday": "六",
-    "start_time": "",
-    "location": "宜蘭縣員山鄉大湖國小",
-    "region": "宜蘭縣",
-    "distances": [
-      {
-        "label": "42.195K",
-        "fee": null,
-        "limit": null
-      },
-      {
-        "label": "21K",
-        "fee": null,
-        "limit": null
-      },
-      {
-        "label": "10K",
-        "fee": null,
-        "limit": null
-      },
-      {
-        "label": "5K",
-        "fee": null,
-        "limit": null
-      }
-    ],
-    "categories": [
-      "10K+",
-      "休閒",
-      "全馬",
-      "半馬"
-    ],
-    "max_km": 42.195,
-    "organizer": "影流文創",
-    "status": "",
-    "status_raw": "",
-    "reg_state": "upcoming",
-    "is_past": false,
-    "is_new": true,
     "month_tag": "",
     "year": 2027
   },
@@ -8105,6 +8141,54 @@
     "year": 2027
   },
   {
+    "name": "2027 第二屆冬山河馬拉松",
+    "link": "",
+    "date_raw": "05/15 六",
+    "month": 5,
+    "day": 15,
+    "weekday": "六",
+    "start_time": "",
+    "location": "宜蘭縣冬山鄉冬山火車站",
+    "region": "宜蘭縣",
+    "distances": [
+      {
+        "label": "42.195K",
+        "fee": null,
+        "limit": null
+      },
+      {
+        "label": "21K",
+        "fee": null,
+        "limit": null
+      },
+      {
+        "label": "10K",
+        "fee": null,
+        "limit": null
+      },
+      {
+        "label": "5K",
+        "fee": null,
+        "limit": null
+      }
+    ],
+    "categories": [
+      "10K+",
+      "休閒",
+      "全馬",
+      "半馬"
+    ],
+    "max_km": 42.195,
+    "organizer": "影流文創",
+    "status": "",
+    "status_raw": "",
+    "reg_state": "upcoming",
+    "is_past": false,
+    "is_new": true,
+    "month_tag": "",
+    "year": 2027
+  },
+  {
     "name": "2027 將軍漁港馬拉松",
     "link": "",
     "date_raw": "05/23 日 06:00",
@@ -8112,8 +8196,8 @@
     "day": 23,
     "weekday": "日",
     "start_time": "06:00",
-    "location": "台南市將軍區平沙里156.157號（將軍漁港）",
-    "region": "其他",
+    "location": "臺南市將軍區將軍漁港",
+    "region": "臺南市",
     "distances": [
       {
         "label": "42.195K",
