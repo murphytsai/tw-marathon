@@ -52,7 +52,7 @@
     "status": "已截止",
     "status_raw": "已截止",
     "reg_state": "closed",
-    "is_past": false,
+    "is_past": true,
     "is_new": false,
     "month_tag": "10月",
     "year": 2026
@@ -87,7 +87,7 @@
     "status": "已截止",
     "status_raw": "已截止",
     "reg_state": "closed",
-    "is_past": false,
+    "is_past": true,
     "is_new": false,
     "month_tag": "",
     "year": 2026
@@ -129,7 +129,7 @@
     "status": "已截止",
     "status_raw": "已截止",
     "reg_state": "closed",
-    "is_past": false,
+    "is_past": true,
     "is_new": false,
     "month_tag": "",
     "year": 2026
@@ -164,7 +164,7 @@
     "status": "已截止",
     "status_raw": "已截止",
     "reg_state": "closed",
-    "is_past": false,
+    "is_past": true,
     "is_new": false,
     "month_tag": "",
     "year": 2026
@@ -546,8 +546,8 @@
     ],
     "max_km": 42.195,
     "organizer": "五指山觀音寺/SPORTAIWAN",
-    "status": "~ 10月18日 (最後三天)",
-    "status_raw": "~ 10月18日 (最後三天)",
+    "status": "~ 10月18日 (最後二天)",
+    "status_raw": "~ 10月18日 (最後二天)",
     "reg_state": "open",
     "is_past": false,
     "is_new": true,
@@ -576,8 +576,8 @@
     ],
     "max_km": 5.0,
     "organizer": "捷迅股份有限公司",
-    "status": "10月12日 ~ 10月18日 (最後三天)",
-    "status_raw": "10月12日 ~ 10月18日 (最後三天)",
+    "status": "10月12日 ~ 10月18日 (最後二天)",
+    "status_raw": "10月12日 ~ 10月18日 (最後二天)",
     "reg_state": "open",
     "is_past": false,
     "is_new": false,
@@ -1908,7 +1908,7 @@
     "year": 2026
   },
   {
-    "name": "2026 愛在幼安公益路跑",
+    "name": "*2026 愛在幼安公益路跑*",
     "link": "https://www.focusline.com.tw/261107KZ/3566",
     "date_raw": "11/07 六 07:00",
     "month": 11,
@@ -1938,7 +1938,7 @@
     "status_raw": "已截止",
     "reg_state": "closed",
     "is_past": false,
-    "is_new": false,
+    "is_new": true,
     "month_tag": "",
     "year": 2026
   },
@@ -2866,8 +2866,8 @@
     ],
     "max_km": 100.0,
     "organizer": "社團法人中華民國超級馬拉松運動協會",
-    "status": "~ 10月19日 (最後四天)",
-    "status_raw": "~ 10月19日 (最後四天)",
+    "status": "~ 10月19日 (最後三天)",
+    "status_raw": "~ 10月19日 (最後三天)",
     "reg_state": "open",
     "is_past": false,
     "is_new": false,
@@ -2949,8 +2949,8 @@
     ],
     "max_km": 42.195,
     "organizer": "蔡良闊慈善會",
-    "status": "~ 10月20日 (最後一週)",
-    "status_raw": "~ 10月20日 (最後一週)",
+    "status": "~ 10月20日 (最後四天)",
+    "status_raw": "~ 10月20日 (最後四天)",
     "reg_state": "open",
     "is_past": false,
     "is_new": true,
@@ -2984,8 +2984,8 @@
     ],
     "max_km": 21.0,
     "organizer": "國立臺灣體育運動大學",
-    "status": "~ 10月23日",
-    "status_raw": "~ 10月23日",
+    "status": "~ 10月23日 (最後一週)",
+    "status_raw": "~ 10月23日 (最後一週)",
     "reg_state": "open",
     "is_past": false,
     "is_new": false,
@@ -4284,8 +4284,8 @@
     ],
     "max_km": 42.195,
     "organizer": "德成鞋業集團",
-    "status": "6月05日 ~ 10月18日 (最後三天)",
-    "status_raw": "6月05日 ~ 10月18日 (最後三天)",
+    "status": "6月05日 ~ 10月18日 (最後二天)",
+    "status_raw": "6月05日 ~ 10月18日 (最後二天)",
     "reg_state": "open",
     "is_past": false,
     "is_new": true,
@@ -4607,8 +4607,8 @@
     ],
     "max_km": 9.0,
     "organizer": "臺北市政府/中華民國路跑協會",
-    "status": "6月22日 ~ 10月19日 (最後四天)",
-    "status_raw": "6月22日 ~ 10月19日 (最後四天)",
+    "status": "6月22日 ~ 10月19日 (最後三天)",
+    "status_raw": "6月22日 ~ 10月19日 (最後三天)",
     "reg_state": "open",
     "is_past": false,
     "is_new": false,
@@ -4655,8 +4655,8 @@
     ],
     "max_km": 42.195,
     "organizer": "埔鹽順澤宮",
-    "status": "6月18日 ~ 10月18日 (最後三天)",
-    "status_raw": "6月18日 ~ 10月18日 (最後三天)",
+    "status": "6月18日 ~ 10月18日 (最後二天)",
+    "status_raw": "6月18日 ~ 10月18日 (最後二天)",
     "reg_state": "open",
     "is_past": false,
     "is_new": true,
@@ -4924,8 +4924,8 @@
     ],
     "max_km": 42.195,
     "organizer": "南華大學/大林鎮公所",
-    "status": "8月18日 ~ 10月20日 (最後一週)",
-    "status_raw": "8月18日 ~ 10月20日 (最後一週)",
+    "status": "8月18日 ~ 10月20日 (最後四天)",
+    "status_raw": "8月18日 ~ 10月20日 (最後四天)",
     "reg_state": "open",
     "is_past": false,
     "is_new": false,
@@ -5546,8 +5546,8 @@
     ],
     "max_km": 42.195,
     "organizer": "高雄市政府運動發展局",
-    "status": "9月21日 ~ 10月23日",
-    "status_raw": "9月21日 ~ 10月23日",
+    "status": "9月21日 ~ 10月23日 (最後一週)",
+    "status_raw": "9月21日 ~ 10月23日 (最後一週)",
     "reg_state": "open",
     "is_past": false,
     "is_new": false,
@@ -7030,28 +7030,6 @@
     "year": 2027
   },
   {
-    "name": "2027 鳳山跑三校越野馬拉松",
-    "link": "",
-    "date_raw": "03/14 日",
-    "month": 3,
-    "day": 14,
-    "weekday": "日",
-    "start_time": "",
-    "location": "高雄市鳳山區陸軍軍官學校",
-    "region": "高雄市",
-    "distances": [],
-    "categories": [],
-    "max_km": 0,
-    "organizer": "高雄市鳳山慢跑協會",
-    "status": "",
-    "status_raw": "",
-    "reg_state": "upcoming",
-    "is_past": false,
-    "is_new": true,
-    "month_tag": "",
-    "year": 2027
-  },
-  {
     "name": "2027 國家地理路跑-RUN FOR EARTH",
     "link": "https://irunner.biji.co/2027NGR",
     "date_raw": "03/14 日 05:30",
@@ -7142,35 +7120,35 @@
     "year": 2027
   },
   {
-    "name": "2027 冬山香香馬拉松",
-    "link": "",
-    "date_raw": "03/20 六",
+    "name": "2027 鳳山跑三校越野馬拉松",
+    "link": "https://www.joinnow.com.tw/2027F3SMarathon",
+    "date_raw": "03/14 日 06:05",
     "month": 3,
-    "day": 20,
-    "weekday": "六",
-    "start_time": "",
-    "location": "宜蘭縣冬山鄉得安宮",
-    "region": "宜蘭縣",
+    "day": 14,
+    "weekday": "日",
+    "start_time": "06:05",
+    "location": "高雄市鳳山區陸軍軍官學校",
+    "region": "高雄市",
     "distances": [
       {
         "label": "42.195K",
-        "fee": null,
-        "limit": null
+        "fee": 1450,
+        "limit": 1000
       },
       {
-        "label": "21K",
-        "fee": null,
-        "limit": null
+        "label": "23K",
+        "fee": 1250,
+        "limit": 1000
       },
       {
         "label": "10K",
-        "fee": null,
-        "limit": null
+        "fee": 1000,
+        "limit": 800
       },
       {
-        "label": "5K",
-        "fee": null,
-        "limit": null
+        "label": "3K",
+        "fee": 700,
+        "limit": 500
       }
     ],
     "categories": [
@@ -7180,9 +7158,9 @@
       "半馬"
     ],
     "max_km": 42.195,
-    "organizer": "赤兔鐵馬國際",
-    "status": "",
-    "status_raw": "",
+    "organizer": "高雄市鳳山慢跑協會",
+    "status": "10月18日 ~ 12月01日",
+    "status_raw": "10月18日 ~ 12月01日",
     "reg_state": "upcoming",
     "is_past": false,
     "is_new": true,
@@ -7430,6 +7408,54 @@
     "reg_state": "closed",
     "is_past": false,
     "is_new": false,
+    "month_tag": "",
+    "year": 2027
+  },
+  {
+    "name": "2027 冬山香香馬拉松",
+    "link": "",
+    "date_raw": "03/27 六",
+    "month": 3,
+    "day": 27,
+    "weekday": "六",
+    "start_time": "",
+    "location": "宜蘭縣冬山鄉得安宮",
+    "region": "宜蘭縣",
+    "distances": [
+      {
+        "label": "42.195K",
+        "fee": null,
+        "limit": null
+      },
+      {
+        "label": "21K",
+        "fee": null,
+        "limit": null
+      },
+      {
+        "label": "10K",
+        "fee": null,
+        "limit": null
+      },
+      {
+        "label": "5K",
+        "fee": null,
+        "limit": null
+      }
+    ],
+    "categories": [
+      "10K+",
+      "休閒",
+      "全馬",
+      "半馬"
+    ],
+    "max_km": 42.195,
+    "organizer": "赤兔鐵馬國際",
+    "status": "",
+    "status_raw": "",
+    "reg_state": "upcoming",
+    "is_past": false,
+    "is_new": true,
     "month_tag": "",
     "year": 2027
   },
