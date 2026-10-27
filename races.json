@@ -1,131 +1,5 @@
 [
   {
-    "name": "2026 北埔膨風路跑嘉年華",
-    "link": "https://bao-ming.com/eb/content/7046#33022",
-    "date_raw": "10/24 六 06:30",
-    "month": 10,
-    "day": 24,
-    "weekday": "六",
-    "start_time": "06:30",
-    "location": "新竹縣北埔鄉俥亭停車場",
-    "region": "新竹縣",
-    "distances": [
-      {
-        "label": "21K",
-        "fee": null,
-        "limit": 300
-      },
-      {
-        "label": "10K",
-        "fee": null,
-        "limit": 500
-      },
-      {
-        "label": "5K",
-        "fee": null,
-        "limit": 500
-      }
-    ],
-    "categories": [
-      "10K+",
-      "休閒",
-      "半馬"
-    ],
-    "max_km": 21.0,
-    "organizer": "北埔鄉公所",
-    "status": "已截止",
-    "status_raw": "已截止",
-    "reg_state": "closed",
-    "is_past": true,
-    "is_new": false,
-    "month_tag": "10月",
-    "year": 2026
-  },
-  {
-    "name": "2026 台糖公益路跑",
-    "link": "https://ctrun.tw/TSC1024",
-    "date_raw": "10/24 六 06:30",
-    "month": 10,
-    "day": 24,
-    "weekday": "六",
-    "start_time": "06:30",
-    "location": "臺南市柳營區尖山埤渡假村",
-    "region": "臺南市",
-    "distances": [
-      {
-        "label": "21K",
-        "fee": 900,
-        "limit": 700
-      },
-      {
-        "label": "11K",
-        "fee": 700,
-        "limit": 1100
-      },
-      {
-        "label": "3K",
-        "fee": 500,
-        "limit": 1200
-      }
-    ],
-    "categories": [
-      "10K+",
-      "休閒",
-      "半馬"
-    ],
-    "max_km": 21.0,
-    "organizer": "台灣糖業股份有限公司",
-    "status": "已截止",
-    "status_raw": "已截止",
-    "reg_state": "closed",
-    "is_past": true,
-    "is_new": false,
-    "month_tag": "",
-    "year": 2026
-  },
-  {
-    "name": "2026 濁水溪紫金馬拉松-高手名間站",
-    "link": "https://fsurl.cc/261024HY",
-    "date_raw": "10/24 六 06:30",
-    "month": 10,
-    "day": 24,
-    "weekday": "六",
-    "start_time": "06:30",
-    "location": "南投縣名間鄉受天宮第二停車場",
-    "region": "南投縣",
-    "distances": [
-      {
-        "label": "21K",
-        "fee": 1000,
-        "limit": null
-      },
-      {
-        "label": "11K",
-        "fee": 800,
-        "limit": null
-      },
-      {
-        "label": "6K",
-        "fee": 600,
-        "limit": null
-      }
-    ],
-    "categories": [
-      "10K+",
-      "休閒",
-      "半馬"
-    ],
-    "max_km": 21.0,
-    "organizer": "名間鄉公所",
-    "status": "已截止",
-    "status_raw": "已截止",
-    "reg_state": "closed",
-    "is_past": true,
-    "is_new": false,
-    "month_tag": "",
-    "year": 2026
-  },
-  {
     "name": "2026 長榮航空馬拉松",
     "link": "https://www.evaairrun.com/",
     "date_raw": "10/25 日 05:10",
@@ -170,7 +44,7 @@
     "reg_state": "closed",
     "is_past": true,
     "is_new": false,
-    "month_tag": "",
+    "month_tag": "10月",
     "year": 2026
   },
   {
@@ -1573,7 +1447,7 @@
     "status_raw": "已截止",
     "reg_state": "closed",
     "is_past": false,
-    "is_new": true,
+    "is_new": false,
     "month_tag": "",
     "year": 2026
   },
@@ -4339,8 +4213,8 @@
     ],
     "max_km": 42.195,
     "organizer": "南華大學/大林鎮公所",
-    "status": "8月18日 ~ 10月27日 (最後二天)",
-    "status_raw": "8月18日 ~ 10月27日 (最後二天)",
+    "status": "8月18日 ~ 10月27日 (最後一天)",
+    "status_raw": "8月18日 ~ 10月27日 (最後一天)",
     "reg_state": "open",
     "is_past": false,
     "is_new": true,
@@ -4634,8 +4508,8 @@
     ],
     "max_km": 21.5,
     "organizer": "新營太子宮太子爺廟管理委員會",
-    "status": "7月08日 ~ 10月29日 (最後四天)",
-    "status_raw": "7月08日 ~ 10月29日 (最後四天)",
+    "status": "7月08日 ~ 10月29日 (最後三天)",
+    "status_raw": "7月08日 ~ 10月29日 (最後三天)",
     "reg_state": "open",
     "is_past": false,
     "is_new": false,
@@ -4724,8 +4598,8 @@
     ],
     "max_km": 42.195,
     "organizer": "中華民國越野運動協會",
-    "status": "8月28日 ~ 11月02日",
-    "status_raw": "8月28日 ~ 11月02日",
+    "status": "8月28日 ~ 11月02日 (最後一週)",
+    "status_raw": "8月28日 ~ 11月02日 (最後一週)",
     "reg_state": "open",
     "is_past": false,
     "is_new": false,
@@ -4919,8 +4793,8 @@
     ],
     "max_km": 42.195,
     "organizer": "中華民國路跑協會",
-    "status": "8月26日 ~ 10月30日 (最後一週)",
-    "status_raw": "8月26日 ~ 10月30日 (最後一週)",
+    "status": "8月26日 ~ 10月30日 (最後四天)",
+    "status_raw": "8月26日 ~ 10月30日 (最後四天)",
     "reg_state": "open",
     "is_past": false,
     "is_new": false,
@@ -5271,8 +5145,8 @@
     ],
     "max_km": 42.195,
     "organizer": "金門縣政府",
-    "status": "7月14日 ~ 10月30日 (最後一週)",
-    "status_raw": "7月14日 ~ 10月30日 (最後一週)",
+    "status": "7月14日 ~ 10月30日 (最後四天)",
+    "status_raw": "7月14日 ~ 10月30日 (最後四天)",
     "reg_state": "open",
     "is_past": false,
     "is_new": false,
@@ -6705,8 +6579,8 @@
     ],
     "max_km": 42.195,
     "organizer": "新北市政府/中華民國田徑協會",
-    "status": "10月15日 ~ 10月30日 (最後一週)",
-    "status_raw": "10月15日 ~ 10月30日 (最後一週)",
+    "status": "10月15日 ~ 10月30日 (最後四天)",
+    "status_raw": "10月15日 ~ 10月30日 (最後四天)",
     "reg_state": "open",
     "is_past": false,
     "is_new": false,
