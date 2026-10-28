@@ -1,238 +1,5 @@
 [
   {
-    "name": "2026 長榮航空馬拉松",
-    "link": "https://www.evaairrun.com/",
-    "date_raw": "10/25 日 05:10",
-    "month": 10,
-    "day": 25,
-    "weekday": "日",
-    "start_time": "05:10",
-    "location": "臺北市中正區總統府前廣場",
-    "region": "臺北市",
-    "distances": [
-      {
-        "label": "42.195K",
-        "fee": 1900,
-        "limit": 4000
-      },
-      {
-        "label": "21.0975K",
-        "fee": 1300,
-        "limit": 8500
-      },
-      {
-        "label": "10K",
-        "fee": 900,
-        "limit": 8500
-      },
-      {
-        "label": "3K",
-        "fee": 600,
-        "limit": 3000
-      }
-    ],
-    "categories": [
-      "10K+",
-      "休閒",
-      "全馬",
-      "半馬"
-    ],
-    "max_km": 42.195,
-    "organizer": "長榮航空",
-    "status": "已截止",
-    "status_raw": "已截止",
-    "reg_state": "closed",
-    "is_past": true,
-    "is_new": false,
-    "month_tag": "10月",
-    "year": 2026
-  },
-  {
-    "name": "2026 第1屆港灣郵輪半程馬拉松",
-    "link": "https://ctrun.tw/KC1025",
-    "date_raw": "10/25 日 06:00",
-    "month": 10,
-    "day": 25,
-    "weekday": "日",
-    "start_time": "06:00",
-    "location": "高雄市高雄港16–18號碼頭廣場",
-    "region": "高雄市",
-    "distances": [
-      {
-        "label": "21K",
-        "fee": 980,
-        "limit": null
-      },
-      {
-        "label": "10.5K",
-        "fee": 880,
-        "limit": null
-      },
-      {
-        "label": "6K",
-        "fee": 580,
-        "limit": null
-      }
-    ],
-    "categories": [
-      "10K+",
-      "休閒",
-      "半馬"
-    ],
-    "max_km": 21.0,
-    "organizer": "臺灣港務股份有限公司",
-    "status": "已截止",
-    "status_raw": "已截止",
-    "reg_state": "closed",
-    "is_past": true,
-    "is_new": false,
-    "month_tag": "",
-    "year": 2026
-  },
-  {
-    "name": "2026 南投馬11th-草鞋墩馬拉松",
-    "link": "https://www.ctrun.com.tw/Activity/?EventMain_ID=301&Article_ID=6214&VT=FCB5193FDA2F8BB92D6466D3DD327EAE",
-    "date_raw": "10/25 日 06:10",
-    "month": 10,
-    "day": 25,
-    "weekday": "日",
-    "start_time": "06:10",
-    "location": "南投縣草屯鎮九九峰氦氣球園區停車場",
-    "region": "南投縣",
-    "distances": [
-      {
-        "label": "42.195K",
-        "fee": null,
-        "limit": null
-      },
-      {
-        "label": "22k",
-        "fee": null,
-        "limit": null
-      },
-      {
-        "label": "10k",
-        "fee": null,
-        "limit": null
-      },
-      {
-        "label": "5k",
-        "fee": null,
-        "limit": null
-      }
-    ],
-    "categories": [
-      "10K+",
-      "休閒",
-      "全馬",
-      "半馬"
-    ],
-    "max_km": 42.195,
-    "organizer": "南投縣馬拉松協會",
-    "status": "已截止",
-    "status_raw": "已截止",
-    "reg_state": "closed",
-    "is_past": true,
-    "is_new": false,
-    "month_tag": "",
-    "year": 2026
-  },
-  {
-    "name": "2026 龍崎文衡殿第三屆赤兔馬全國馬拉松",
-    "link": "https://www.ctrun.com.tw/Activity?EventMain_ID=299",
-    "date_raw": "10/25 日 06:10",
-    "month": 10,
-    "day": 25,
-    "weekday": "日",
-    "start_time": "06:10",
-    "location": "臺南市龍崎區文衡殿",
-    "region": "臺南市",
-    "distances": [
-      {
-        "label": "42.195K",
-        "fee": 1400,
-        "limit": 500
-      },
-      {
-        "label": "21K",
-        "fee": 1100,
-        "limit": 500
-      },
-      {
-        "label": "10K",
-        "fee": 950,
-        "limit": 400
-      },
-      {
-        "label": "5K",
-        "fee": 750,
-        "limit": 500
-      }
-    ],
-    "categories": [
-      "10K+",
-      "休閒",
-      "全馬",
-      "半馬"
-    ],
-    "max_km": 42.195,
-    "organizer": "臺南市龍崎文衡殿",
-    "status": "已截止",
-    "status_raw": "已截止",
-    "reg_state": "closed",
-    "is_past": true,
-    "is_new": false,
-    "month_tag": "",
-    "year": 2026
-  },
-  {
-    "name": "2026 虎馬第八屆全國烤雞馬拉松",
-    "link": "https://lohasnet.tw/Huma2026/",
-    "date_raw": "10/25 日 06:30",
-    "month": 10,
-    "day": 25,
-    "weekday": "日",
-    "start_time": "06:30",
-    "location": "雲林縣虎尾鎮建成路與站前東路交叉路口",
-    "region": "雲林縣",
-    "distances": [
-      {
-        "label": "21K",
-        "fee": null,
-        "limit": 3000
-      },
-      {
-        "label": "11K",
-        "fee": null,
-        "limit": 2000
-      },
-      {
-        "label": "6K",
-        "fee": null,
-        "limit": 2000
-      },
-      {
-        "label": "4K",
-        "fee": null,
-        "limit": 2000
-      }
-    ],
-    "categories": [
-      "10K+",
-      "休閒",
-      "半馬"
-    ],
-    "max_km": 21.0,
-    "organizer": "雲林縣虎馬路跑協會",
-    "status": "已截止",
-    "status_raw": "已截止",
-    "reg_state": "closed",
-    "is_past": true,
-    "is_new": false,
-    "month_tag": "",
-    "year": 2026
-  },
-  {
     "name": "2026 華陀為高雄公益路跑",
     "link": "https://bao-ming.com/eb/content/6913#32558",
     "date_raw": "10/26 一 06:00",
@@ -276,7 +43,7 @@
     "reg_state": "closed",
     "is_past": true,
     "is_new": false,
-    "month_tag": "",
+    "month_tag": "10月",
     "year": 2026
   },
   {
@@ -899,6 +666,36 @@
     "year": 2026
   },
   {
+    "name": "2026 義大醫療健康永續路跑暨第4屆全國醫學中心接力賽",
+    "link": "https://bao-ming.com/eb/content/7178#33710",
+    "date_raw": "11/01 日 06:30",
+    "month": 11,
+    "day": 1,
+    "weekday": "日",
+    "start_time": "06:30",
+    "location": "高雄市岡山區典寶溪劉厝滯洪池",
+    "region": "高雄市",
+    "distances": [
+      {
+        "label": "10K",
+        "fee": 600,
+        "limit": 700
+      }
+    ],
+    "categories": [
+      "10K+"
+    ],
+    "max_km": 10.0,
+    "organizer": "義大醫療財團法人義大醫院",
+    "status": "已截止",
+    "status_raw": "已截止",
+    "reg_state": "closed",
+    "is_past": false,
+    "is_new": false,
+    "month_tag": "",
+    "year": 2026
+  },
+  {
     "name": "跑吧！孩子 2026知本溫泉公益馬拉松",
     "link": "https://bao-ming.com/eb/content/6997#32841",
     "date_raw": "11/01 日 06:30",
@@ -986,36 +783,6 @@
     ],
     "max_km": 42.195,
     "organizer": "交通部觀光署澎湖國家風景區管理處",
-    "status": "已截止",
-    "status_raw": "已截止",
-    "reg_state": "closed",
-    "is_past": false,
-    "is_new": false,
-    "month_tag": "",
-    "year": 2026
-  },
-  {
-    "name": "2026 義大醫療健康永續路跑暨第4屆全國醫學中心接力賽",
-    "link": "https://bao-ming.com/eb/content/7178#33710",
-    "date_raw": "11/01 日 06:30",
-    "month": 11,
-    "day": 1,
-    "weekday": "日",
-    "start_time": "06:30",
-    "location": "高雄市岡山區典寶溪劉厝滯洪池",
-    "region": "高雄市",
-    "distances": [
-      {
-        "label": "10K",
-        "fee": 600,
-        "limit": 700
-      }
-    ],
-    "categories": [
-      "10K+"
-    ],
-    "max_km": 10.0,
-    "organizer": "義大醫療財團法人義大醫院",
     "status": "已截止",
     "status_raw": "已截止",
     "reg_state": "closed",
@@ -1843,6 +1610,48 @@
     "year": 2026
   },
   {
+    "name": "2026 ZEPRO RUN 全國半程馬拉松-臺南場",
+    "link": "http://ctrun.tw/ZP1115",
+    "date_raw": "11/15 日 06:00",
+    "month": 11,
+    "day": 15,
+    "weekday": "日",
+    "start_time": "06:00",
+    "location": "臺南市安平區觀夕平台停車場",
+    "region": "臺南市",
+    "distances": [
+      {
+        "label": "21K",
+        "fee": null,
+        "limit": null
+      },
+      {
+        "label": "10K",
+        "fee": null,
+        "limit": null
+      },
+      {
+        "label": "3.5K",
+        "fee": null,
+        "limit": null
+      }
+    ],
+    "categories": [
+      "10K+",
+      "休閒",
+      "半馬"
+    ],
+    "max_km": 21.0,
+    "organizer": "全統運動用品股份有限公司",
+    "status": "已截止",
+    "status_raw": "已截止",
+    "reg_state": "closed",
+    "is_past": false,
+    "is_new": false,
+    "month_tag": "",
+    "year": 2026
+  },
+  {
     "name": "2026 屏東墾丁日本航空國際馬拉松",
     "link": "https://bao-ming.com/eb/content/7073#33083",
     "date_raw": "11/15 日 06:00",
@@ -1882,48 +1691,6 @@
     ],
     "max_km": 42.195,
     "organizer": "屏東縣政府",
-    "status": "已截止",
-    "status_raw": "已截止",
-    "reg_state": "closed",
-    "is_past": false,
-    "is_new": false,
-    "month_tag": "",
-    "year": 2026
-  },
-  {
-    "name": "2026 ZEPRO RUN 全國半程馬拉松-臺南場",
-    "link": "http://ctrun.tw/ZP1115",
-    "date_raw": "11/15 日 06:00",
-    "month": 11,
-    "day": 15,
-    "weekday": "日",
-    "start_time": "06:00",
-    "location": "臺南市安平區觀夕平台停車場",
-    "region": "臺南市",
-    "distances": [
-      {
-        "label": "21K",
-        "fee": null,
-        "limit": null
-      },
-      {
-        "label": "10K",
-        "fee": null,
-        "limit": null
-      },
-      {
-        "label": "3.5K",
-        "fee": null,
-        "limit": null
-      }
-    ],
-    "categories": [
-      "10K+",
-      "休閒",
-      "半馬"
-    ],
-    "max_km": 21.0,
-    "organizer": "全統運動用品股份有限公司",
     "status": "已截止",
     "status_raw": "已截止",
     "reg_state": "closed",
@@ -3098,48 +2865,6 @@
     "year": 2026
   },
   {
-    "name": "2026 桃園半程馬拉松 石門水庫楓半馬",
-    "link": "https://bao-ming.com/eb/content/7084#33179",
-    "date_raw": "12/06 日 06:30",
-    "month": 12,
-    "day": 6,
-    "weekday": "日",
-    "start_time": "06:30",
-    "location": "桃園市大溪區石門水庫南苑停車場",
-    "region": "桃園市",
-    "distances": [
-      {
-        "label": "21.0975K",
-        "fee": 1000,
-        "limit": 1200
-      },
-      {
-        "label": "10K",
-        "fee": 700,
-        "limit": 2200
-      },
-      {
-        "label": "5K",
-        "fee": 400,
-        "limit": 2600
-      }
-    ],
-    "categories": [
-      "10K+",
-      "休閒",
-      "半馬"
-    ],
-    "max_km": 21.0975,
-    "organizer": "桃園市政府體育局",
-    "status": "已截止",
-    "status_raw": "已截止",
-    "reg_state": "closed",
-    "is_past": false,
-    "is_new": false,
-    "month_tag": "",
-    "year": 2026
-  },
-  {
     "name": "2026 三星安農溪馬拉松嘉年華",
     "link": "https://bao-ming.com/eb/content/7051#33010",
     "date_raw": "12/06 日 06:30",
@@ -3241,6 +2966,48 @@
     "year": 2026
   },
   {
+    "name": "2026 桃園半程馬拉松 石門水庫楓半馬",
+    "link": "https://bao-ming.com/eb/content/7084#33179",
+    "date_raw": "12/06 日 06:30",
+    "month": 12,
+    "day": 6,
+    "weekday": "日",
+    "start_time": "06:30",
+    "location": "桃園市大溪區石門水庫南苑停車場",
+    "region": "桃園市",
+    "distances": [
+      {
+        "label": "21.0975K",
+        "fee": 1000,
+        "limit": 1200
+      },
+      {
+        "label": "10K",
+        "fee": 700,
+        "limit": 2200
+      },
+      {
+        "label": "5K",
+        "fee": 400,
+        "limit": 2600
+      }
+    ],
+    "categories": [
+      "10K+",
+      "休閒",
+      "半馬"
+    ],
+    "max_km": 21.0975,
+    "organizer": "桃園市政府體育局",
+    "status": "已截止",
+    "status_raw": "已截止",
+    "reg_state": "closed",
+    "is_past": false,
+    "is_new": false,
+    "month_tag": "",
+    "year": 2026
+  },
+  {
     "name": "2026 臺灣動感亞洲50",
     "link": "https://actionasiaevents.com/zh/2026-taiwan-action-asia-50-shihmen-reservoir/",
     "date_raw": "12/12 六 05:00",
@@ -3322,8 +3089,8 @@
     ],
     "max_km": 42.195,
     "organizer": "議長張清照服務處/清水紫雲巖管理委員會",
-    "status": "5月04日 ~ 10月31日 (最後一週)",
-    "status_raw": "5月04日 ~ 10月31日 (最後一週)",
+    "status": "5月04日 ~ 10月31日 (最後四天)",
+    "status_raw": "5月04日 ~ 10月31日 (最後四天)",
     "reg_state": "open",
     "is_past": false,
     "is_new": false,
@@ -3705,8 +3472,8 @@
     ],
     "max_km": 42.195,
     "organizer": "南投縣觀光產業聯盟協會",
-    "status": "9月04日 ~ 10月31日 (最後一週)",
-    "status_raw": "9月04日 ~ 10月31日 (最後一週)",
+    "status": "9月04日 ~ 10月31日 (最後四天)",
+    "status_raw": "9月04日 ~ 10月31日 (最後四天)",
     "reg_state": "open",
     "is_past": false,
     "is_new": false,
@@ -3944,11 +3711,11 @@
     ],
     "max_km": 42.195,
     "organizer": "埔鹽順澤宮",
-    "status": "已截止",
-    "status_raw": "已截止",
-    "reg_state": "closed",
+    "status": "6月18日 ~ 10月29日 (最後二天)",
+    "status_raw": "6月18日 ~ 10月29日 (最後二天)",
+    "reg_state": "open",
     "is_past": false,
-    "is_new": false,
+    "is_new": true,
     "month_tag": "",
     "year": 2026
   },
@@ -4213,8 +3980,8 @@
     ],
     "max_km": 42.195,
     "organizer": "南華大學/大林鎮公所",
-    "status": "8月18日 ~ 10月27日 (最後一天)",
-    "status_raw": "8月18日 ~ 10月27日 (最後一天)",
+    "status": "8月18日 ~ 11月15日",
+    "status_raw": "8月18日 ~ 11月15日",
     "reg_state": "open",
     "is_past": false,
     "is_new": true,
@@ -4347,8 +4114,8 @@
     ],
     "max_km": 10.0,
     "organizer": "高雄捷運股份有限公司",
-    "status": "~ 10月31日 (最後一週)",
-    "status_raw": "~ 10月31日 (最後一週)",
+    "status": "~ 10月31日 (最後四天)",
+    "status_raw": "~ 10月31日 (最後四天)",
     "reg_state": "open",
     "is_past": false,
     "is_new": false,
@@ -4508,8 +4275,8 @@
     ],
     "max_km": 21.5,
     "organizer": "新營太子宮太子爺廟管理委員會",
-    "status": "7月08日 ~ 10月29日 (最後三天)",
-    "status_raw": "7月08日 ~ 10月29日 (最後三天)",
+    "status": "7月08日 ~ 10月29日 (最後二天)",
+    "status_raw": "7月08日 ~ 10月29日 (最後二天)",
     "reg_state": "open",
     "is_past": false,
     "is_new": false,
@@ -4793,8 +4560,8 @@
     ],
     "max_km": 42.195,
     "organizer": "中華民國路跑協會",
-    "status": "8月26日 ~ 10月30日 (最後四天)",
-    "status_raw": "8月26日 ~ 10月30日 (最後四天)",
+    "status": "8月26日 ~ 10月30日 (最後三天)",
+    "status_raw": "8月26日 ~ 10月30日 (最後三天)",
     "reg_state": "open",
     "is_past": false,
     "is_new": false,
@@ -5145,8 +4912,8 @@
     ],
     "max_km": 42.195,
     "organizer": "金門縣政府",
-    "status": "7月14日 ~ 10月30日 (最後四天)",
-    "status_raw": "7月14日 ~ 10月30日 (最後四天)",
+    "status": "7月14日 ~ 10月30日 (最後三天)",
+    "status_raw": "7月14日 ~ 10月30日 (最後三天)",
     "reg_state": "open",
     "is_past": false,
     "is_new": false,
@@ -5292,8 +5059,8 @@
     ],
     "max_km": 21.0,
     "organizer": "展逸國際企業股份有限公司",
-    "status": "9月04日 ~ 10月31日 (最後一週)",
-    "status_raw": "9月04日 ~ 10月31日 (最後一週)",
+    "status": "9月04日 ~ 10月31日 (最後四天)",
+    "status_raw": "9月04日 ~ 10月31日 (最後四天)",
     "reg_state": "open",
     "is_past": false,
     "is_new": false,
@@ -5569,7 +5336,7 @@
   },
   {
     "name": "2027 年嘉義半程馬拉松",
-    "link": "",
+    "link": "https://fsurl.cc/270221JE/taipeimarathon",
     "date_raw": "02/21 日 06:00",
     "month": 2,
     "day": 21,
@@ -5577,15 +5344,41 @@
     "start_time": "06:00",
     "location": "嘉義縣中埔鄉多功能運動公園",
     "region": "嘉義縣",
-    "distances": [],
-    "categories": [],
-    "max_km": 0,
-    "organizer": "蔡良闊慈善會",
+    "distances": [
+      {
+        "label": "21K",
+        "fee": null,
+        "limit": null
+      },
+      {
+        "label": "10K",
+        "fee": null,
+        "limit": null
+      },
+      {
+        "label": "5K",
+        "fee": null,
+        "limit": null
+      },
+      {
+        "label": "",
+        "fee": null,
+        "limit": null
+      }
+    ],
+    "categories": [
+      "10K+",
+      "休閒",
+      "半馬",
+      "特殊"
+    ],
+    "max_km": 21.0,
+    "organizer": "Rise創意活動企劃",
     "status": "",
     "status_raw": "",
     "reg_state": "upcoming",
     "is_past": false,
-    "is_new": false,
+    "is_new": true,
     "month_tag": "",
     "year": 2027
   },
@@ -6457,6 +6250,48 @@
     "year": 2027
   },
   {
+    "name": "2027 柚花追香半程馬拉松-麻豆場",
+    "link": "",
+    "date_raw": "03/21 日 06:00",
+    "month": 3,
+    "day": 21,
+    "weekday": "日",
+    "start_time": "06:00",
+    "location": "臺南市麻豆區安業國小",
+    "region": "臺南市",
+    "distances": [
+      {
+        "label": "21K",
+        "fee": null,
+        "limit": null
+      },
+      {
+        "label": "12K",
+        "fee": null,
+        "limit": null
+      },
+      {
+        "label": "6K",
+        "fee": null,
+        "limit": null
+      }
+    ],
+    "categories": [
+      "10K+",
+      "休閒",
+      "半馬"
+    ],
+    "max_km": 21.0,
+    "organizer": "麻豆區農會",
+    "status": "",
+    "status_raw": "",
+    "reg_state": "upcoming",
+    "is_past": false,
+    "is_new": false,
+    "month_tag": "",
+    "year": 2027
+  },
+  {
     "name": "2027 大亞旺萊馬拉松",
     "link": "https://bao-ming.com/eb/content/7233#34224",
     "date_raw": "03/21 日 06:00",
@@ -6505,48 +6340,6 @@
     "status_raw": "",
     "reg_state": "upcoming",
     "is_past": false,
-    "is_new": true,
-    "month_tag": "",
-    "year": 2027
-  },
-  {
-    "name": "2027 柚花追香半程馬拉松-麻豆場",
-    "link": "",
-    "date_raw": "03/21 日 06:00",
-    "month": 3,
-    "day": 21,
-    "weekday": "日",
-    "start_time": "06:00",
-    "location": "臺南市麻豆區安業國小",
-    "region": "臺南市",
-    "distances": [
-      {
-        "label": "21K",
-        "fee": null,
-        "limit": null
-      },
-      {
-        "label": "12K",
-        "fee": null,
-        "limit": null
-      },
-      {
-        "label": "6K",
-        "fee": null,
-        "limit": null
-      }
-    ],
-    "categories": [
-      "10K+",
-      "休閒",
-      "半馬"
-    ],
-    "max_km": 21.0,
-    "organizer": "麻豆區農會",
-    "status": "",
-    "status_raw": "",
-    "reg_state": "upcoming",
-    "is_past": false,
     "is_new": false,
     "month_tag": "",
     "year": 2027
@@ -6579,8 +6372,8 @@
     ],
     "max_km": 42.195,
     "organizer": "新北市政府/中華民國田徑協會",
-    "status": "10月15日 ~ 10月30日 (最後四天)",
-    "status_raw": "10月15日 ~ 10月30日 (最後四天)",
+    "status": "10月15日 ~ 10月30日 (最後三天)",
+    "status_raw": "10月15日 ~ 10月30日 (最後三天)",
     "reg_state": "open",
     "is_past": false,
     "is_new": false,
@@ -7530,6 +7323,53 @@
     "reg_state": "upcoming",
     "is_past": false,
     "is_new": false,
+    "month_tag": "",
+    "year": 2027
+  },
+  {
+    "name": "2027 中興新村半程馬拉松",
+    "link": "https://lohasnet.tw/#/event",
+    "date_raw": "05/23 日",
+    "month": 5,
+    "day": 23,
+    "weekday": "日",
+    "start_time": "",
+    "location": "中興會堂",
+    "region": "其他",
+    "distances": [
+      {
+        "label": "21K",
+        "fee": null,
+        "limit": null
+      },
+      {
+        "label": "10K",
+        "fee": null,
+        "limit": null
+      },
+      {
+        "label": "5K",
+        "fee": null,
+        "limit": null
+      },
+      {
+        "label": "3K",
+        "fee": null,
+        "limit": null
+      }
+    ],
+    "categories": [
+      "10K+",
+      "休閒",
+      "半馬"
+    ],
+    "max_km": 21.0,
+    "organizer": "雲林縣三鐵運動協會",
+    "status": "",
+    "status_raw": "",
+    "reg_state": "upcoming",
+    "is_past": false,
+    "is_new": true,
     "month_tag": "",
     "year": 2027
   },
