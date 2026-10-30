@@ -1879,7 +1879,7 @@
     "status_raw": "已截止",
     "reg_state": "closed",
     "is_past": false,
-    "is_new": true,
+    "is_new": false,
     "month_tag": "",
     "year": 2026
   },
@@ -2415,8 +2415,8 @@
     ],
     "max_km": 115.1,
     "organizer": "TUR/臺灣龍虎鳳越野協會",
-    "status": "10月01日 ~ 11月05日",
-    "status_raw": "10月01日 ~ 11月05日",
+    "status": "10月01日 ~ 11月05日 (最後一週)",
+    "status_raw": "10月01日 ~ 11月05日 (最後一週)",
     "reg_state": "open",
     "is_past": false,
     "is_new": false,
@@ -3042,8 +3042,8 @@
     ],
     "max_km": 42.195,
     "organizer": "議長張清照服務處/清水紫雲巖管理委員會",
-    "status": "5月04日 ~ 10月31日 (最後三天)",
-    "status_raw": "5月04日 ~ 10月31日 (最後三天)",
+    "status": "5月04日 ~ 10月31日 (最後二天)",
+    "status_raw": "5月04日 ~ 10月31日 (最後二天)",
     "reg_state": "open",
     "is_past": false,
     "is_new": false,
@@ -3425,8 +3425,8 @@
     ],
     "max_km": 42.195,
     "organizer": "南投縣觀光產業聯盟協會",
-    "status": "9月04日 ~ 10月31日 (最後三天)",
-    "status_raw": "9月04日 ~ 10月31日 (最後三天)",
+    "status": "9月04日 ~ 10月31日 (最後二天)",
+    "status_raw": "9月04日 ~ 10月31日 (最後二天)",
     "reg_state": "open",
     "is_past": false,
     "is_new": false,
@@ -3664,9 +3664,9 @@
     ],
     "max_km": 42.195,
     "organizer": "埔鹽順澤宮",
-    "status": "6月18日 ~ 10月29日 (最後一天)",
-    "status_raw": "6月18日 ~ 10月29日 (最後一天)",
-    "reg_state": "open",
+    "status": "已截止",
+    "status_raw": "已截止",
+    "reg_state": "closed",
     "is_past": false,
     "is_new": true,
     "month_tag": "",
@@ -3758,7 +3758,7 @@
     "status_raw": "~ 11月18日",
     "reg_state": "open",
     "is_past": false,
-    "is_new": true,
+    "is_new": false,
     "month_tag": "",
     "year": 2026
   },
@@ -4067,8 +4067,8 @@
     ],
     "max_km": 10.0,
     "organizer": "高雄捷運股份有限公司",
-    "status": "~ 10月31日 (最後三天)",
-    "status_raw": "~ 10月31日 (最後三天)",
+    "status": "~ 10月31日 (最後二天)",
+    "status_raw": "~ 10月31日 (最後二天)",
     "reg_state": "open",
     "is_past": false,
     "is_new": false,
@@ -4228,9 +4228,9 @@
     ],
     "max_km": 21.5,
     "organizer": "新營太子宮太子爺廟管理委員會",
-    "status": "7月08日 ~ 10月29日 (最後一天)",
-    "status_raw": "7月08日 ~ 10月29日 (最後一天)",
-    "reg_state": "open",
+    "status": "已截止",
+    "status_raw": "已截止",
+    "reg_state": "closed",
     "is_past": false,
     "is_new": false,
     "month_tag": "",
@@ -4318,8 +4318,8 @@
     ],
     "max_km": 42.195,
     "organizer": "中華民國越野運動協會",
-    "status": "8月28日 ~ 11月02日 (最後一週)",
-    "status_raw": "8月28日 ~ 11月02日 (最後一週)",
+    "status": "8月28日 ~ 11月02日 (最後四天)",
+    "status_raw": "8月28日 ~ 11月02日 (最後四天)",
     "reg_state": "open",
     "is_past": false,
     "is_new": false,
@@ -4513,8 +4513,8 @@
     ],
     "max_km": 42.195,
     "organizer": "中華民國路跑協會",
-    "status": "8月26日 ~ 10月30日 (最後二天)",
-    "status_raw": "8月26日 ~ 10月30日 (最後二天)",
+    "status": "8月26日 ~ 10月30日 (最後一天)",
+    "status_raw": "8月26日 ~ 10月30日 (最後一天)",
     "reg_state": "open",
     "is_past": false,
     "is_new": false,
@@ -4865,8 +4865,8 @@
     ],
     "max_km": 42.195,
     "organizer": "金門縣政府",
-    "status": "7月14日 ~ 10月30日 (最後二天)",
-    "status_raw": "7月14日 ~ 10月30日 (最後二天)",
+    "status": "7月14日 ~ 10月30日 (最後一天)",
+    "status_raw": "7月14日 ~ 10月30日 (最後一天)",
     "reg_state": "open",
     "is_past": false,
     "is_new": false,
@@ -5012,8 +5012,8 @@
     ],
     "max_km": 21.0,
     "organizer": "展逸國際企業股份有限公司",
-    "status": "9月04日 ~ 10月31日 (最後三天)",
-    "status_raw": "9月04日 ~ 10月31日 (最後三天)",
+    "status": "9月04日 ~ 10月31日 (最後二天)",
+    "status_raw": "9月04日 ~ 10月31日 (最後二天)",
     "reg_state": "open",
     "is_past": false,
     "is_new": false,
@@ -6325,8 +6325,8 @@
     ],
     "max_km": 42.195,
     "organizer": "新北市政府/中華民國田徑協會",
-    "status": "10月15日 ~ 10月30日 (最後二天)",
-    "status_raw": "10月15日 ~ 10月30日 (最後二天)",
+    "status": "10月15日 ~ 10月30日 (最後一天)",
+    "status_raw": "10月15日 ~ 10月30日 (最後一天)",
     "reg_state": "open",
     "is_past": false,
     "is_new": false,
@@ -6563,6 +6563,95 @@
     "reg_state": "closed",
     "is_past": false,
     "is_new": false,
+    "month_tag": "",
+    "year": 2027
+  },
+  {
+    "name": "2027 臺北科技盃愛地球公益路跑",
+    "link": "https://lohasnet.tw/#/event",
+    "date_raw": "03/28 日",
+    "month": 3,
+    "day": 28,
+    "weekday": "日",
+    "start_time": "",
+    "location": "臺北市中山區大直美堤河濱公園",
+    "region": "臺北市",
+    "distances": [
+      {
+        "label": "21K",
+        "fee": null,
+        "limit": null
+      },
+      {
+        "label": "10K",
+        "fee": null,
+        "limit": null
+      },
+      {
+        "label": "5K",
+        "fee": null,
+        "limit": null
+      }
+    ],
+    "categories": [
+      "10K+",
+      "休閒",
+      "半馬"
+    ],
+    "max_km": 21.0,
+    "organizer": "社團法人臺北內湖科技園區發展協會",
+    "status": "",
+    "status_raw": "",
+    "reg_state": "upcoming",
+    "is_past": false,
+    "is_new": true,
+    "month_tag": "",
+    "year": 2027
+  },
+  {
+    "name": "2027 第三屆花旗木半程馬拉松",
+    "link": "https://lohasnet.tw/JhuciRun2027/",
+    "date_raw": "03/28 日 06:00",
+    "month": 3,
+    "day": 28,
+    "weekday": "日",
+    "start_time": "06:00",
+    "location": "嘉義縣竹崎鄉竹崎公園風雨球場停車場",
+    "region": "嘉義縣",
+    "distances": [
+      {
+        "label": "21K",
+        "fee": 1200,
+        "limit": null
+      },
+      {
+        "label": "11K",
+        "fee": 1000,
+        "limit": null
+      },
+      {
+        "label": "6K",
+        "fee": 900,
+        "limit": null
+      },
+      {
+        "label": "3K",
+        "fee": 800,
+        "limit": null
+      }
+    ],
+    "categories": [
+      "10K+",
+      "休閒",
+      "半馬"
+    ],
+    "max_km": 21.0,
+    "organizer": "臺灣路跑賽會服務協會",
+    "status": "10月30日 ~ 1月24日",
+    "status_raw": "10月30日 ~ 1月24日",
+    "reg_state": "closed",
+    "is_past": false,
+    "is_new": true,
     "month_tag": "",
     "year": 2027
   },
@@ -7287,8 +7376,8 @@
     "day": 23,
     "weekday": "日",
     "start_time": "",
-    "location": "中興會堂",
-    "region": "其他",
+    "location": "南投縣南投市中興會堂",
+    "region": "南投縣",
     "distances": [
       {
         "label": "21K",
@@ -7375,15 +7464,15 @@
     "year": 2027
   },
   {
-    "name": "2027雲林半程馬拉松",
-    "link": "",
+    "name": "2027 雲林半程馬拉松",
+    "link": "https://lohasnet.tw/#/event",
     "date_raw": "06/06 日",
     "month": 6,
     "day": 6,
     "weekday": "日",
     "start_time": "",
-    "location": "斗六梅林公園",
-    "region": "其他",
+    "location": "雲林縣斗六市梅林公園",
+    "region": "雲林縣",
     "distances": [
       {
         "label": "21K",
@@ -7396,7 +7485,7 @@
         "limit": null
       },
       {
-        "label": "/ 5K",
+        "label": "5K",
         "fee": null,
         "limit": null
       },
