@@ -1670,9 +1670,9 @@
     ],
     "max_km": 115.1,
     "organizer": "TUR/臺灣龍虎鳳越野協會",
-    "status": "10月01日 ~ 11月05日 (最後一天)",
-    "status_raw": "10月01日 ~ 11月05日 (最後一天)",
-    "reg_state": "open",
+    "status": "已截止",
+    "status_raw": "已截止",
+    "reg_state": "closed",
     "is_past": false,
     "is_new": false,
     "month_tag": "",
@@ -1732,8 +1732,8 @@
     ],
     "max_km": 51.0,
     "organizer": "核立子身心技法創研社",
-    "status": "6月01日 ~ 11月07日 (最後三天)",
-    "status_raw": "6月01日 ~ 11月07日 (最後三天)",
+    "status": "6月01日 ~ 11月07日 (最後二天)",
+    "status_raw": "6月01日 ~ 11月07日 (最後二天)",
     "reg_state": "open",
     "is_past": false,
     "is_new": false,
@@ -3045,8 +3045,8 @@
     ],
     "max_km": 12.0,
     "organizer": "苗栗縣政府",
-    "status": "9月09日 ~ 11月08日 (最後四天)",
-    "status_raw": "9月09日 ~ 11月08日 (最後四天)",
+    "status": "9月09日 ~ 11月08日 (最後三天)",
+    "status_raw": "9月09日 ~ 11月08日 (最後三天)",
     "reg_state": "open",
     "is_past": false,
     "is_new": false,
@@ -3093,8 +3093,8 @@
     ],
     "max_km": 42.195,
     "organizer": "府城國際超級馬拉松協會",
-    "status": "5月06日 ~ 11月08日 (最後四天)",
-    "status_raw": "5月06日 ~ 11月08日 (最後四天)",
+    "status": "5月06日 ~ 11月08日 (最後三天)",
+    "status_raw": "5月06日 ~ 11月08日 (最後三天)",
     "reg_state": "open",
     "is_past": false,
     "is_new": false,
@@ -3322,11 +3322,11 @@
     ],
     "max_km": 10.0,
     "organizer": "高雄捷運股份有限公司",
-    "status": "已截止",
-    "status_raw": "已截止",
-    "reg_state": "closed",
+    "status": "~ 11月08日 (最後三天)",
+    "status_raw": "~ 11月08日 (最後三天)",
+    "reg_state": "open",
     "is_past": false,
-    "is_new": false,
+    "is_new": true,
     "month_tag": "",
     "year": 2026
   },
@@ -3408,6 +3408,36 @@
     "year": 2026
   },
   {
+    "name": "2026 環跑台北67K認證活動 (2026強勢回歸)",
+    "link": "https://www.beclass.com/rid=305282e6aa2ab2bf1ab1",
+    "date_raw": "12/27 日 06:00",
+    "month": 12,
+    "day": 27,
+    "weekday": "日",
+    "start_time": "06:00",
+    "location": "臺北市南港展覽館捷運站前廣場",
+    "region": "臺北市",
+    "distances": [
+      {
+        "label": "67K",
+        "fee": 2000,
+        "limit": 100
+      }
+    ],
+    "categories": [
+      "全馬"
+    ],
+    "max_km": 67.0,
+    "organizer": "中華長跑協會",
+    "status": "~ 11月30日",
+    "status_raw": "~ 11月30日",
+    "reg_state": "open",
+    "is_past": false,
+    "is_new": true,
+    "month_tag": "",
+    "year": 2026
+  },
+  {
     "name": "2026 扶輪盃為愛發聲公益路跑賽",
     "link": "https://bao-ming.com/eb/content/7078#33324",
     "date_raw": "12/27 日 06:30",
@@ -3441,8 +3471,8 @@
     ],
     "max_km": 21.0,
     "organizer": "高雄鐵人扶輪社",
-    "status": "7月10日 ~ 11月08日 (最後四天)",
-    "status_raw": "7月10日 ~ 11月08日 (最後四天)",
+    "status": "7月10日 ~ 11月08日 (最後三天)",
+    "status_raw": "7月10日 ~ 11月08日 (最後三天)",
     "reg_state": "open",
     "is_past": false,
     "is_new": false,
@@ -4984,6 +5014,59 @@
     "year": 2027
   },
   {
+    "name": "2027 晚崙西亞東河馬拉松",
+    "link": "",
+    "date_raw": "03/07 日",
+    "month": 3,
+    "day": 7,
+    "weekday": "日",
+    "start_time": "",
+    "location": "臺東縣東河鄉東河國小",
+    "region": "臺東縣",
+    "distances": [
+      {
+        "label": "42.195K",
+        "fee": null,
+        "limit": null
+      },
+      {
+        "label": "21K",
+        "fee": null,
+        "limit": null
+      },
+      {
+        "label": "12K",
+        "fee": null,
+        "limit": null
+      },
+      {
+        "label": "6K",
+        "fee": null,
+        "limit": null
+      },
+      {
+        "label": "2K",
+        "fee": null,
+        "limit": null
+      }
+    ],
+    "categories": [
+      "10K+",
+      "休閒",
+      "全馬",
+      "半馬"
+    ],
+    "max_km": 42.195,
+    "organizer": "臺東縣東河鄉公所",
+    "status": "",
+    "status_raw": "",
+    "reg_state": "upcoming",
+    "is_past": false,
+    "is_new": true,
+    "month_tag": "",
+    "year": 2027
+  },
+  {
     "name": "2027 臺南古都國際半程馬拉松",
     "link": "https://bao-ming.com/eb/content/7181#33748",
     "date_raw": "03/07 日 05:30",
@@ -5017,8 +5100,8 @@
     ],
     "max_km": 21.0975,
     "organizer": "臺南市政府",
-    "status": "9月07日 ~ 11月06日 (最後二天)",
-    "status_raw": "9月07日 ~ 11月06日 (最後二天)",
+    "status": "9月07日 ~ 11月06日 (最後一天)",
+    "status_raw": "9月07日 ~ 11月06日 (最後一天)",
     "reg_state": "open",
     "is_past": false,
     "is_new": false,
@@ -5703,34 +5786,34 @@
   },
   {
     "name": "2027 冬山香香馬拉松",
-    "link": "",
-    "date_raw": "03/27 六",
+    "link": "https://sportaiwan.com/activity/activity_desc.php?activity=200",
+    "date_raw": "03/27 六 06:35",
     "month": 3,
     "day": 27,
     "weekday": "六",
-    "start_time": "",
+    "start_time": "06:35",
     "location": "宜蘭縣冬山鄉得安宮",
     "region": "宜蘭縣",
     "distances": [
       {
         "label": "42.195K",
         "fee": null,
-        "limit": null
+        "limit": 150
       },
       {
         "label": "21K",
         "fee": null,
-        "limit": null
+        "limit": 150
       },
       {
         "label": "10K",
         "fee": null,
-        "limit": null
+        "limit": 150
       },
       {
         "label": "5K",
         "fee": null,
-        "limit": null
+        "limit": 140
       }
     ],
     "categories": [
@@ -5740,12 +5823,12 @@
       "半馬"
     ],
     "max_km": 42.195,
-    "organizer": "赤兔鐵馬國際",
-    "status": "",
-    "status_raw": "",
-    "reg_state": "upcoming",
+    "organizer": "赤兔鐵馬股份有限公司",
+    "status": "~ 2月19日",
+    "status_raw": "~ 2月19日",
+    "reg_state": "closed",
     "is_past": false,
-    "is_new": false,
+    "is_new": true,
     "month_tag": "",
     "year": 2027
   },
@@ -5822,95 +5905,6 @@
     "year": 2027
   },
   {
-    "name": "2027 臺北科技盃愛地球公益路跑",
-    "link": "https://lohasnet.tw/#/event",
-    "date_raw": "03/28 日",
-    "month": 3,
-    "day": 28,
-    "weekday": "日",
-    "start_time": "",
-    "location": "臺北市中山區大直美堤河濱公園",
-    "region": "臺北市",
-    "distances": [
-      {
-        "label": "21K",
-        "fee": null,
-        "limit": null
-      },
-      {
-        "label": "10K",
-        "fee": null,
-        "limit": null
-      },
-      {
-        "label": "5K",
-        "fee": null,
-        "limit": null
-      }
-    ],
-    "categories": [
-      "10K+",
-      "休閒",
-      "半馬"
-    ],
-    "max_km": 21.0,
-    "organizer": "社團法人臺北內湖科技園區發展協會",
-    "status": "",
-    "status_raw": "",
-    "reg_state": "upcoming",
-    "is_past": false,
-    "is_new": true,
-    "month_tag": "",
-    "year": 2027
-  },
-  {
-    "name": "2027 第三屆花旗木半程馬拉松",
-    "link": "https://lohasnet.tw/JhuciRun2027/",
-    "date_raw": "03/28 日 06:00",
-    "month": 3,
-    "day": 28,
-    "weekday": "日",
-    "start_time": "06:00",
-    "location": "嘉義縣竹崎鄉竹崎公園風雨球場停車場",
-    "region": "嘉義縣",
-    "distances": [
-      {
-        "label": "21K",
-        "fee": 1200,
-        "limit": null
-      },
-      {
-        "label": "11K",
-        "fee": 1000,
-        "limit": null
-      },
-      {
-        "label": "6K",
-        "fee": 900,
-        "limit": null
-      },
-      {
-        "label": "3K",
-        "fee": 800,
-        "limit": null
-      }
-    ],
-    "categories": [
-      "10K+",
-      "休閒",
-      "半馬"
-    ],
-    "max_km": 21.0,
-    "organizer": "臺灣路跑賽會服務協會",
-    "status": "10月30日 ~ 1月24日",
-    "status_raw": "10月30日 ~ 1月24日",
-    "reg_state": "closed",
-    "is_past": false,
-    "is_new": true,
-    "month_tag": "",
-    "year": 2027
-  },
-  {
     "name": "2027 神岡馬-神豐國際同濟會全國公益馬拉松-慢飛天使圓夢 讓愛起飛",
     "link": "https://lohasnet.tw/Shengang-marathon2027/",
     "date_raw": "03/28 日 06:00",
@@ -5977,6 +5971,95 @@
     "reg_state": "upcoming",
     "is_past": false,
     "is_new": false,
+    "month_tag": "",
+    "year": 2027
+  },
+  {
+    "name": "2027 第三屆花旗木半程馬拉松",
+    "link": "https://lohasnet.tw/JhuciRun2027/",
+    "date_raw": "03/28 日 06:00",
+    "month": 3,
+    "day": 28,
+    "weekday": "日",
+    "start_time": "06:00",
+    "location": "嘉義縣竹崎鄉竹崎公園風雨球場停車場",
+    "region": "嘉義縣",
+    "distances": [
+      {
+        "label": "21K",
+        "fee": 1200,
+        "limit": null
+      },
+      {
+        "label": "11K",
+        "fee": 1000,
+        "limit": null
+      },
+      {
+        "label": "6K",
+        "fee": 900,
+        "limit": null
+      },
+      {
+        "label": "3K",
+        "fee": 800,
+        "limit": null
+      }
+    ],
+    "categories": [
+      "10K+",
+      "休閒",
+      "半馬"
+    ],
+    "max_km": 21.0,
+    "organizer": "臺灣路跑賽會服務協會",
+    "status": "10月30日 ~ 1月24日",
+    "status_raw": "10月30日 ~ 1月24日",
+    "reg_state": "closed",
+    "is_past": false,
+    "is_new": true,
+    "month_tag": "",
+    "year": 2027
+  },
+  {
+    "name": "2027 臺北科技盃愛地球公益路跑",
+    "link": "https://lohasnet.tw/Technology2027/",
+    "date_raw": "03/28 日 06:45",
+    "month": 3,
+    "day": 28,
+    "weekday": "日",
+    "start_time": "06:45",
+    "location": "臺北市中山區大直美堤河濱公園",
+    "region": "臺北市",
+    "distances": [
+      {
+        "label": "21K",
+        "fee": 1250,
+        "limit": null
+      },
+      {
+        "label": "10K",
+        "fee": 1150,
+        "limit": null
+      },
+      {
+        "label": "4K",
+        "fee": 950,
+        "limit": null
+      }
+    ],
+    "categories": [
+      "10K+",
+      "休閒",
+      "半馬"
+    ],
+    "max_km": 21.0,
+    "organizer": "社團法人臺北內湖科技園區發展協會",
+    "status": "11月06日 ~ 2月15日",
+    "status_raw": "11月06日 ~ 2月15日",
+    "reg_state": "closed",
+    "is_past": false,
+    "is_new": true,
     "month_tag": "",
     "year": 2027
   },
@@ -6332,7 +6415,7 @@
     "status_raw": "10月30日 ~ 3月12日",
     "reg_state": "closed",
     "is_past": false,
-    "is_new": true,
+    "is_new": false,
     "month_tag": "",
     "year": 2027
   },
@@ -6756,7 +6839,7 @@
     "status_raw": "",
     "reg_state": "upcoming",
     "is_past": false,
-    "is_new": true,
+    "is_new": false,
     "month_tag": "",
     "year": 2027
   },
@@ -6851,8 +6934,56 @@
     "status_raw": "",
     "reg_state": "upcoming",
     "is_past": false,
-    "is_new": true,
+    "is_new": false,
     "month_tag": "6月",
+    "year": 2027
+  },
+  {
+    "name": "2027 綠動海風馬",
+    "link": "",
+    "date_raw": "09/26 日",
+    "month": 9,
+    "day": 26,
+    "weekday": "日",
+    "start_time": "",
+    "location": "雲林縣台西鄉公所旁共融公園",
+    "region": "雲林縣",
+    "distances": [
+      {
+        "label": "42.195K",
+        "fee": null,
+        "limit": null
+      },
+      {
+        "label": "21K",
+        "fee": null,
+        "limit": null
+      },
+      {
+        "label": "10K",
+        "fee": null,
+        "limit": null
+      },
+      {
+        "label": "2K",
+        "fee": null,
+        "limit": null
+      }
+    ],
+    "categories": [
+      "10K+",
+      "休閒",
+      "全馬",
+      "半馬"
+    ],
+    "max_km": 42.195,
+    "organizer": "碩力光能股份有限公司",
+    "status": "",
+    "status_raw": "",
+    "reg_state": "upcoming",
+    "is_past": false,
+    "is_new": true,
+    "month_tag": "9月",
     "year": 2027
   }
 ]
