@@ -480,8 +480,8 @@
     ],
     "max_km": 5.0,
     "organizer": "捷迅股份有限公司",
-    "status": "11月09日 ~ 11月15日 (最後四天)",
-    "status_raw": "11月09日 ~ 11月15日 (最後四天)",
+    "status": "11月09日 ~ 11月15日 (最後三天)",
+    "status_raw": "11月09日 ~ 11月15日 (最後三天)",
     "reg_state": "open",
     "is_past": false,
     "is_new": false,
@@ -1883,8 +1883,8 @@
     ],
     "max_km": 11.0,
     "organizer": "嘉義縣義竹修緣禪寺",
-    "status": "9月11日 ~ 11月15日 (最後四天)",
-    "status_raw": "9月11日 ~ 11月15日 (最後四天)",
+    "status": "9月11日 ~ 11月15日 (最後三天)",
+    "status_raw": "9月11日 ~ 11月15日 (最後三天)",
     "reg_state": "open",
     "is_past": false,
     "is_new": true,
@@ -2081,8 +2081,8 @@
     ],
     "max_km": 10.0,
     "organizer": "正念悠遊跑推廣團隊",
-    "status": "~ 11月13日 (最後二天)",
-    "status_raw": "~ 11月13日 (最後二天)",
+    "status": "~ 11月13日 (最後一天)",
+    "status_raw": "~ 11月13日 (最後一天)",
     "reg_state": "open",
     "is_past": false,
     "is_new": false,
@@ -2273,8 +2273,8 @@
     ],
     "max_km": 42.195,
     "organizer": "影流文創/SPORTAIWAN",
-    "status": "~ 11月15日 (最後四天)",
-    "status_raw": "~ 11月15日 (最後四天)",
+    "status": "~ 11月15日 (最後三天)",
+    "status_raw": "~ 11月15日 (最後三天)",
     "reg_state": "open",
     "is_past": false,
     "is_new": false,
@@ -2306,36 +2306,6 @@
     "status": "12月07日 ~ 12月13日",
     "status_raw": "12月07日 ~ 12月13日",
     "reg_state": "upcoming",
-    "is_past": false,
-    "is_new": false,
-    "month_tag": "",
-    "year": 2026
-  },
-  {
-    "name": "第十三屆赤足(BAREFOOT)馬拉松完成賽",
-    "link": "https://docs.google.com/document/d/1SGoC2ZeKTGgzPZVbL6aTQAXk7dQbZn7T/edit?usp=sharing&ouid=110764794774391593445&rtpof=true&sd=true",
-    "date_raw": "12/17 四 15:00",
-    "month": 12,
-    "day": 17,
-    "weekday": "四",
-    "start_time": "15:00",
-    "location": "雲林縣虎尾鎮國立虎尾科技大學",
-    "region": "雲林縣",
-    "distances": [
-      {
-        "label": "42.195K",
-        "fee": 0,
-        "limit": 50
-      }
-    ],
-    "categories": [
-      "全馬"
-    ],
-    "max_km": 42.195,
-    "organizer": "國立虎尾科技大學體育室",
-    "status": "~ 12月03日",
-    "status_raw": "~ 12月03日",
-    "reg_state": "open",
     "is_past": false,
     "is_new": false,
     "month_tag": "",
@@ -2721,8 +2691,8 @@
     ],
     "max_km": 42.195,
     "organizer": "南華大學/大林鎮公所",
-    "status": "8月18日 ~ 11月15日 (最後四天)",
-    "status_raw": "8月18日 ~ 11月15日 (最後四天)",
+    "status": "8月18日 ~ 11月15日 (最後三天)",
+    "status_raw": "8月18日 ~ 11月15日 (最後三天)",
     "reg_state": "open",
     "is_past": false,
     "is_new": false,
@@ -2823,7 +2793,7 @@
     "status_raw": "已截止",
     "reg_state": "closed",
     "is_past": false,
-    "is_new": true,
+    "is_new": false,
     "month_tag": "",
     "year": 2026
   },
@@ -2896,8 +2866,8 @@
     ],
     "max_km": 21.0,
     "organizer": "有藝思國際娛樂",
-    "status": "9月28日 ~ 11月15日 (最後四天)",
-    "status_raw": "9月28日 ~ 11月15日 (最後四天)",
+    "status": "9月28日 ~ 11月15日 (最後三天)",
+    "status_raw": "9月28日 ~ 11月15日 (最後三天)",
     "reg_state": "open",
     "is_past": false,
     "is_new": false,
@@ -2930,7 +2900,7 @@
     "status_raw": "~ 11月30日",
     "reg_state": "open",
     "is_past": false,
-    "is_new": true,
+    "is_new": false,
     "month_tag": "",
     "year": 2026
   },
@@ -3015,6 +2985,36 @@
     "reg_state": "closed",
     "is_past": false,
     "is_new": false,
+    "month_tag": "",
+    "year": 2026
+  },
+  {
+    "name": "第十三屆赤足(BAREFOOT)馬拉松完成賽",
+    "link": "https://docs.google.com/document/d/1KwhM7VSOKo1keqSXSKp0sGQrtPyv7Hh_/edit?usp=sharing&ouid=110764794774391593445&rtpof=true&sd=true",
+    "date_raw": "12/30 三 15:00",
+    "month": 12,
+    "day": 30,
+    "weekday": "三",
+    "start_time": "15:00",
+    "location": "雲林縣虎尾鎮國立虎尾科技大學",
+    "region": "雲林縣",
+    "distances": [
+      {
+        "label": "42.195K",
+        "fee": 0,
+        "limit": 50
+      }
+    ],
+    "categories": [
+      "全馬"
+    ],
+    "max_km": 42.195,
+    "organizer": "國立虎尾科技大學體育室",
+    "status": "~ 12月17日",
+    "status_raw": "~ 12月17日",
+    "reg_state": "open",
+    "is_past": false,
+    "is_new": true,
     "month_tag": "",
     "year": 2026
   },
@@ -3427,8 +3427,8 @@
     ],
     "max_km": 42.195,
     "organizer": "宜蘭縣四季健跑會",
-    "status": "8月08日 ~ 11月15日 (最後四天)",
-    "status_raw": "8月08日 ~ 11月15日 (最後四天)",
+    "status": "8月08日 ~ 11月15日 (最後三天)",
+    "status_raw": "8月08日 ~ 11月15日 (最後三天)",
     "reg_state": "open",
     "is_past": false,
     "is_new": false,
@@ -4145,8 +4145,8 @@
     ],
     "max_km": 42.195,
     "organizer": "大雅中央獅子會/大雅永興宮",
-    "status": "10月01日 ~ 11月16日 (最後一週)",
-    "status_raw": "10月01日 ~ 11月16日 (最後一週)",
+    "status": "10月01日 ~ 11月16日 (最後四天)",
+    "status_raw": "10月01日 ~ 11月16日 (最後四天)",
     "reg_state": "open",
     "is_past": false,
     "is_new": false,
@@ -4280,35 +4280,35 @@
     "year": 2027
   },
   {
-    "name": "2027 耀動高樹六堆騰飛馬拉松路跑",
-    "link": "",
-    "date_raw": "02/27 六",
+    "name": "2027 耀動高樹六堆騰飛馬拉松",
+    "link": "https://www.joinnow.com.tw/about.php?cnt_id=154&type=1",
+    "date_raw": "02/27 六 06:00",
     "month": 2,
     "day": 27,
     "weekday": "六",
-    "start_time": "",
+    "start_time": "06:00",
     "location": "屏東縣高樹鄉新豐親水公園",
     "region": "屏東縣",
     "distances": [
       {
         "label": "42.195K",
-        "fee": null,
-        "limit": null
+        "fee": 1300,
+        "limit": 600
       },
       {
-        "label": "21K",
-        "fee": null,
-        "limit": null
+        "label": "22K",
+        "fee": 1100,
+        "limit": 600
       },
       {
         "label": "10K",
-        "fee": null,
-        "limit": null
+        "fee": 1000,
+        "limit": 600
       },
       {
         "label": "5K",
-        "fee": null,
-        "limit": null
+        "fee": 600,
+        "limit": 800
       }
     ],
     "categories": [
@@ -4319,11 +4319,11 @@
     ],
     "max_km": 42.195,
     "organizer": "高樹鄉公所",
-    "status": "",
-    "status_raw": "",
+    "status": "11月15日 ~ 12月31日",
+    "status_raw": "11月15日 ~ 12月31日",
     "reg_state": "upcoming",
     "is_past": false,
-    "is_new": false,
+    "is_new": true,
     "month_tag": "",
     "year": 2027
   },
@@ -4673,7 +4673,7 @@
     "status_raw": "",
     "reg_state": "upcoming",
     "is_past": false,
-    "is_new": true,
+    "is_new": false,
     "month_tag": "",
     "year": 2027
   },
@@ -5475,7 +5475,7 @@
     "status_raw": "~ 2月19日",
     "reg_state": "closed",
     "is_past": false,
-    "is_new": true,
+    "is_new": false,
     "month_tag": "",
     "year": 2027
   },
@@ -5754,7 +5754,7 @@
     "status_raw": "11月06日 ~ 2月15日",
     "reg_state": "closed",
     "is_past": false,
-    "is_new": true,
+    "is_new": false,
     "month_tag": "",
     "year": 2027
   },
@@ -6194,7 +6194,7 @@
     "status_raw": "11月01日 ~ 1月31日",
     "reg_state": "closed",
     "is_past": false,
-    "is_new": true,
+    "is_new": false,
     "month_tag": "",
     "year": 2027
   },
@@ -6904,7 +6904,7 @@
     "status_raw": "",
     "reg_state": "upcoming",
     "is_past": false,
-    "is_new": true,
+    "is_new": false,
     "month_tag": "",
     "year": 2027
   },
