@@ -480,9 +480,9 @@
     ],
     "max_km": 5.0,
     "organizer": "捷迅股份有限公司",
-    "status": "11月09日 ~ 11月15日 (最後一天)",
-    "status_raw": "11月09日 ~ 11月15日 (最後一天)",
-    "reg_state": "open",
+    "status": "已截止",
+    "status_raw": "已截止",
+    "reg_state": "closed",
     "is_past": false,
     "is_new": false,
     "month_tag": "",
@@ -1846,7 +1846,7 @@
     "status_raw": "已截止",
     "reg_state": "closed",
     "is_past": false,
-    "is_new": true,
+    "is_new": false,
     "month_tag": "",
     "year": 2026
   },
@@ -1883,9 +1883,9 @@
     ],
     "max_km": 11.0,
     "organizer": "嘉義縣義竹修緣禪寺",
-    "status": "9月11日 ~ 11月15日 (最後一天)",
-    "status_raw": "9月11日 ~ 11月15日 (最後一天)",
-    "reg_state": "open",
+    "status": "已截止",
+    "status_raw": "已截止",
+    "reg_state": "closed",
     "is_past": false,
     "is_new": true,
     "month_tag": "",
@@ -2273,9 +2273,9 @@
     ],
     "max_km": 42.195,
     "organizer": "影流文創/SPORTAIWAN",
-    "status": "~ 11月15日 (最後一天)",
-    "status_raw": "~ 11月15日 (最後一天)",
-    "reg_state": "open",
+    "status": "已截止",
+    "status_raw": "已截止",
+    "reg_state": "closed",
     "is_past": false,
     "is_new": false,
     "month_tag": "",
@@ -2476,8 +2476,8 @@
     ],
     "max_km": 55.0,
     "organizer": "社團法人中華民國超級馬拉松運動協會",
-    "status": "~ 11月18日 (最後四天)",
-    "status_raw": "~ 11月18日 (最後四天)",
+    "status": "~ 11月18日 (最後三天)",
+    "status_raw": "~ 11月18日 (最後三天)",
     "reg_state": "open",
     "is_past": false,
     "is_new": false,
@@ -2691,9 +2691,9 @@
     ],
     "max_km": 42.195,
     "organizer": "南華大學/大林鎮公所",
-    "status": "8月18日 ~ 11月15日 (最後一天)",
-    "status_raw": "8月18日 ~ 11月15日 (最後一天)",
-    "reg_state": "open",
+    "status": "已截止",
+    "status_raw": "已截止",
+    "reg_state": "closed",
     "is_past": false,
     "is_new": false,
     "month_tag": "",
@@ -2866,9 +2866,9 @@
     ],
     "max_km": 21.0,
     "organizer": "有藝思國際娛樂",
-    "status": "9月28日 ~ 11月15日 (最後一天)",
-    "status_raw": "9月28日 ~ 11月15日 (最後一天)",
-    "reg_state": "open",
+    "status": "已截止",
+    "status_raw": "已截止",
+    "reg_state": "closed",
     "is_past": false,
     "is_new": false,
     "month_tag": "",
@@ -3427,9 +3427,9 @@
     ],
     "max_km": 42.195,
     "organizer": "宜蘭縣四季健跑會",
-    "status": "8月08日 ~ 11月15日 (最後一天)",
-    "status_raw": "8月08日 ~ 11月15日 (最後一天)",
-    "reg_state": "open",
+    "status": "已截止",
+    "status_raw": "已截止",
+    "reg_state": "closed",
     "is_past": false,
     "is_new": false,
     "month_tag": "",
@@ -4058,6 +4058,89 @@
     "year": 2027
   },
   {
+    "name": "2027 年臺南全國鐵人三項錦標賽",
+    "link": "",
+    "date_raw": "02/20 六 06:00",
+    "month": 2,
+    "day": 20,
+    "weekday": "六",
+    "start_time": "06:00",
+    "location": "臺南市安平區觀夕平台海域",
+    "region": "臺南市",
+    "distances": [
+      {
+        "label": "51.9K",
+        "fee": null,
+        "limit": null
+      },
+      {
+        "label": "26.15K",
+        "fee": null,
+        "limit": null
+      },
+      {
+        "label": "7.5K",
+        "fee": null,
+        "limit": null
+      },
+      {
+        "label": "5.8K",
+        "fee": null,
+        "limit": null
+      }
+    ],
+    "categories": [
+      "休閒",
+      "全馬",
+      "半馬"
+    ],
+    "max_km": 51.9,
+    "organizer": "中華民國鐵人三項運動協會",
+    "status": "~ 1月20日",
+    "status_raw": "~ 1月20日",
+    "reg_state": "closed",
+    "is_past": false,
+    "is_new": true,
+    "month_tag": "",
+    "year": 2027
+  },
+  {
+    "name": "2027 亞瑟士路跑賽 ASICS RUN",
+    "link": "https://asicsrun.com.tw/",
+    "date_raw": "02/21 日 06:00",
+    "month": 2,
+    "day": 21,
+    "weekday": "日",
+    "start_time": "06:00",
+    "location": "宜蘭縣宜蘭市運動公園",
+    "region": "宜蘭縣",
+    "distances": [
+      {
+        "label": "21K",
+        "fee": null,
+        "limit": null
+      },
+      {
+        "label": "10K",
+        "fee": null,
+        "limit": null
+      }
+    ],
+    "categories": [
+      "10K+",
+      "半馬"
+    ],
+    "max_km": 21.0,
+    "organizer": "ASICS",
+    "status": "已截止",
+    "status_raw": "已截止",
+    "reg_state": "closed",
+    "is_past": false,
+    "is_new": true,
+    "month_tag": "",
+    "year": 2027
+  },
+  {
     "name": "2027 府城英雄馬拉松",
     "link": "https://bao-ming.com/eb/content/7198#33792",
     "date_raw": "02/21 日 06:00",
@@ -4145,8 +4228,8 @@
     ],
     "max_km": 42.195,
     "organizer": "大雅中央獅子會/大雅永興宮",
-    "status": "10月01日 ~ 11月16日 (最後二天)",
-    "status_raw": "10月01日 ~ 11月16日 (最後二天)",
+    "status": "10月01日 ~ 11月16日 (最後一天)",
+    "status_raw": "10月01日 ~ 11月16日 (最後一天)",
     "reg_state": "open",
     "is_past": false,
     "is_new": false,
@@ -4198,42 +4281,6 @@
     "reg_state": "upcoming",
     "is_past": false,
     "is_new": false,
-    "month_tag": "",
-    "year": 2027
-  },
-  {
-    "name": "ASICS RUN 2027 亞瑟士路跑賽",
-    "link": "https://asicsrun.com.tw/",
-    "date_raw": "02/21 日 06:00",
-    "month": 2,
-    "day": 21,
-    "weekday": "日",
-    "start_time": "06:00",
-    "location": "宜蘭縣宜蘭市運動公園",
-    "region": "宜蘭縣",
-    "distances": [
-      {
-        "label": "21K",
-        "fee": null,
-        "limit": null
-      },
-      {
-        "label": "10K",
-        "fee": null,
-        "limit": null
-      }
-    ],
-    "categories": [
-      "10K+",
-      "半馬"
-    ],
-    "max_km": 21.0,
-    "organizer": "ASICS",
-    "status": "已截止",
-    "status_raw": "已截止",
-    "reg_state": "closed",
-    "is_past": false,
-    "is_new": true,
     "month_tag": "",
     "year": 2027
   },
@@ -4752,6 +4799,48 @@
     "reg_state": "closed",
     "is_past": false,
     "is_new": false,
+    "month_tag": "",
+    "year": 2027
+  },
+  {
+    "name": "2027 ZEPRO RUN 全國半程馬拉松 - 新北場",
+    "link": "https://ctrun.tw/ZP2737",
+    "date_raw": "03/07 日 06:00",
+    "month": 3,
+    "day": 7,
+    "weekday": "日",
+    "start_time": "06:00",
+    "location": "新北市板橋區浮洲橋下廣場",
+    "region": "新北市",
+    "distances": [
+      {
+        "label": "21K",
+        "fee": null,
+        "limit": null
+      },
+      {
+        "label": "10K",
+        "fee": null,
+        "limit": null
+      },
+      {
+        "label": "4.5K",
+        "fee": null,
+        "limit": null
+      }
+    ],
+    "categories": [
+      "10K+",
+      "休閒",
+      "半馬"
+    ],
+    "max_km": 21.0,
+    "organizer": "全統運動用品股份有限公司",
+    "status": "11月17日 ~ 12月23日",
+    "status_raw": "11月17日 ~ 12月23日",
+    "reg_state": "upcoming",
+    "is_past": false,
+    "is_new": true,
     "month_tag": "",
     "year": 2027
   },
@@ -5595,7 +5684,7 @@
     "status_raw": "10月01日 ~ 1月17日",
     "reg_state": "closed",
     "is_past": false,
-    "is_new": true,
+    "is_new": false,
     "month_tag": "",
     "year": 2027
   },
@@ -6789,7 +6878,7 @@
     "year": 2027
   },
   {
-    "name": "2027 Taipei City Run 台北城市路跑賽",
+    "name": "2027 Taipei City Run 臺北城市路跑賽",
     "link": "",
     "date_raw": "09/12 日",
     "month": 9,
@@ -6905,6 +6994,42 @@
     "reg_state": "upcoming",
     "is_past": false,
     "is_new": false,
+    "month_tag": "",
+    "year": 2027
+  },
+  {
+    "name": "2027 年新北亞洲盃鐵人三項分齡賽",
+    "link": "",
+    "date_raw": "09/26 日 06:00",
+    "month": 9,
+    "day": 26,
+    "weekday": "日",
+    "start_time": "06:00",
+    "location": "新北市蘆洲區二重疏洪道微風運河",
+    "region": "新北市",
+    "distances": [
+      {
+        "label": "27.15K",
+        "fee": null,
+        "limit": null
+      },
+      {
+        "label": "9.77K",
+        "fee": null,
+        "limit": null
+      }
+    ],
+    "categories": [
+      "休閒",
+      "半馬"
+    ],
+    "max_km": 27.15,
+    "organizer": "中華民國鐵人三項運動協會",
+    "status": "~ 8月20日",
+    "status_raw": "~ 8月20日",
+    "reg_state": "closed",
+    "is_past": false,
+    "is_new": true,
     "month_tag": "",
     "year": 2027
   },
