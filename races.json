@@ -1,200 +1,5 @@
 [
   {
-    "name": "115 年臺中市體育總會理事長盃北區路跑嘉年華",
-    "link": "https://bao-ming.com/eb/content/7180#33684",
-    "date_raw": "11/14 六 05:00",
-    "month": 11,
-    "day": 14,
-    "weekday": "六",
-    "start_time": "05:00",
-    "location": "臺中市北屯區廍子公園",
-    "region": "臺中市",
-    "distances": [
-      {
-        "label": "52.8K",
-        "fee": 1200,
-        "limit": 50
-      },
-      {
-        "label": "42.4K",
-        "fee": 1150,
-        "limit": 300
-      },
-      {
-        "label": "31.6K",
-        "fee": 1100,
-        "limit": 50
-      },
-      {
-        "label": "21.2K",
-        "fee": 900,
-        "limit": 200
-      },
-      {
-        "label": "10.4K",
-        "fee": 700,
-        "limit": 150
-      },
-      {
-        "label": "6.4K",
-        "fee": 500,
-        "limit": 150
-      }
-    ],
-    "categories": [
-      "10K+",
-      "休閒",
-      "全馬",
-      "半馬"
-    ],
-    "max_km": 52.8,
-    "organizer": "臺中市政府運動局/臺中市體育總會",
-    "status": "已截止",
-    "status_raw": "已截止",
-    "reg_state": "closed",
-    "is_past": true,
-    "is_new": false,
-    "month_tag": "11月",
-    "year": 2026
-  },
-  {
-    "name": "2026 竹北半城路跑",
-    "link": "https://irunner.biji.co/2026ZhubeiCityHalfMarathon",
-    "date_raw": "11/14 六 06:00",
-    "month": 11,
-    "day": 14,
-    "weekday": "六",
-    "start_time": "06:00",
-    "location": "新竹縣竹北市夜市廣場",
-    "region": "新竹縣",
-    "distances": [
-      {
-        "label": "21K",
-        "fee": 1480,
-        "limit": 1500
-      },
-      {
-        "label": "12K",
-        "fee": 1280,
-        "limit": 1500
-      },
-      {
-        "label": "4K",
-        "fee": 980,
-        "limit": 1000
-      },
-      {
-        "label": "1K",
-        "fee": 680,
-        "limit": 1000
-      }
-    ],
-    "categories": [
-      "10K+",
-      "休閒",
-      "半馬"
-    ],
-    "max_km": 21.0,
-    "organizer": "新竹縣竹北市公所",
-    "status": "已截止",
-    "status_raw": "已截止",
-    "reg_state": "closed",
-    "is_past": true,
-    "is_new": false,
-    "month_tag": "",
-    "year": 2026
-  },
-  {
-    "name": "2026 冬山河馬拉松",
-    "link": "https://sportaiwan.com/activity/activity_desc.php?activity=180",
-    "date_raw": "11/14 六 06:30",
-    "month": 11,
-    "day": 14,
-    "weekday": "六",
-    "start_time": "06:30",
-    "location": "宜蘭縣冬山鄉冬山火車站",
-    "region": "宜蘭縣",
-    "distances": [
-      {
-        "label": "42.195K",
-        "fee": null,
-        "limit": null
-      },
-      {
-        "label": "21K",
-        "fee": null,
-        "limit": null
-      },
-      {
-        "label": "10K",
-        "fee": null,
-        "limit": null
-      },
-      {
-        "label": "5K",
-        "fee": null,
-        "limit": null
-      }
-    ],
-    "categories": [
-      "10K+",
-      "休閒",
-      "全馬",
-      "半馬"
-    ],
-    "max_km": 42.195,
-    "organizer": "影流文創 SporTaiwan",
-    "status": "已截止",
-    "status_raw": "已截止",
-    "reg_state": "closed",
-    "is_past": true,
-    "is_new": false,
-    "month_tag": "",
-    "year": 2026
-  },
-  {
-    "name": "2026 SUPERACE 黑馬半程馬拉松",
-    "link": "https://bao-ming.com/eb/content/6995#32808",
-    "date_raw": "11/14 六 17:00",
-    "month": 11,
-    "day": 14,
-    "weekday": "六",
-    "start_time": "17:00",
-    "location": "臺北市中山區大佳河濱公園",
-    "region": "臺北市",
-    "distances": [
-      {
-        "label": "21K",
-        "fee": 1280,
-        "limit": null
-      },
-      {
-        "label": "10K",
-        "fee": 1050,
-        "limit": null
-      },
-      {
-        "label": "4K",
-        "fee": 750,
-        "limit": null
-      }
-    ],
-    "categories": [
-      "10K+",
-      "休閒",
-      "半馬"
-    ],
-    "max_km": 21.0,
-    "organizer": "SUPERACE/社團法人台灣體育運動競技協會",
-    "status": "已截止",
-    "status_raw": "已截止",
-    "reg_state": "closed",
-    "is_past": true,
-    "is_new": false,
-    "month_tag": "",
-    "year": 2026
-  },
-  {
     "name": "2026 ZEPRO RUN 全國半程馬拉松-臺南場",
     "link": "http://ctrun.tw/ZP1115",
     "date_raw": "11/15 日 06:00",
@@ -233,7 +38,7 @@
     "reg_state": "closed",
     "is_past": true,
     "is_new": false,
-    "month_tag": "",
+    "month_tag": "11月",
     "year": 2026
   },
   {
@@ -845,7 +650,7 @@
     "status_raw": "已截止",
     "reg_state": "closed",
     "is_past": false,
-    "is_new": false,
+    "is_new": true,
     "month_tag": "",
     "year": 2026
   },
@@ -1577,7 +1382,7 @@
     "status_raw": "已截止",
     "reg_state": "closed",
     "is_past": false,
-    "is_new": false,
+    "is_new": true,
     "month_tag": "",
     "year": 2026
   },
@@ -1704,8 +1509,8 @@
     ],
     "max_km": 50.0,
     "organizer": "動感亞洲活動",
-    "status": "8月09日 ~ 11月20日 (最後一週)",
-    "status_raw": "8月09日 ~ 11月20日 (最後一週)",
+    "status": "8月09日 ~ 11月20日 (最後四天)",
+    "status_raw": "8月09日 ~ 11月20日 (最後四天)",
     "reg_state": "open",
     "is_past": false,
     "is_new": false,
@@ -2476,8 +2281,8 @@
     ],
     "max_km": 55.0,
     "organizer": "社團法人中華民國超級馬拉松運動協會",
-    "status": "~ 11月18日 (最後三天)",
-    "status_raw": "~ 11月18日 (最後三天)",
+    "status": "~ 11月18日 (最後二天)",
+    "status_raw": "~ 11月18日 (最後二天)",
     "reg_state": "open",
     "is_past": false,
     "is_new": false,
@@ -4228,11 +4033,11 @@
     ],
     "max_km": 42.195,
     "organizer": "大雅中央獅子會/大雅永興宮",
-    "status": "10月01日 ~ 11月16日 (最後一天)",
-    "status_raw": "10月01日 ~ 11月16日 (最後一天)",
+    "status": "10月01日 ~ 11月30日",
+    "status_raw": "10月01日 ~ 11月30日",
     "reg_state": "open",
     "is_past": false,
-    "is_new": false,
+    "is_new": true,
     "month_tag": "",
     "year": 2027
   },
@@ -4838,7 +4643,7 @@
     "organizer": "全統運動用品股份有限公司",
     "status": "11月17日 ~ 12月23日",
     "status_raw": "11月17日 ~ 12月23日",
-    "reg_state": "upcoming",
+    "reg_state": "open",
     "is_past": false,
     "is_new": true,
     "month_tag": "",
@@ -5801,7 +5606,7 @@
     "status_raw": "~ 1月29日",
     "reg_state": "closed",
     "is_past": false,
-    "is_new": true,
+    "is_new": false,
     "month_tag": "",
     "year": 2027
   },
@@ -6288,6 +6093,48 @@
     "year": 2027
   },
   {
+    "name": "2027 全國視障公益路跑賽",
+    "link": "",
+    "date_raw": "04/17 六",
+    "month": 4,
+    "day": 17,
+    "weekday": "六",
+    "start_time": "",
+    "location": "臺中市神岡區潭雅神綠園道神岡和平場站",
+    "region": "臺中市",
+    "distances": [
+      {
+        "label": "21K",
+        "fee": null,
+        "limit": null
+      },
+      {
+        "label": "10K",
+        "fee": null,
+        "limit": null
+      },
+      {
+        "label": "5K",
+        "fee": null,
+        "limit": null
+      }
+    ],
+    "categories": [
+      "10K+",
+      "休閒",
+      "半馬"
+    ],
+    "max_km": 21.0,
+    "organizer": "臺中市政府運動局/臺中市政府社會局",
+    "status": "",
+    "status_raw": "",
+    "reg_state": "upcoming",
+    "is_past": false,
+    "is_new": false,
+    "month_tag": "",
+    "year": 2027
+  },
+  {
     "name": "2027 第二屆員山烤雞馬拉松",
     "link": "",
     "date_raw": "04/17 六",
@@ -6327,48 +6174,6 @@
     ],
     "max_km": 42.195,
     "organizer": "影流文創",
-    "status": "",
-    "status_raw": "",
-    "reg_state": "upcoming",
-    "is_past": false,
-    "is_new": false,
-    "month_tag": "",
-    "year": 2027
-  },
-  {
-    "name": "2027 全國視障公益路跑賽",
-    "link": "",
-    "date_raw": "04/17 六",
-    "month": 4,
-    "day": 17,
-    "weekday": "六",
-    "start_time": "",
-    "location": "臺中市神岡區潭雅神綠園道神岡和平場站",
-    "region": "臺中市",
-    "distances": [
-      {
-        "label": "21K",
-        "fee": null,
-        "limit": null
-      },
-      {
-        "label": "10K",
-        "fee": null,
-        "limit": null
-      },
-      {
-        "label": "5K",
-        "fee": null,
-        "limit": null
-      }
-    ],
-    "categories": [
-      "10K+",
-      "休閒",
-      "半馬"
-    ],
-    "max_km": 21.0,
-    "organizer": "臺中市政府運動局/臺中市政府社會局",
     "status": "",
     "status_raw": "",
     "reg_state": "upcoming",
