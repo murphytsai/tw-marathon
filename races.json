@@ -24,7 +24,7 @@
     "status": "已截止",
     "status_raw": "已截止",
     "reg_state": "closed",
-    "is_past": false,
+    "is_past": true,
     "is_new": false,
     "month_tag": "11月",
     "year": 2026
@@ -1245,8 +1245,8 @@
     ],
     "max_km": 50.0,
     "organizer": "動感亞洲活動",
-    "status": "8月09日 ~ 11月20日 (最後三天)",
-    "status_raw": "8月09日 ~ 11月20日 (最後三天)",
+    "status": "8月09日 ~ 11月20日 (最後二天)",
+    "status_raw": "8月09日 ~ 11月20日 (最後二天)",
     "reg_state": "open",
     "is_past": false,
     "is_new": false,
@@ -2017,9 +2017,9 @@
     ],
     "max_km": 55.0,
     "organizer": "社團法人中華民國超級馬拉松運動協會",
-    "status": "~ 11月18日 (最後一天)",
-    "status_raw": "~ 11月18日 (最後一天)",
-    "reg_state": "open",
+    "status": "已截止",
+    "status_raw": "已截止",
+    "reg_state": "closed",
     "is_past": false,
     "is_new": false,
     "month_tag": "",
@@ -2593,8 +2593,8 @@
     ],
     "max_km": 21.0,
     "organizer": "屏東縣政府",
-    "status": "8月14日 ~ 11月21日 (最後四天)",
-    "status_raw": "8月14日 ~ 11月21日 (最後四天)",
+    "status": "8月14日 ~ 11月21日 (最後三天)",
+    "status_raw": "8月14日 ~ 11月21日 (最後三天)",
     "reg_state": "open",
     "is_past": false,
     "is_new": false,
@@ -4297,7 +4297,7 @@
     "status_raw": "~ 1月07日",
     "reg_state": "closed",
     "is_past": false,
-    "is_new": false,
+    "is_new": true,
     "month_tag": "",
     "year": 2027
   },
@@ -5984,7 +5984,7 @@
     "organizer": "新北市政府觀光旅遊局",
     "status": "11月19日 ~ 1月22日",
     "status_raw": "11月19日 ~ 1月22日",
-    "reg_state": "upcoming",
+    "reg_state": "closed",
     "is_past": false,
     "is_new": false,
     "month_tag": "",
@@ -6662,6 +6662,54 @@
     "is_past": false,
     "is_new": false,
     "month_tag": "11月",
+    "year": 2027
+  },
+  {
+    "name": "屏東墾丁日本航空國際馬拉松",
+    "link": "",
+    "date_raw": "11/21 日",
+    "month": 11,
+    "day": 21,
+    "weekday": "日",
+    "start_time": "",
+    "location": "大灣遊憩區",
+    "region": "其他",
+    "distances": [
+      {
+        "label": "42.195K",
+        "fee": null,
+        "limit": null
+      },
+      {
+        "label": "21.0975K",
+        "fee": null,
+        "limit": null
+      },
+      {
+        "label": "12K",
+        "fee": null,
+        "limit": null
+      },
+      {
+        "label": "4K",
+        "fee": null,
+        "limit": null
+      }
+    ],
+    "categories": [
+      "10K+",
+      "休閒",
+      "全馬",
+      "半馬"
+    ],
+    "max_km": 42.195,
+    "organizer": "屏東縣政府",
+    "status": "",
+    "status_raw": "",
+    "reg_state": "upcoming",
+    "is_past": false,
+    "is_new": true,
+    "month_tag": "",
     "year": 2027
   }
 ]
