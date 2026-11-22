@@ -1,35 +1,5 @@
 [
   {
-    "name": "最強市民飆5K－新北市5000公尺挑戰賽 十一月場",
-    "link": "http://esg.soonest.com/Home/Index",
-    "date_raw": "11/18 三 18:30",
-    "month": 11,
-    "day": 18,
-    "weekday": "三",
-    "start_time": "18:30",
-    "location": "新北市板橋區第一運動場",
-    "region": "新北市",
-    "distances": [
-      {
-        "label": "5K",
-        "fee": 0,
-        "limit": null
-      }
-    ],
-    "categories": [
-      "休閒"
-    ],
-    "max_km": 5.0,
-    "organizer": "捷迅股份有限公司",
-    "status": "已截止",
-    "status_raw": "已截止",
-    "reg_state": "closed",
-    "is_past": true,
-    "is_new": false,
-    "month_tag": "11月",
-    "year": 2026
-  },
-  {
     "name": "2026 宜蘭冬山河超級馬拉松",
     "link": "https://www.ctau.org.tw/news/2026-11-20-21-%e5%ae%9c%e8%98%ad%e5%86%ac%e5%b1%b1%e6%b2%b3%e8%b6%85%e7%b4%9a%e9%a6%ac%e6%8b%89%e6%9d%be/",
     "date_raw": "11/20 五 21:00",
@@ -89,7 +59,7 @@
     "reg_state": "closed",
     "is_past": true,
     "is_new": false,
-    "month_tag": "",
+    "month_tag": "11月",
     "year": 2026
   },
   {
@@ -337,7 +307,7 @@
     "status": "已截止",
     "status_raw": "已截止",
     "reg_state": "closed",
-    "is_past": false,
+    "is_past": true,
     "is_new": false,
     "month_tag": "",
     "year": 2026
@@ -373,7 +343,7 @@
     "status": "已截止",
     "status_raw": "已截止",
     "reg_state": "closed",
-    "is_past": false,
+    "is_past": true,
     "is_new": false,
     "month_tag": "",
     "year": 2026
@@ -421,7 +391,7 @@
     "status": "已截止",
     "status_raw": "已截止",
     "reg_state": "closed",
-    "is_past": false,
+    "is_past": true,
     "is_new": true,
     "month_tag": "",
     "year": 2026
@@ -469,7 +439,7 @@
     "status": "",
     "status_raw": "",
     "reg_state": "upcoming",
-    "is_past": false,
+    "is_past": true,
     "is_new": false,
     "month_tag": "",
     "year": 2026
@@ -2593,9 +2563,9 @@
     ],
     "max_km": 21.0,
     "organizer": "屏東縣政府",
-    "status": "8月14日 ~ 11月21日 (最後一天)",
-    "status_raw": "8月14日 ~ 11月21日 (最後一天)",
-    "reg_state": "open",
+    "status": "已截止",
+    "status_raw": "已截止",
+    "reg_state": "closed",
     "is_past": false,
     "is_new": false,
     "month_tag": "1月",
@@ -5441,36 +5411,6 @@
     "year": 2027
   },
   {
-    "name": "2027 IRONKIDS 澎湖國際小鐵人三項賽",
-    "link": "https://www.taiwantriathlon.com/pages/im2027",
-    "date_raw": "04/10 六",
-    "month": 4,
-    "day": 10,
-    "weekday": "六",
-    "start_time": "",
-    "location": "澎湖縣馬公市嵵裡國小",
-    "region": "澎湖縣",
-    "distances": [
-      {
-        "label": "0.2K+1.6K",
-        "fee": null,
-        "limit": null
-      }
-    ],
-    "categories": [
-      "休閒"
-    ],
-    "max_km": 0.2,
-    "organizer": "LAVA 鐵人公司",
-    "status": "",
-    "status_raw": "",
-    "reg_state": "upcoming",
-    "is_past": false,
-    "is_new": false,
-    "month_tag": "",
-    "year": 2027
-  },
-  {
     "name": "2027 第八屆BC臺灣柏釧公益路跑",
     "link": "https://lohasnet.tw/#/event",
     "date_raw": "04/10 六",
@@ -5509,6 +5449,36 @@
     ],
     "max_km": 21.0,
     "organizer": "彰化縣體育會/臺灣柏釧企業股份有限公司",
+    "status": "",
+    "status_raw": "",
+    "reg_state": "upcoming",
+    "is_past": false,
+    "is_new": false,
+    "month_tag": "",
+    "year": 2027
+  },
+  {
+    "name": "2027 IRONKIDS 澎湖國際小鐵人三項賽",
+    "link": "https://www.taiwantriathlon.com/pages/im2027",
+    "date_raw": "04/10 六",
+    "month": 4,
+    "day": 10,
+    "weekday": "六",
+    "start_time": "",
+    "location": "澎湖縣馬公市嵵裡國小",
+    "region": "澎湖縣",
+    "distances": [
+      {
+        "label": "0.2K+1.6K",
+        "fee": null,
+        "limit": null
+      }
+    ],
+    "categories": [
+      "休閒"
+    ],
+    "max_km": 0.2,
+    "organizer": "LAVA 鐵人公司",
     "status": "",
     "status_raw": "",
     "reg_state": "upcoming",
