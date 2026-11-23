@@ -392,7 +392,7 @@
     "status_raw": "已截止",
     "reg_state": "closed",
     "is_past": true,
-    "is_new": true,
+    "is_new": false,
     "month_tag": "",
     "year": 2026
   },
@@ -961,7 +961,7 @@
     "year": 2026
   },
   {
-    "name": "2026 虎頭埤168半程馬拉松",
+    "name": "*2026 虎頭埤168半程馬拉松*",
     "link": "",
     "date_raw": "12/06 日 06:00",
     "month": 12,
@@ -998,7 +998,7 @@
     "status_raw": "",
     "reg_state": "upcoming",
     "is_past": false,
-    "is_new": false,
+    "is_new": true,
     "month_tag": "",
     "year": 2026
   },
@@ -1046,7 +1046,7 @@
     "status_raw": "已截止",
     "reg_state": "closed",
     "is_past": false,
-    "is_new": true,
+    "is_new": false,
     "month_tag": "",
     "year": 2026
   },
@@ -2700,8 +2700,8 @@
     ],
     "max_km": 35.0,
     "organizer": "SUPERACE/社團法人臺灣體育運動競技協會",
-    "status": "8月04日 ~ 11月26日 (最後一週)",
-    "status_raw": "8月04日 ~ 11月26日 (最後一週)",
+    "status": "8月04日 ~ 11月26日 (最後四天)",
+    "status_raw": "8月04日 ~ 11月26日 (最後四天)",
     "reg_state": "open",
     "is_past": false,
     "is_new": false,
@@ -3647,7 +3647,7 @@
     "status_raw": "已截止",
     "reg_state": "closed",
     "is_past": false,
-    "is_new": true,
+    "is_new": false,
     "month_tag": "",
     "year": 2027
   },
@@ -4784,6 +4784,54 @@
     "reg_state": "open",
     "is_past": false,
     "is_new": false,
+    "month_tag": "",
+    "year": 2027
+  },
+  {
+    "name": "第十一屆馬祖北竿硬地超級馬拉松",
+    "link": "https://ctrun.tw/BG0320",
+    "date_raw": "03/20 六",
+    "month": 3,
+    "day": 20,
+    "weekday": "六",
+    "start_time": "",
+    "location": "北竿綜合運動場(連江縣北竿鄉)",
+    "region": "其他",
+    "distances": [
+      {
+        "label": "50K",
+        "fee": null,
+        "limit": null
+      },
+      {
+        "label": "25K",
+        "fee": null,
+        "limit": null
+      },
+      {
+        "label": "12.5K",
+        "fee": null,
+        "limit": null
+      },
+      {
+        "label": "5K",
+        "fee": null,
+        "limit": null
+      }
+    ],
+    "categories": [
+      "10K+",
+      "休閒",
+      "全馬",
+      "半馬"
+    ],
+    "max_km": 50.0,
+    "organizer": "連江縣交通旅遊局",
+    "status": "11月24日 ~ 1月07日",
+    "status_raw": "11月24日 ~ 1月07日",
+    "reg_state": "upcoming",
+    "is_past": false,
+    "is_new": true,
     "month_tag": "",
     "year": 2027
   },
@@ -6242,7 +6290,7 @@
     "status_raw": "11月12日 ~ 4月15日",
     "reg_state": "closed",
     "is_past": false,
-    "is_new": true,
+    "is_new": false,
     "month_tag": "",
     "year": 2027
   },
@@ -6420,7 +6468,7 @@
     "status_raw": "",
     "reg_state": "upcoming",
     "is_past": false,
-    "is_new": true,
+    "is_new": false,
     "month_tag": "9月",
     "year": 2027
   },
