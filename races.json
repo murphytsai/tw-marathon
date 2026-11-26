@@ -2255,8 +2255,8 @@
     ],
     "max_km": 35.0,
     "organizer": "SUPERACE/社團法人臺灣體育運動競技協會",
-    "status": "8月04日 ~ 11月26日 (最後二天)",
-    "status_raw": "8月04日 ~ 11月26日 (最後二天)",
+    "status": "8月04日 ~ 11月26日 (最後一天)",
+    "status_raw": "8月04日 ~ 11月26日 (最後一天)",
     "reg_state": "open",
     "is_past": false,
     "is_new": false,
@@ -3124,7 +3124,7 @@
     "year": 2027
   },
   {
-    "name": "2027臺北超級馬拉松",
+    "name": "2027 臺北超級馬拉松",
     "link": "https://www.ctau.org.tw/news/2027-02-19-21%e8%87%ba%e5%8c%97%e8%b6%85%e7%b4%9a%e9%a6%ac%e6%8b%89%e6%9d%be/",
     "date_raw": "02/19 五",
     "month": 2,
@@ -3883,7 +3883,7 @@
     "status_raw": "~ 1月07日",
     "reg_state": "closed",
     "is_past": false,
-    "is_new": true,
+    "is_new": false,
     "month_tag": "",
     "year": 2027
   },
@@ -6053,6 +6053,54 @@
     "year": 2027
   },
   {
+    "name": "2027 聖母廟月老姻緣紅線牽馬拉松",
+    "link": "",
+    "date_raw": "08/07 六 16:00",
+    "month": 8,
+    "day": 7,
+    "weekday": "六",
+    "start_time": "16:00",
+    "location": "台南市安南區正統鹿耳門聖母廟",
+    "region": "其他",
+    "distances": [
+      {
+        "label": "42.195K",
+        "fee": null,
+        "limit": null
+      },
+      {
+        "label": "21.0975K",
+        "fee": null,
+        "limit": null
+      },
+      {
+        "label": "10K",
+        "fee": null,
+        "limit": null
+      },
+      {
+        "label": "5K",
+        "fee": null,
+        "limit": null
+      }
+    ],
+    "categories": [
+      "10K+",
+      "休閒",
+      "全馬",
+      "半馬"
+    ],
+    "max_km": 42.195,
+    "organizer": "府城國際超級馬拉松協會",
+    "status": "",
+    "status_raw": "",
+    "reg_state": "upcoming",
+    "is_past": false,
+    "is_new": true,
+    "month_tag": "8月",
+    "year": 2027
+  },
+  {
     "name": "2027 Taipei City Run 臺北城市路跑賽",
     "link": "",
     "date_raw": "09/12 日",
@@ -6342,7 +6390,7 @@
     "status_raw": "",
     "reg_state": "upcoming",
     "is_past": false,
-    "is_new": true,
+    "is_new": false,
     "month_tag": "",
     "year": 2027
   }
