@@ -1962,8 +1962,8 @@
     ],
     "max_km": 67.0,
     "organizer": "中華長跑協會",
-    "status": "~ 11月30日 (最後一週)",
-    "status_raw": "~ 11月30日 (最後一週)",
+    "status": "~ 11月30日 (最後四天)",
+    "status_raw": "~ 11月30日 (最後四天)",
     "reg_state": "open",
     "is_past": false,
     "is_new": false,
@@ -2255,9 +2255,9 @@
     ],
     "max_km": 35.0,
     "organizer": "SUPERACE/社團法人臺灣體育運動競技協會",
-    "status": "8月04日 ~ 11月26日 (最後一天)",
-    "status_raw": "8月04日 ~ 11月26日 (最後一天)",
-    "reg_state": "open",
+    "status": "已截止",
+    "status_raw": "已截止",
+    "reg_state": "closed",
     "is_past": false,
     "is_new": false,
     "month_tag": "",
@@ -2523,8 +2523,8 @@
     ],
     "max_km": 9.0,
     "organizer": "南投縣仁愛鄉公所",
-    "status": "~ 11月30日 (最後一週)",
-    "status_raw": "~ 11月30日 (最後一週)",
+    "status": "~ 11月30日 (最後四天)",
+    "status_raw": "~ 11月30日 (最後四天)",
     "reg_state": "open",
     "is_past": false,
     "is_new": false,
@@ -2926,8 +2926,8 @@
     ],
     "max_km": 42.195,
     "organizer": "臺中市電腦商業同業公會/臺灣大腳丫長跑協會",
-    "status": "7月15日 ~ 11月30日 (最後一週)",
-    "status_raw": "7月15日 ~ 11月30日 (最後一週)",
+    "status": "7月15日 ~ 11月30日 (最後四天)",
+    "status_raw": "7月15日 ~ 11月30日 (最後四天)",
     "reg_state": "open",
     "is_past": false,
     "is_new": false,
@@ -3024,6 +3024,48 @@
     "year": 2027
   },
   {
+    "name": "2027 真武山翡翠水庫超級馬拉松",
+    "link": "",
+    "date_raw": "02/10 三 06:00",
+    "month": 2,
+    "day": 10,
+    "weekday": "三",
+    "start_time": "06:00",
+    "location": "新北市新店區真武山受玄宮",
+    "region": "新北市",
+    "distances": [
+      {
+        "label": "44K",
+        "fee": null,
+        "limit": null
+      },
+      {
+        "label": "25K",
+        "fee": null,
+        "limit": null
+      },
+      {
+        "label": "12K",
+        "fee": null,
+        "limit": null
+      }
+    ],
+    "categories": [
+      "10K+",
+      "全馬",
+      "半馬"
+    ],
+    "max_km": 44.0,
+    "organizer": "真武山受玄宮",
+    "status": "",
+    "status_raw": "",
+    "reg_state": "upcoming",
+    "is_past": false,
+    "is_new": true,
+    "month_tag": "2月",
+    "year": 2027
+  },
+  {
     "name": "2027 臺南保生盃全國馬拉松",
     "link": "https://irunner.biji.co/BaoSheng2027",
     "date_raw": "02/14 日",
@@ -3072,7 +3114,7 @@
     "reg_state": "upcoming",
     "is_past": false,
     "is_new": true,
-    "month_tag": "2月",
+    "month_tag": "",
     "year": 2027
   },
   {
@@ -3115,8 +3157,8 @@
     ],
     "max_km": 42.195,
     "organizer": "南投縣仁愛鄉公所",
-    "status": "~ 11月30日 (最後一週)",
-    "status_raw": "~ 11月30日 (最後一週)",
+    "status": "~ 11月30日 (最後四天)",
+    "status_raw": "~ 11月30日 (最後四天)",
     "reg_state": "open",
     "is_past": false,
     "is_new": false,
@@ -3403,8 +3445,8 @@
     ],
     "max_km": 42.195,
     "organizer": "大雅中央獅子會/大雅永興宮",
-    "status": "10月01日 ~ 11月30日 (最後一週)",
-    "status_raw": "10月01日 ~ 11月30日 (最後一週)",
+    "status": "10月01日 ~ 11月30日 (最後四天)",
+    "status_raw": "10月01日 ~ 11月30日 (最後四天)",
     "reg_state": "open",
     "is_past": false,
     "is_new": false,
@@ -5959,7 +6001,7 @@
   },
   {
     "name": "2027 將軍漁港馬拉松",
-    "link": "",
+    "link": "https://bao-ming.com/eb/content/7280#34630",
     "date_raw": "05/23 日 06:00",
     "month": 5,
     "day": 23,
@@ -5970,23 +6012,23 @@
     "distances": [
       {
         "label": "42.195K",
-        "fee": null,
-        "limit": null
+        "fee": 1200,
+        "limit": 800
       },
       {
         "label": "21.0975K",
-        "fee": null,
-        "limit": null
+        "fee": 950,
+        "limit": 400
       },
       {
         "label": "10K",
-        "fee": null,
-        "limit": null
+        "fee": 750,
+        "limit": 400
       },
       {
         "label": "5K",
-        "fee": null,
-        "limit": null
+        "fee": 450,
+        "limit": 380
       }
     ],
     "categories": [
@@ -5997,11 +6039,11 @@
     ],
     "max_km": 42.195,
     "organizer": "府城國際超級馬拉松協會",
-    "status": "",
-    "status_raw": "",
-    "reg_state": "upcoming",
+    "status": "11月27日 ~ 4月23日",
+    "status_raw": "11月27日 ~ 4月23日",
+    "reg_state": "closed",
     "is_past": false,
-    "is_new": false,
+    "is_new": true,
     "month_tag": "",
     "year": 2027
   },
